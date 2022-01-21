@@ -24,13 +24,9 @@ jobs:
           git add .
           git stash
           git checkout -b data
-<<<<<<< Updated upstream
-          git cherry-pick ${{ env.CURRENT_BRANCH}}
-=======
           rm ./data/*
           git stash pop
           git add . 
           git commit -m "Update the data"
->>>>>>> Stashed changes
           git push -u origin HEAD
 
