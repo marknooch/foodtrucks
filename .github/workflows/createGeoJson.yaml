@@ -24,6 +24,7 @@ jobs:
           git add .
           git stash
           git checkout -b data
+          ls
           rm /data/*
           git stash pop
           git add . 
