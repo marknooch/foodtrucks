@@ -4,6 +4,7 @@ new-item "../../data" -itemtype Container -Force
 # get the permits file and filter to ones that are approved
 Invoke-WebRequest -Uri "https://data.sfgov.org/api/views/rqzj-sfat/rows.csv" -OutFile ./permits.csv
 $permits = Import-Csv "../../data/permits.csv" | where-object { $_.Status -eq "APPROVED" }  
+write-host "Downloaded and imported the permits"
 
 # get the schedules file and filter to ones that are open now
 Invoke-WebRequest -Uri "https://data.sfgov.org/api/views/jjew-r69b/rows.csv" -OutFile ./schedules.csv
@@ -14,10 +15,12 @@ $schedulesNo2400s = foreach ($schedule in $schedules) {
     $schedule
 }
 $ScheduledFoodTrucks = $schedulesNo2400s | Where-Object {$_.start24 -le $timeOfDay} | Where-Object {$timeOfDay -le $_.end24}
+write-host "Downloaded and imported the schedules"
 
 # join the two objects together to find all of the approved food trucks that are open right now --- save that output
 $openFoodTrucks = $permits | InnerJoin-Object $ScheduledFoodTrucks -On permit
 Export-Csv -InputObject $openFoodTrucks -Path "../../data/openfoodtrucks.csv"
+write-host "created the open food trucks"
 
 # now produce the GeoJSON
 $features = foreach ($foodTruck in $openFoodTrucks) {
@@ -37,4 +40,5 @@ $featureCollection = @{
     type = "FeatureCollection"
     features = $features
 }
-ConvertTo-Json -InputObject $featureCollection -Depth 100 > ./openFoodTrucks.json
+ConvertTo-Json -InputObject $featureCollection -Depth 100 > "../../data/openFoodTrucks.json"
+write-host "produced the open food trucks json"
