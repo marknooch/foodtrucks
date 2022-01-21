@@ -12,12 +12,12 @@ jobs:
         uses: actions/checkout@v2
       - name: produce geojson
         shell: pwsh
-        run: ./createGeoJson.yaml
+        run: ./createGeoJson.ps1
         working-directory: ./.github/workflows
       - name: set CURRENT_BRANCH
         run: echo "CURRENT_BRANCH=$(git rev-parse --abbrev-ref HEAD)" >> $GITHUB_ENV
       - name: commit files
-        working-directory: ./
+        working-directory: ./data
         run: |
           git config --global user.name 'atlantis-green'
           git config --global user.email 'atlantis-green@users.noreply.github.com'
