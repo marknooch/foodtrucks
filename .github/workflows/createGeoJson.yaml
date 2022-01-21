@@ -24,6 +24,6 @@ jobs:
           git add .
           git commit -m "Update data"
           git checkout -b data
-          git cherry-pick ${{ env.CURRENT_BRANCH}} --strategy=theirs
+          git cherry-pick ${{ env.CURRENT_BRANCH}}
           git push -u origin HEAD
 
