@@ -11,6 +11,7 @@ write-host "Downloaded and imported the permits"
 $schedulespath = "../../data/schedules.csv"
 Invoke-WebRequest -Uri "https://data.sfgov.org/api/views/jjew-r69b/rows.csv" -OutFile $schedulespath
 $dayOfWeek = (get-date).DayOfWeek
+$timeOfDay = (get-date).TimeOfDay
 $schedules = import-csv $schedulespath | where-object { $_.DayOfWeekStr -eq $dayOfWeek }
 $schedulesNo2400s = foreach ($schedule in $schedules) {
     if($schedule.end24 -eq "24:00") {$schedule.end24 = "23:59"}
