@@ -1,0 +1,28 @@
+name: createGeoJson
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/15 * * * *'
+  
+jobs:
+  createGeoJson-job:
+    runs-on: ubuntu-latest
+    steps: 
+      - name: checkout
+        uses: actions/checkout@v2
+      - name: produce geojson
+        shell: pwsh
+        run: ./createGeoJson.yaml
+        working-directory: ./.github/workflows
+      - name: set CURRENT_BRANCH
+        run: echo "CURRENT_BRANCH=$(git rev-parse --abbrev-ref HEAD)" >> $GITHUB_ENV
+      - name: commit files
+        run: |
+          git config --global user.name 'atlantis-green'
+          git config --global user.email 'atlantis-green@users.noreply.github.com'
+          git add .
+          git commit -m "Update data"
+          git checkout -b data
+          git cherry-pick ${{ env.CURRENT_BRANCH}} --strategy=ours
+          git push -u origin HEAD
+
