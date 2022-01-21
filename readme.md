@@ -16,4 +16,8 @@ I found some foodtruck data on the internet and I'd like to demonstrate how we c
 
 # Configure your local development environment
 
-I used VS Code and the [AWS Toolkit](https://aws.amazon.com/visualstudiocode/) extension to develop this.  Configure your AWS credentials using the toolkit.  Enter the `terraform-bootstrap` directory and `terraform apply` to create the s3 backend bucket.  I decided to not use atlantis to create the s3 backend for the state for the app because I was concerned about a circular dependency.  Some poeple use [custom workflows in Atlantis](https://www.runatlantis.io/docs/custom-workflows.html#use-cases) to store terraform state files in a backend consistently.  I would look into this if I were building out Atlantis for a large group of people to use together to reduce the configuration duplication, developer friction, and huamn error risk associated with not storing terraform's state appropriately.
+I used VS Code, the [AWS Toolkit](https://aws.amazon.com/visualstudiocode/) and [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) extensions to develop this.  
+1.  Configure your AWS credentials using the toolkit.  
+2.  Enter the `terraform-bootstrap` directory and `terraform apply` to create the s3 backend bucket.  
+
+I decided to not use atlantis to create the s3 backend for the state for the app because I was concerned about a circular dependency.  Some poeple use [custom workflows in Atlantis](https://www.runatlantis.io/docs/custom-workflows.html#use-cases) to store terraform state files in a backend consistently.  I would look into this if I were building out Atlantis for a large group of people to use together to reduce the configuration duplication, developer friction, and huamn error risk associated with not storing terraform's state appropriately.
