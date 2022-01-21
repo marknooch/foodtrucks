@@ -16,7 +16,7 @@ I found some foodtruck data on the internet and I'd like to demonstrate how we c
 
 # Configure your local development environment
 
-I used VS Code, the [AWS Toolkit](https://aws.amazon.com/visualstudiocode/) and [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) extensions to develop this.  
+I used VS Code and [the recommended extensions](.vscode/extensions.json) to develop this.  
 1.  Configure your AWS credentials using the toolkit.  
 2.  Enter the `terraform-bootstrap` directory and `terraform apply` to create the s3 backend bucket.  
 
