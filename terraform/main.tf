@@ -4,6 +4,16 @@ terraform {
       key = "faf-tfstate"
       region = "us-east-2" # variables are not allowed in backend config
   }
+  required_providers {
+    aws = {
+      source  = "hashicorp/aws"
+      version = "~> 3.0"
+    }
+    github = {
+      source  = "integrations/github"
+      version = "~> 4.0"
+    }
+  }
 }
 
 provider "aws" {
@@ -18,6 +28,23 @@ resource "aws_s3_bucket" "s3_home" {
     index_document = "index.html"
     error_document = "error.html"
   }
+}
+
+data "aws_iam_policy_document" "public-read" {
+  statement {
+    principals {
+      type = "Group"
+      identifiers = [ "http://acs.amazonaws.com/groups/global/AllUsers" ]
+    }
+  }
+  actions = [ "s3:GetObject", "s3:GetObjectVersion", "s3:ListBucket"]
+  resources = ["${aws_s3_bucket.s3_home.arn}/*"]
+}
+
+resource "aws_s3_bucket_policy" "public-read" {
+  bucket = aws_s3_bucket.s3_home.id
+  policy = data.aws_iam_policy_document.public-read.json 
+  
 }
 
 # grant access to bucket github actions
@@ -64,7 +91,7 @@ resource "github_actions_secret" "AWS_SECRET_ACCESS_KEY" {
 }
 
 # this is a hack.  By doing this I can let the terraform region dictate the region that we use in the github actions.  
-# I suspect there's a better and more transparent way of doing this.
+# Ideally we'd obtain these non-secret values from the files themselves and avoid this circling back approach I used here.
 resource "github_actions_secret" "AWS_REGION" {
   repository = data.github_repository.repo.name
   secret_name             = "AWS_REGION"
