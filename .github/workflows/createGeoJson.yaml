@@ -12,24 +12,30 @@ jobs:
       - name: checkout
         uses: actions/checkout@v2
       - name: produce geojson
+        id: produce-geojson
         shell: pwsh
         run: ./createGeoJson.ps1
         working-directory: ./.github/workflows
-      - name: set CURRENT_BRANCH
-        run: echo "CURRENT_BRANCH=$(git rev-parse --abbrev-ref HEAD)" >> $GITHUB_ENV
-      - name: commit files
-        working-directory: ./     
+      - name: set CURRENT_BRANCH and do git prep steps
+        if: always()
         run: |
+          echo "CURRENT_BRANCH=$(git rev-parse --abbrev-ref HEAD)" >> $GITHUB_ENV
           git config --global user.name 'atlantis-green'
           git config --global user.email 'atlantis-green@users.noreply.github.com'
           git add .
           git commit -m "Update the data"
           git fetch
-          git switch data
+      - name: commit files to data branch   
+        run: git switch data
+      - name: commit files to the error branch if produce-geojson failed
+        if:  ${{ steps.produce-geojson.conclusion -eq "failure"}}
+        run: git switch error
+      - name: finish committing the stuff
+        if: always()
+        run:
           cd ./data
           rm * -r
           git cherry-pick ${{ env.CURRENT_BRANCH }} --strategy-option=theirs
           git add . 
           git commit -m "Update the data"
           git push -u origin HEAD
-
