@@ -42,5 +42,5 @@ jobs:
       - name: confirm we produced valid GeoJSON
         uses: nhalstead/validate-json-action@0.1.3
         with:
-          INPUT_SCHEMA: ./GeoJSON.json
-          INPUT_JSONS: /data/openFoodTrucks.json
+          schema: ./GeoJSON.json
+          jsons: /data/openFoodTrucks.json
