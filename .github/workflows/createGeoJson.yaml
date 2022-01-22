@@ -32,7 +32,7 @@ jobs:
         run: git switch error
       - name: finish committing the stuff
         if: always()
-        run:
+        run: |
           cd ./data
           rm * -r
           git cherry-pick ${{ env.CURRENT_BRANCH }} --strategy-option=theirs
