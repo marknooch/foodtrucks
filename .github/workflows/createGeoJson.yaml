@@ -25,7 +25,8 @@ jobs:
           git status
           git add .
           git stash
-          git remote -v
+          git branch
+          git status
           git switch data
           cd ./data
           rm * -r
