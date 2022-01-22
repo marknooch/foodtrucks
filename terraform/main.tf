@@ -35,8 +35,8 @@ data "aws_iam_policy_document" "github-actions" {
             type = "AWS"
             identifiers = [aws_iam_user.github-actions.arn]
         }
-        actions = [ "s3:*"]
-        resources = [aws_s3_bucket.s3_home.arn]
+        actions = ["s3:*"]
+        resources = ["${aws_s3_bucket.s3_home.arn}/*"]
     }
 }
 
