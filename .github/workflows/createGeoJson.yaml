@@ -19,6 +19,7 @@ jobs:
         run: echo "CURRENT_BRANCH=$(git rev-parse --abbrev-ref HEAD)" >> $GITHUB_ENV
       - name: commit files
         working-directory: ./
+        shell: pwsh        
         run: |
           git config --global user.name 'atlantis-green'
           git config --global user.email 'atlantis-green@users.noreply.github.com'
