@@ -36,8 +36,6 @@ jobs:
           cd ./data
           rm * -r
           git cherry-pick ${{ env.CURRENT_BRANCH }} --strategy-option=theirs
-          git add . 
-          git commit -m "Update the data"
           git push -u origin HEAD
       - name: download the geojson schema
         run: curl https://geojson.org/schema/GeoJSON.json --output GeoJSON.json
