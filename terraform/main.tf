@@ -52,13 +52,13 @@ data "github_repository" "repo" {
 }
 
 resource "github_actions_secret" "AWS_ACCESS_KEY_ID" {
-  repository = data.github_repository.repo.full_name
+  repository = data.github_repository.repo.name
   secret_name = "AWS_ACCESS_KEY_ID"
   plaintext_value         = aws_iam_access_key.github-actions.id
 }
 
 resource "github_actions_secret" "AWS_SECRET_ACCESS_KEY" {
-  repository = data.github_repository.repo.full_name
+  repository = data.github_repository.repo.name
   secret_name             = "AWS_SECRET_ACCESS_KEY"
   plaintext_value         = aws_iam_access_key.github-actions.secret
 }
@@ -66,7 +66,7 @@ resource "github_actions_secret" "AWS_SECRET_ACCESS_KEY" {
 # this is a hack.  By doing this I can let the terraform region dictate the region that we use in the github actions.  
 # I suspect there's a better and more transparent way of doing this.
 resource "github_actions_secret" "AWS_REGION" {
-  repository = data.github_repository.repo.full_name
+  repository = data.github_repository.repo.name
   secret_name             = "AWS_REGION"
   plaintext_value         = var.region
 }
