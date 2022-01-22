@@ -21,3 +21,7 @@ I used VS Code and [the recommended extensions](.vscode/extensions.json) to deve
 2.  Enter the `terraform-bootstrap` directory and `terraform apply` to create the s3 backend bucket.  
 
 I decided to not use atlantis to create the s3 backend for the state for the app because I was concerned about a circular dependency.  Some poeple use [custom workflows in Atlantis](https://www.runatlantis.io/docs/custom-workflows.html#use-cases) to store terraform state files in a backend consistently.  I would look into this if I were building out Atlantis for a large group of people to use together to reduce the configuration duplication, developer friction, and huamn error risk associated with not storing terraform's state appropriately.
+
+# Things I'd do differently if I had more time
+
+* I'd write the script that commits the files to the data branch to only commit data to the data branch if it were running from the main branch.  If it were running from any other branch, it'd commit the files to the data-branchname branch.  The current config could easily split brain.
