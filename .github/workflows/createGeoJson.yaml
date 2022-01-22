@@ -4,11 +4,12 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '*/15 * * * *'
-  
+
 jobs:
   createGeoJson-job:
     runs-on: ubuntu-latest
-    steps: 
+    steps:
+      # prepare and save the files in git
       - name: checkout
         uses: actions/checkout@v2
       - name: produce geojson
@@ -25,7 +26,7 @@ jobs:
           git add .
           git commit -m "Update the data"
           git fetch
-      - name: commit files to data branch   
+      - name: commit files to data branch
         run: git switch data
       - name: commit files to the error branch if produce-geojson failed
         if:  ${{ steps.produce-geojson.conclusion == 'failure'}}
@@ -39,8 +40,21 @@ jobs:
           git push -u origin HEAD
       - name: download the geojson schema
         run: curl https://geojson.org/schema/GeoJSON.json --output ./GeoJSON.json
-      - name: confirm we produced valid GeoJSON
-        uses: nhalstead/validate-json-action@0.1.3
-        with:
-          schema: ./GeoJSON.json
-          jsons: /data/openFoodTrucks.json
+# commented out -- more details in #11 -- https://github.com/marknooch/foodtrucks/issues/11
+#      - name: confirm we produced valid GeoJSON
+#        uses: nhalstead/validate-json-action@0.1.3
+#        with:
+#          schema: ./GeoJSON.json
+#          jsons: /data/openFoodTrucks.json
+      
+      # now we move the files to s3
+      # - name: configure aws credentials
+      #   uses: aws-actions/configure-aws-credentials@v1
+      #   with:
+      #     aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+      #     aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+      #     aws-region: east-us-2
+      # - name: deploy data to s3
+      #   run: aws s3 sync ./data/ s3://terraform-20220121192859548500000001
+
+
