@@ -38,9 +38,9 @@ jobs:
           git cherry-pick ${{ env.CURRENT_BRANCH }} --strategy-option=theirs
           git push -u origin HEAD
       - name: download the geojson schema
-        run: curl https://geojson.org/schema/GeoJSON.json --output GeoJSON.json
+        run: curl https://geojson.org/schema/GeoJSON.json --output ./GeoJSON.json
       - name: confirm we produced valid GeoJSON
         uses: nhalstead/validate-json-action@0.1.3
         env:
-          INPUT_SCHEMA: GeoJSON.json
+          INPUT_SCHEMA: ./GeoJSON.json
           INPUT_JSONS: /data/openFoodTrucks.json
