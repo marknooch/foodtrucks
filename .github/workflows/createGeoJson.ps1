@@ -29,11 +29,10 @@ if ($ScheduledFoodTrucks.Count -eq 0)
     # join the two objects together to find all of the approved food trucks that are open right now --- save that output
     $openfoodtruckspath = "../../data/openfoodtrucks.csv"
     $openFoodTrucks = $permits | InnerJoin-Object $ScheduledFoodTrucks -On permit
-    Export-Csv -InputObject $openFoodTrucks -Path $openfoodtruckspath
+    $openFoodTrucks | ConvertTo-Csv > $openfoodtruckspath
     write-host "created the open food trucks.  There are $($openfoodtrucks.count) open right now"
 
     # now produce the GeoJSON
-    $openfoodtrucksjson = "../../data/openFoodTrucks.json"
     $features = foreach ($foodTruck in $openFoodTrucks) {
         [string[]]$coordinates = @()
         $coordinates+= $foodTruck.Longitude[0]
@@ -47,10 +46,12 @@ if ($ScheduledFoodTrucks.Count -eq 0)
             })
         $foodtruckFeature
     }
-    $featureCollection = @{
-        type = "FeatureCollection"
-        features = $features
-    }
-    ConvertTo-Json -InputObject $featureCollection -Depth 100 > $openfoodtrucksjson
-    write-host "produced the open food trucks json"
 }
+
+$openfoodtrucksjsonpath = "../../data/openFoodTrucks.json"
+$featureCollection = @{
+    type = "FeatureCollection"
+    features = $features
+}
+ConvertTo-Json -InputObject $featureCollection -Depth 100 > $openfoodtrucksjsonpath
+write-host "produced the open food trucks json"
