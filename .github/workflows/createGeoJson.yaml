@@ -40,7 +40,7 @@ jobs:
       - name: download the geojson schema
         run: curl https://geojson.org/schema/GeoJSON.json --output GeoJSON.json
       - name: confirm we produced valid GeoJSON
-        uses: orrosenblatt/validate-json-action@a7082767d95a588f79b1d742a835b11bbfd4ea32 # 0.1.0 -- I use commit hashes to reduce supply chain attacks --- https://michaelheap.com/ensure-github-actions-pinned-sha/
+        uses: nhalstead/validate-json-action@0.1.3
         env:
           INPUT_SCHEMA: GeoJSON.json
           INPUT_JSONS: /data/openFoodTrucks.json
