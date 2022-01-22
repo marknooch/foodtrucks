@@ -19,6 +19,7 @@ I found some foodtruck data on the internet and I'd like to demonstrate how we c
 I used VS Code and [the recommended extensions](.vscode/extensions.json) to develop this.  
 1.  Configure your AWS credentials using the toolkit.  
 2.  Enter the `terraform-bootstrap` directory and `terraform apply` to create the s3 backend bucket.  
+3.  Create a github PAT and set the GITHUB_TOKEN environment variable that the github terraform provider utilizes in your atlantis and local development environment
 
 I decided to not use atlantis to create the s3 backend for the state for the app because I was concerned about a circular dependency.  Some poeple use [custom workflows in Atlantis](https://www.runatlantis.io/docs/custom-workflows.html#use-cases) to store terraform state files in a backend consistently.  I would look into this if I were building out Atlantis for a large group of people to use together to reduce the configuration duplication, developer friction, and huamn error risk associated with not storing terraform's state appropriately.
 
