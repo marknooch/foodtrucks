@@ -30,6 +30,7 @@ resource "aws_s3_bucket" "s3_home" {
   }
 }
 
+# this will need to be updated when we implement CloudFront in #6
 data "aws_iam_policy_document" "public-read" {
   statement {
     principals {
