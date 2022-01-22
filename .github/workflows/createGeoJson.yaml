@@ -28,7 +28,7 @@ jobs:
           git switch data
           cd ./data
           rm * -r
-          git cherry-pick $ {{ env.CURRENT_BRANCH }} --strategy=ours
+          git cherry-pick ${{ env.CURRENT_BRANCH }} --strategy=ours
           git add . 
           git commit -m "Update the data"
           git push -u origin HEAD
