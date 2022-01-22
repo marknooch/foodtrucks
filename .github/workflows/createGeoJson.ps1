@@ -26,11 +26,23 @@ if ($ScheduledFoodTrucks.Count -eq 0)
     # there probably aren't any food trucks open right now 
     # create empty files that don't break the website 
 } else {
+    
     # join the two objects together to find all of the approved food trucks that are open right now --- save that output
     $openfoodtruckspath = "../../data/openfoodtrucks.csv"
     $openFoodTrucks = $permits | InnerJoin-Object $ScheduledFoodTrucks -On permit
     $openFoodTrucks | ConvertTo-Csv > $openfoodtruckspath
     write-host "created the open food trucks.  There are $($openfoodtrucks.count) open right now"
+
+    if ($openFoodTrucks.count -gt 0)
+    {
+        # confirm we have Latitude and Longitude in our source data.  If we don't error and do something about it in github actions
+        $nullLongitude = $openFoodTrucks | where-object { $null -eq $_.Longitude }
+        $nullLatitude = $openFoodTrucks | where-object { $null -eq $_.Latitude } 
+        if ($nullLatitude + $nullLongitude -gt 0 )
+        {
+            exit 1
+        }
+    }
 
     # now produce the GeoJSON
     $features = foreach ($foodTruck in $openFoodTrucks) {
