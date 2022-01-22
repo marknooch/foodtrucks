@@ -34,8 +34,8 @@ resource "aws_s3_bucket" "s3_home" {
 data "aws_iam_policy_document" "public-read" {
   statement {
     principals {
-      type = "Group"
-      identifiers = [ "http://acs.amazonaws.com/groups/global/AllUsers" ]
+      type = "*"
+      identifiers = [ "*" ]
     }
 
     actions = [ "s3:GetObject", "s3:GetObjectVersion", "s3:ListBucket"]
