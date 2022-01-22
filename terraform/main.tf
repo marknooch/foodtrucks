@@ -33,7 +33,7 @@ data "aws_iam_policy_document" "github-actions" {
   statement {
         principals {
             type = "AWS"
-            identifiers = [aws_iam_user.github-actions.unique_id]
+            identifiers = [aws_iam_user.github-actions.arn]
         }
         actions = [ "s3:*"]
         resources = [aws_s3_bucket.s3_home.arn]
