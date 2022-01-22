@@ -10,8 +10,9 @@ write-host "Downloaded and imported the permits.  There are $($permits.count) pe
 # get the schedules file and filter to ones that are open now
 $schedulespath = "../../data/schedules.csv"
 Invoke-WebRequest -Uri "https://data.sfgov.org/api/views/jjew-r69b/rows.csv" -OutFile $schedulespath
-$dayOfWeek = (get-date).DayOfWeek
-$timeOfDay = (get-date).TimeOfDay
+$now = [System.TimeZoneInfo]::ConvertTimeBySystemTimeZoneId([DateTime]::Now,"Pacific Standard Time") # TODO: deal with daylight savings time
+$dayOfWeek = $now.DayOfWeek
+$timeOfDay = $now.TimeOfDay
 $schedules = import-csv $schedulespath | where-object { $_.DayOfWeekStr -eq $dayOfWeek }
 $schedulesNo2400s = foreach ($schedule in $schedules) {
     if($schedule.end24 -eq "24:00") {$schedule.end24 = "23:59"}
