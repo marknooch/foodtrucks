@@ -26,7 +26,7 @@ jobs:
           git add .
           git stash
           git remote -v
-          git checkout data
+          git switch data
           cd ./data
           rm * -r
           git stash pop
