@@ -5,7 +5,7 @@ new-item "../../data" -itemtype Container -Force
 $permitspath = "../../data/permits.csv"
 Invoke-WebRequest -Uri "https://data.sfgov.org/api/views/rqzj-sfat/rows.csv" -OutFile $permitspath
 $permits = Import-Csv $permitspath | where-object { $_.Status -eq "APPROVED" }  
-write-host "Downloaded and imported the permits"
+write-host "Downloaded and imported the permits.  There are $($permits.count) permits in the file"
 
 # get the schedules file and filter to ones that are open now
 $schedulespath = "../../data/schedules.csv"
@@ -18,13 +18,13 @@ $schedulesNo2400s = foreach ($schedule in $schedules) {
     $schedule
 }
 $ScheduledFoodTrucks = $schedulesNo2400s | Where-Object {$_.start24 -le $timeOfDay} | Where-Object {$timeOfDay -le $_.end24}
-write-host "Downloaded and imported the schedules"
+write-host "Downloaded and imported the schedules.  There are $($ScheduledFoodTrucks.count) scheduled right now"
 
 # join the two objects together to find all of the approved food trucks that are open right now --- save that output
 $openfoodtruckspath = "../../data/openfoodtrucks.csv"
 $openFoodTrucks = $permits | InnerJoin-Object $ScheduledFoodTrucks -On permit
 Export-Csv -InputObject $openFoodTrucks -Path $openfoodtruckspath
-write-host "created the open food trucks"
+write-host "created the open food trucks.  There are $($openfoodtrucks.count) open right now"
 
 # now produce the GeoJSON
 $openfoodtrucksjson = "../../data/openFoodTrucks.json"
