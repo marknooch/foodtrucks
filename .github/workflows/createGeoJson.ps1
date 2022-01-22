@@ -21,30 +21,36 @@ $schedulesNo2400s = foreach ($schedule in $schedules) {
 $ScheduledFoodTrucks = $schedulesNo2400s | Where-Object {$_.start24 -le $timeOfDay} | Where-Object {$timeOfDay -le $_.end24}
 write-host "Downloaded and imported the schedules.  There are $($ScheduledFoodTrucks.count) scheduled right now"
 
-# join the two objects together to find all of the approved food trucks that are open right now --- save that output
-$openfoodtruckspath = "../../data/openfoodtrucks.csv"
-$openFoodTrucks = $permits | InnerJoin-Object $ScheduledFoodTrucks -On permit
-Export-Csv -InputObject $openFoodTrucks -Path $openfoodtruckspath
-write-host "created the open food trucks.  There are $($openfoodtrucks.count) open right now"
+if ($ScheduledFoodTrucks.Count -eq 0) 
+{
+    # there probably aren't any food trucks open right now 
+    # create empty files that don't break the website 
+} else {
+    # join the two objects together to find all of the approved food trucks that are open right now --- save that output
+    $openfoodtruckspath = "../../data/openfoodtrucks.csv"
+    $openFoodTrucks = $permits | InnerJoin-Object $ScheduledFoodTrucks -On permit
+    Export-Csv -InputObject $openFoodTrucks -Path $openfoodtruckspath
+    write-host "created the open food trucks.  There are $($openfoodtrucks.count) open right now"
 
-# now produce the GeoJSON
-$openfoodtrucksjson = "../../data/openFoodTrucks.json"
-$features = foreach ($foodTruck in $openFoodTrucks) {
-    [string[]]$coordinates = @()
-    $coordinates+= $foodTruck.Longitude[0]
-    $coordinates+= $foodTruck.Latitude[1]
-    $foodtruckFeature = @{}
-    $foodtruckFeature.Add("type","Feature")
-    $foodtruckFeature.Add("properties", @{popupContent = $foodTruck.FoodItems})
-    $foodtruckFeature.Add("geometry", @{
-        type = "Point"
-        coordinates = $coordinates 
-        })
-    $foodtruckFeature
+    # now produce the GeoJSON
+    $openfoodtrucksjson = "../../data/openFoodTrucks.json"
+    $features = foreach ($foodTruck in $openFoodTrucks) {
+        [string[]]$coordinates = @()
+        $coordinates+= $foodTruck.Longitude[0]
+        $coordinates+= $foodTruck.Latitude[1]
+        $foodtruckFeature = @{}
+        $foodtruckFeature.Add("type","Feature")
+        $foodtruckFeature.Add("properties", @{popupContent = $foodTruck.FoodItems})
+        $foodtruckFeature.Add("geometry", @{
+            type = "Point"
+            coordinates = $coordinates 
+            })
+        $foodtruckFeature
+    }
+    $featureCollection = @{
+        type = "FeatureCollection"
+        features = $features
+    }
+    ConvertTo-Json -InputObject $featureCollection -Depth 100 > $openfoodtrucksjson
+    write-host "produced the open food trucks json"
 }
-$featureCollection = @{
-    type = "FeatureCollection"
-    features = $features
-}
-ConvertTo-Json -InputObject $featureCollection -Depth 100 > $openfoodtrucksjson
-write-host "produced the open food trucks json"
