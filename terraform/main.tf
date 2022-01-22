@@ -70,3 +70,9 @@ resource "github_actions_secret" "AWS_REGION" {
   secret_name             = "AWS_REGION"
   plaintext_value         = var.region
 }
+
+resource "github_actions_secret" "S3_BUCKET" {
+  repository = data.github_repository.repo.name
+  secret_name = "S3_BUCKET"
+  plaintext_value = aws_s3_bucket.s3_home.bucket
+}
