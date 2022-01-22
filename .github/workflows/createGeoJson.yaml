@@ -28,7 +28,7 @@ jobs:
       - name: commit files to data branch   
         run: git switch data
       - name: commit files to the error branch if produce-geojson failed
-        if:  ${{ steps.produce-geojson.conclusion -eq "failure"}}
+        if:  ${{ steps.produce-geojson.conclusion == "failure"}}
         run: git switch error
       - name: finish committing the stuff
         if: always()
