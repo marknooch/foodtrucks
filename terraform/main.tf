@@ -54,14 +54,14 @@ data "github_repository" "repo" {
 resource "github_actions_organization_secret" "AWS_ACCESS_KEY_ID" {
   secret_name             = "AWS_ACCESS_KEY_ID"
   visibility              = "selected"
-  plaintext_value         = aws_iam_access_key.github_actions.id
+  plaintext_value         = aws_iam_access_key.github-actions.id
   selected_repository_ids = [data.github_repository.repo.repo_id]
 }
 
 resource "github_actions_organization_secret" "AWS_SECRET_ACCESS_KEY" {
   secret_name             = "AWS_SECRET_ACCESS_KEY"
   visibility              = "selected"
-  plaintext_value         = aws_iam_access_key.github_actions.secret
+  plaintext_value         = aws_iam_access_key.github-actions.secret
   selected_repository_ids = [data.github_repository.repo.repo_id]
 }
 
