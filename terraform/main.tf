@@ -35,8 +35,8 @@ data "aws_iam_policy_document" "github-actions" {
             type = "AWS"
             identifiers = [aws_iam_user.github-actions.arn]
         }
-        actions = [ "s3:*"]
-        resources = [aws_s3_bucket.s3_home.arn]
+        actions = ["s3:*"]
+        resources = ["${aws_s3_bucket.s3_home.arn}/*"]
     }
 }
 
@@ -69,4 +69,10 @@ resource "github_actions_secret" "AWS_REGION" {
   repository = data.github_repository.repo.name
   secret_name             = "AWS_REGION"
   plaintext_value         = var.region
+}
+
+resource "github_actions_secret" "S3_BUCKET" {
+  repository = data.github_repository.repo.name
+  secret_name = "S3_BUCKET"
+  plaintext_value = aws_s3_bucket.s3_home.bucket
 }
