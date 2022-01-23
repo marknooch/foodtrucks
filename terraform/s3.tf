@@ -1,6 +1,7 @@
 # create bucket for static website
 resource "aws_s3_bucket" "s3-home" {
-  acl = "public-read"
+  bucket_prefix = "foodtrucks"
+  acl           = "public-read"
 
   website {
     index_document = "index.html"
