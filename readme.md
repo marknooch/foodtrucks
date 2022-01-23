@@ -30,7 +30,7 @@ The [terraform code](https://github.com/MarkIannucci/terraform-aws-atlantis/tree
 # Things I'd do differently if I had more time
 
 * I'd write the script that commits the files to the data branch to only commit data to the data branch if it were running from the main branch.  If it were running from any other branch, it'd commit the files to the data-branchname branch.  The current config could easily split brain.  Additionally the approach to branch switching that I'm using currently makes continued progress on github actions quite clunky.  See [commit fbe6548c](https://github.com/marknooch/foodtrucks/commit/fbe6548c587d931dd31a8b67ce2c1e04dbbb2215) for an example of the clunk.
-* Implement mapbox pubic token creation/rotation with a github action -- current implementation embeds the public access token in source and is [secret sprawly](https://www.hashicorp.com/resources/what-is-secret-sprawl-why-is-it-harmful).  The token has an access policy allowing it to only be accessed from domains I control.
+* Implement mapbox pubic token creation/rotation with a github action -- current implementation embeds the public access token in source and is [secret sprawly](https://www.hashicorp.com/resources/what-is-secret-sprawl-why-is-it-harmful).  ~~The token has an access policy allowing it to only be accessed from domains I control.~~ once we implement #18.
 * Some of the content could be easily hosted on github which would have reduced the github actions complexity and AWS cost.
 
 # Things that are missing that I might implement in the future
@@ -43,4 +43,6 @@ The [terraform code](https://github.com/MarkIannucci/terraform-aws-atlantis/tree
 
 * This was a fun exploration of AWS.  To this point, my work in the cloud involved using terraform to manage Azure resources.  It was nice to see those skills transfer to AWS quickly.
 * I recently ran across [Act](https://github.com/nektos/act) which lets you run github actions locally.  I wish I knew about that at the outset -- [PR #16](https://github.com/marknooch/foodtrucks/pull/16) would have been much cleaner.  
-* writing DRY HCL is difficult.  [CloudPosse](https://github.com/cloudposse) has published quite a few modules which I would explore in an enterprise setting. 
+* writing DRY HCL is difficult.  [CloudPosse](https://github.com/cloudposse) has published quite a few modules which I would explore in an enterprise setting.
+* Apply errors are common.  I'd use [terraform's workspace](https://www.terraform.io/language/state/workspaces) functionality to test `apply` steps as part of the pull request process in a team environment.
+* I'd rather write HCL than a resume :) 
