@@ -15,3 +15,8 @@ variable "tags" {
   }
   type = map(string)
 }
+
+variable "bucket-name" {
+  description = "bucket name; must be globally unique; necessary because some stuff is only known after apply and I haven't found a way to reference that in a template json file"
+  default     = "foodtrucks20220123172537018100000001"
+}
