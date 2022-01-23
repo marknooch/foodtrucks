@@ -3,5 +3,18 @@
         {
             "path": "."
         }
-    ]
+    ],
+    "settings": {
+        "terraform.codelens.referenceCount": true,
+        "[terraform]": {
+            "editor.defaultFormatter": "hashicorp.terraform",
+            "editor.formatOnSave": true,
+            "editor.formatOnSaveMode": "file"
+          },
+          "[terraform-vars]": {
+            "editor.defaultFormatter": "hashicorp.terraform",
+            "editor.formatOnSave": true,
+            "editor.formatOnSaveMode": "file"
+          }
+    }
 }
