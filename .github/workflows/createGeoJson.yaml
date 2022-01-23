@@ -1,6 +1,9 @@
 name: createGeoJson
 on:
+  pull_request:
   push:
+    branches:
+      - main
   workflow_dispatch:
   schedule:
     - cron: '*/15 * * * *'
