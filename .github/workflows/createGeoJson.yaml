@@ -60,6 +60,6 @@ jobs:
       - name: deploy data to s3
         run: | 
           aws s3 sync ./data s3://${{ secrets.S3_BUCKET }}
-          git switch ${{ env.COMMIT_HASH }}
+          git checkout ${{ env.COMMIT_HASH }}
           aws s3 sync ./src s3://${{ secrets.S3_BUCKET }}
 
