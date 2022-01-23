@@ -2,6 +2,7 @@ resource "aws_route53_zone" "main" {
   name = var.domain-name
 }
 
+# comment out so we can get the zone and configure name records in freenom before getting the rest of this stuff setup
 # resource "aws_route53_record" "root-a" {
 #   zone_id = aws_route53_zone.main.zone_id
 #   name    = var.domain-name
