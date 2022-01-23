@@ -54,30 +54,3 @@ resource "aws_s3_bucket" "s3-redirect" {
   }
 
 }
-
-data "aws_iam_policy_document" "s3-redirect-ipd" {
-  statement {
-    principals {
-      type        = "*"
-      identifiers = ["*"]
-    }
-
-    actions   = ["s3:GetObject", "s3:GetObjectVersion"]
-    resources = ["${aws_s3_bucket.s3-redirect.arn}/*"]
-  }
-
-  statement {
-    principals {
-      type        = "AWS"
-      identifiers = [aws_iam_user.github-actions.arn]
-    }
-
-    actions   = ["s3:*"]
-    resources = ["${aws_s3_bucket.s3-redirect.arn}/*"]
-  }
-}
-
-resource "aws_s3_bucket_policy" "s3-redirect-policy" {
-  bucket = aws_s3_bucket.s3-home.id
-  policy = data.aws_iam_policy_document.s3-redirect-ipd.json
-}
