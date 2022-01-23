@@ -20,14 +20,14 @@ jobs:
         shell: pwsh
         run: ./createGeoJson.ps1
         working-directory: ./.github/workflows
-      - name: set CURRENT_BRANCH and do git prep steps
+      - name: prep repo and commit
         if: always()
         run: |
-          echo "CURRENT_BRANCH=$(git rev-parse --abbrev-ref HEAD)" >> $GITHUB_ENV
           git config --global user.name 'atlantis-green'
           git config --global user.email 'atlantis-green@users.noreply.github.com'
           git add .
           git commit -m "Update the data"
+          echo "COMMIT_HASH =$(git rev-parse --short HEAD)" >> $GITHUB_ENV
           git fetch
       - name: commit files to data branch
         run: git switch data
@@ -39,7 +39,7 @@ jobs:
         run: |
           cd ./data
           rm * -r
-          git cherry-pick ${{ env.CURRENT_BRANCH }} --strategy-option=theirs
+          git cherry-pick ${{ env.COMMIT_HASH  }} --strategy-option=theirs
           git push -u origin HEAD
       - name: download the geojson schema
         run: curl https://geojson.org/schema/GeoJSON.json --output ./GeoJSON.json
