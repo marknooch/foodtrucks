@@ -30,8 +30,16 @@ resource "aws_s3_bucket" "s3_home" {
   }
 }
 
+# grant access to github-actions AWS account.  In an enterprise setting, I'd look at storing the secret in Vault 
+# and then using a gihub action to fetch the secret from vault.  This still has the problem of how does the 
+# action authenticate with Vault.  With a hosted runner, we could use environment variables to provision access
+# at worst case.  I'd look to use the github jwt option first though.
+resource "aws_iam_user" "github-actions" {
+  name = "github-actions"
+}
+
 # this will need to be updated when we implement CloudFront in #6
-data "aws_iam_policy_document" "public-read" {
+data "aws_iam_policy_document" "s3_home_ipd" {
   statement {
     principals {
       type = "*"
@@ -41,39 +49,25 @@ data "aws_iam_policy_document" "public-read" {
     actions = [ "s3:GetObject", "s3:GetObjectVersion"]
     resources = ["${aws_s3_bucket.s3_home.arn}/*"]
   }
+
+  statement {
+    principals {
+      type = "AWS"
+      identifiers = [aws_iam_user.github-actions.arn]
+    }
+
+    actions = ["s3:*"]
+    resources = ["${aws_s3_bucket.s3_home.arn}/*"]
+  }
 }
 
 resource "aws_s3_bucket_policy" "public-read" {
   bucket = aws_s3_bucket.s3_home.id
-  policy = data.aws_iam_policy_document.public-read.json 
+  policy = data.aws_iam_policy_document.s3_home_ipd.json 
   
 }
 
-# grant access to bucket github actions
-resource "aws_iam_user" "github-actions" {
-  name = "github-actions"
-}
-
-resource "aws_iam_access_key" "github-actions" {
-  user = aws_iam_user.github-actions.name
-}
-
-data "aws_iam_policy_document" "github-actions" {
-  statement {
-        principals {
-            type = "AWS"
-            identifiers = [aws_iam_user.github-actions.arn]
-        }
-        actions = ["s3:*"]
-        resources = ["${aws_s3_bucket.s3_home.arn}/*"]
-    }
-}
-
-resource "aws_s3_bucket_policy" "github-actions" {
-  bucket = aws_s3_bucket.s3_home.id
-  policy = data.aws_iam_policy_document.github-actions.json
-}
-
+# populate secrets in repo for github actions account programmatically.
 provider "github" {}
 
 data "github_repository" "repo" {
