@@ -16,27 +16,27 @@ data "github_repository" "repo" {
 }
 
 resource "github_actions_secret" "AWS_ACCESS_KEY_ID" {
-  repository = data.github_repository.repo.name
-  secret_name = "AWS_ACCESS_KEY_ID"
-  plaintext_value         = aws_iam_access_key.github-actions.id
+  repository      = data.github_repository.repo.name
+  secret_name     = "AWS_ACCESS_KEY_ID"
+  plaintext_value = aws_iam_access_key.github-actions.id
 }
 
 resource "github_actions_secret" "AWS_SECRET_ACCESS_KEY" {
-  repository = data.github_repository.repo.name
-  secret_name             = "AWS_SECRET_ACCESS_KEY"
-  plaintext_value         = aws_iam_access_key.github-actions.secret
+  repository      = data.github_repository.repo.name
+  secret_name     = "AWS_SECRET_ACCESS_KEY"
+  plaintext_value = aws_iam_access_key.github-actions.secret
 }
 
 # this is a hack.  By doing this I can let the terraform region dictate the region that we use in the github actions.  
 # Ideally we'd obtain these non-secret values from the files themselves and avoid this circling back approach I used here.
 resource "github_actions_secret" "AWS_REGION" {
-  repository = data.github_repository.repo.name
-  secret_name             = "AWS_REGION"
-  plaintext_value         = var.region
+  repository      = data.github_repository.repo.name
+  secret_name     = "AWS_REGION"
+  plaintext_value = var.region
 }
 
 resource "github_actions_secret" "S3_BUCKET" {
-  repository = data.github_repository.repo.name
-  secret_name = "S3_BUCKET"
-  plaintext_value = aws_s3_bucket.s3_home.bucket
+  repository      = data.github_repository.repo.name
+  secret_name     = "S3_BUCKET"
+  plaintext_value = aws_s3_bucket.s3-home.bucket
 }
