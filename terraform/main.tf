@@ -38,6 +38,10 @@ resource "aws_iam_user" "github-actions" {
   name = "github-actions"
 }
 
+resource "aws_iam_access_key" "github-actions" {
+  user = aws_iam_user.github-actions.name
+}
+
 # this will need to be updated when we implement CloudFront in #6
 data "aws_iam_policy_document" "s3_home_ipd" {
   statement {
