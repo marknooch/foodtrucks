@@ -30,6 +30,7 @@ The [terraform code](https://github.com/MarkIannucci/terraform-aws-atlantis/tree
 # Things I'd do differently if I had more time
 
 * I'd write the script that commits the files to the data branch to only commit data to the data branch if it were running from the main branch.  If it were running from any other branch, it'd commit the files to the data-branchname branch.  The current config could easily split brain.  Additionally the approach to branch switching that I'm using currently makes continued progress on github actions quite clunky.  See [commit fbe6548c](https://github.com/marknooch/foodtrucks/commit/fbe6548c587d931dd31a8b67ce2c1e04dbbb2215) for an example of the clunk.
+* Figure out how to configure Atlantis + github to require an apply if necessary for a PR to be completed. #24
 * Implement mapbox pubic token creation/rotation with a github action -- current implementation embeds the public access token in source and is [secret sprawly](https://www.hashicorp.com/resources/what-is-secret-sprawl-why-is-it-harmful).  ~~The token has an access policy allowing it to only be accessed from domains I control.~~ once we implement #18.
 * Some of the content could be easily hosted on github which would have reduced the github actions complexity and AWS cost.
 

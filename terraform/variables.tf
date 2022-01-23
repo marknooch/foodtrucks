@@ -5,7 +5,7 @@ variable "region" {
 
 variable "domain-name" {
   description = "domain name which redirects to CloudFront"
-  default     = "findafoodtruck.ga"
+  default     = "findafoodtrucknow.ga"
 }
 
 variable "tags" {
