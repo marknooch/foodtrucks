@@ -63,7 +63,7 @@ data "aws_iam_policy_document" "s3-redirect-ipd" {
     }
 
     actions   = ["s3:GetObject", "s3:GetObjectVersion"]
-    resources = ["${aws_s3_bucket.s3-home.arn}/*"]
+    resources = ["${aws_s3_bucket.s3-redirect.arn}/*"]
   }
 
   statement {
