@@ -17,7 +17,7 @@ resource "aws_iam_user_policy_attachment" "github-actions" {
 
 # populate secrets in repo for github actions account programmatically
 data "github_repository" "repo" {
-  full_name = "marknooch/foodtrucks"
+  full_name = var.github-repo
 }
 
 resource "github_actions_secret" "AWS_ACCESS_KEY_ID" {
