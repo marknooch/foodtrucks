@@ -10,6 +10,11 @@ resource "aws_iam_access_key" "github-actions" {
   user = aws_iam_user.github-actions.name
 }
 
+resource "aws_iam_user_policy_attachment" "github-actions" {
+  user       = aws_iam_user.github-actions.name
+  policy_arn = "arn:aws:iam::aws:policy/CloudFrontFullAccess"
+}
+
 # populate secrets in repo for github actions account programmatically
 data "github_repository" "repo" {
   full_name = "marknooch/foodtrucks"
