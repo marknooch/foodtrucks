@@ -6,14 +6,17 @@ I documented my [high level approach](./approach.md) early on, and stayed pretty
 
 # Configure your local development environment
 
-I used VS Code and [the recommended extensions](.vscode/extensions.json) to develop this.  
-1.  Configure your AWS credentials using the toolkit extension.  
-2.  Enter the `terraform-bootstrap` directory run `terraform init` followed by `terraform apply` to create the s3 backend bucket.  
-3.  Fork this repo and set the `domain-name` and `github-repo` variables to your values in your [`terraform.tfvars` file](https://www.terraform.io/language/values/variables).  Update the 
-4.  Create a [github PAT](https://github.com/settings/tokens) and set the GITHUB_TOKEN environment variable to your PAT.  This will allow the github terraform provider to set secret values in your repo and will ensure that GitHub Actions can authenticate with AWS when necessary.
-5.  Enter the `terraform` directory and run `terraform init` followed by `terraform apply` to create the cloud resources.  I used [an external provider](https://freenom.com) for my domain name which may cause an apply error if Amazon or Terraform validate that the nameservers are the ones specified by the registrar.  If that happens, you can probably fix it by updating the nameservers to the ones for the Route 53 hosted zone this module creates.
+I used VS Code and [the recommended extensions](./.vscode/extensions.json) to develop this.  
+1.  Fork and clone this repo and open the [VS Code workspace](./foodtrucks.code-workspace).
+2.  Configure your AWS credentials using the toolkit extension.  
+3.  Enter the `terraform-bootstrap` directory run `terraform init` followed by `terraform apply` to create the s3 backend bucket.  
+4.  Set the `domain-name` and `github-repo` variables to your values in your [`terraform.tfvars` file](https://www.terraform.io/language/values/variables).  Update the [`provider.tf`](./terraform/provider.tf) file with name of the bucket you created in step 2.
+5.  Create a [github PAT](https://github.com/settings/tokens) and set the GITHUB_TOKEN environment variable to your PAT.  This will allow the github terraform provider to set secret values in your repo and will ensure that GitHub Actions can authenticate with AWS when necessary.
+6.  Enter the `terraform` directory and run `terraform init` followed by `terraform apply` to create the cloud resources.  I used [an external provider](https://freenom.com) for my domain name which may cause an apply error if Amazon or Terraform validate that the nameservers are the ones specified by the registrar.  If that happens, you can probably fix it by updating the nameservers to the ones for the Route 53 hosted zone this module creates, and re-run it.
 
-I decided to store the Terraform which I used to create the s3 bucket for [the backend state](https://www.terraform.io/language/state/backends) in a separate module in order to reduce the blast radius which is why you'll find it in the terraform-bootstrap folder.  I did not allow Atlantis to plan and apply the backend at the time that I created it which is why you see it excluded from the autoplan functionality in [atlantis.yaml](./atlantis.yaml).  Some poeple use [custom workflows in Atlantis](https://www.runatlantis.io/docs/custom-workflows.html#use-cases) to store terraform state files in a backend consistently.  I would look into this if I were building out Atlantis for a large group of people to use together to reduce the configuration duplication, developer friction, and huamn error risk associated with not storing terraform's state appropriately.
+At that point, you should have your own instance of this application running in the cloudy thing.
+
+
 
 ## This is a lot of code to review.  Where do you recommend I start?
 
@@ -22,6 +25,7 @@ A few highlights ---
 * In [createGeoJson.yaml](./github/workflows/createGeoJson.yaml), I use GitHub Actions' conditional expression to make everyones lives easier by invalidating the cache on each completed pull request (lines 66-71)
 * In [github-actions.tf](./terraform/github-actions.tf), I avoid the curse of Secret Sprawl and hardcoded config as code.  With terraform managing the github-actions AWS user, we're able to inject the secrets necessary for GitHub Actions to Authenticate with AWS as we create them.  In thinking about the functionality that this lacks over Vault or a more proper key management system, the only thing that comes to mind is that we don't have a good way that I know of to cycle the secrets.
 * Tests?  Generally, my theory with this code is that we'd want the errors to happen in GitHub.  So. in [createGeoJson.ps1](./.github/workflows/createGeoJson.ps1), I do some file sanity checking that San Francisco didn't change their files on lines 38-44.  
+* I decided to store the Terraform which I used to create the s3 bucket for [the backend state](https://www.terraform.io/language/state/backends) in a separate module in order to reduce the blast radius which is why you'll find it in the terraform-bootstrap folder.  I did not allow Atlantis to plan and apply the backend at the time that I created it which is why you see it excluded from the autoplan functionality in [atlantis.yaml](./atlantis.yaml).  Some poeple use [custom workflows in Atlantis](https://www.runatlantis.io/docs/custom-workflows.html#use-cases) to store terraform state files in a backend consistently.  I would look into this if I were building out Atlantis for a large group of people to use together to reduce the configuration duplication, developer friction, and huamn error risk associated with not storing terraform's state appropriately.
 
 
 ## Things I'd do differently if I had more time
@@ -37,7 +41,7 @@ A few highlights ---
 * Storing the data as it evolves over time in git is neat intellectually.  It can be a nice start to doing something interesting tracking the trucks moving through time.
 * I didn't implement any telemetry so any user usage data can only come from whatever is in Amazon's s3 logs by default.  
 * I'd implement [Infracost](https://github.com/infracost/infracost-atlantis).  With this stuff all being priced based on consumption, It'd be interesting to see how infracost prices it.  I do think it is important that developers get an early sense of the cost of their code and it looks like that product would be a fantastic way to have a conversation about it.
-  
+
 
 ## Things that I learned
 
