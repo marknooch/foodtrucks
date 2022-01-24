@@ -62,4 +62,8 @@ jobs:
           aws s3 sync ./data s3://${{ secrets.S3_BUCKET }}
           git checkout ${{ env.COMMIT_HASH }}
           aws s3 sync ./src s3://${{ secrets.S3_BUCKET }}
+      - name: invalidate cache on every completed pull request
+        if: ${{ github.ref == 'refs/heads/main' && github.event_name == 'push' }}
+        run: |
+          aws cloudfront list-distributions | jq -r '.DistributionList.Items[].Id' | while read id ; do aws cloudfront create-invalidation --distribution-id $id --paths "/*" ; done
 
