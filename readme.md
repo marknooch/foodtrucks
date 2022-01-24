@@ -44,6 +44,6 @@ The [terraform code](https://github.com/MarkIannucci/terraform-aws-atlantis/tree
 
 * This was a fun exploration of AWS.  To this point, my work in the cloud involved using terraform to manage Azure resources.  It was nice to see those skills transfer to AWS quickly.
 * I recently ran across [Act](https://github.com/nektos/act) which lets you run github actions locally.  I wish I knew about that at the outset -- [PR #16](https://github.com/marknooch/foodtrucks/pull/16) would have been much cleaner.  
-* writing DRY HCL is difficult.  [CloudPosse](https://github.com/cloudposse) has published quite a few modules which I would explore in an enterprise setting.
+* writing DRY HCL is difficult.  [CloudPosse](https://github.com/cloudposse) has published quite a few modules which I would explore in an enterprise setting.  I think it may be possible to do that with [template files](https://www.terraform.io/language/functions/templatefile), but was unable to figure it out.  I explored that in the [NeedToFigureOutTemplateFiles branch](https://github.com/marknooch/foodtrucks/tree/NeedToFigureOutTemplateFiles).  I ran into problems embedding values in the variables in the file.  An alternate approach would be to use a loop in terraform and iterate over it.  #27
 * Apply errors are common.  I'd use [terraform's workspace](https://www.terraform.io/language/state/workspaces) functionality to test `apply` steps as part of the pull request process in a team environment.
 * I'd rather write HCL than a resume :) 
