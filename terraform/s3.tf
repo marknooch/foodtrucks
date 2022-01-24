@@ -1,7 +1,14 @@
 # create bucket for static website
 resource "aws_s3_bucket" "s3-home" {
-  bucket_prefix = "foodtrucks"
+  bucket_prefix = var.bucket-prefix
   acl           = "public-read"
+
+  cors_rule {
+    allowed_headers = ["Authorization", "Content-Length"]
+    allowed_methods = ["GET", "POST"]
+    allowed_origins = ["https://www.${var.domain-name}"]
+    max_age_seconds = 3000
+  }
 
   website {
     index_document = "index.html"
@@ -35,4 +42,15 @@ data "aws_iam_policy_document" "s3-home-ipd" {
 resource "aws_s3_bucket_policy" "public-read" {
   bucket = aws_s3_bucket.s3-home.id
   policy = data.aws_iam_policy_document.s3-home-ipd.json
+}
+
+# S3 bucket for redirecting non-www to www.
+resource "aws_s3_bucket" "s3-redirect" {
+  bucket_prefix = var.bucket-prefix
+  acl           = "public-read"
+
+  website {
+    redirect_all_requests_to = "https://www.${var.domain-name}"
+  }
+
 }

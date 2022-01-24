@@ -15,3 +15,8 @@ variable "tags" {
   }
   type = map(string)
 }
+
+variable "bucket-prefix" {
+    description = "prefix to use for the bucket names"
+    default = "foodtrucks"
+}
