@@ -17,6 +17,11 @@ variable "tags" {
 }
 
 variable "bucket-prefix" {
-    description = "prefix to use for the bucket names"
-    default = "foodtrucks"
+  description = "prefix to use for the bucket names"
+  default     = "foodtrucks"
+}
+
+variable "github-repo" {
+  description = "the repo you create when you fork this one"
+  default     = "marknooch/foodtrucks"
 }
