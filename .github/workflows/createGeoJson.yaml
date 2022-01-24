@@ -59,7 +59,7 @@ jobs:
           aws-region: ${{ secrets.AWS_REGION }}
       - name: deploy data to s3
         run: | 
-          aws s3 sync ./data s3://${{ secrets.S3_BUCKET }}
+          aws s3 sync ./data s3://${{ secrets.S3_BUCKET }} --expires "$(date -d '+15 minutes' --utc +'%Y-%m-%dT%H:%M:%SZ')"
           git checkout ${{ env.COMMIT_HASH }}
           aws s3 sync ./src s3://${{ secrets.S3_BUCKET }}
 
