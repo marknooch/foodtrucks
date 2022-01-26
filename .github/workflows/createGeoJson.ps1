@@ -51,7 +51,10 @@ if ($ScheduledFoodTrucks.Count -eq 0)
         $coordinates+= $foodTruck.Latitude[1]
         $foodtruckFeature = @{}
         $foodtruckFeature.Add("type","Feature")
-        $foodtruckFeature.Add("properties", @{popupContent = $foodTruck.FoodItems})
+        $foodtruckFeature.Add("properties", @{
+            fooditems = $foodTruck.FoodItems
+            applicant = $foodtruck.ApplicantS    
+        })
         $foodtruckFeature.Add("geometry", @{
             type = "Point"
             coordinates = $coordinates 
