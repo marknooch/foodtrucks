@@ -3,3 +3,6 @@ projects:
 - dir: terraform-bootstrap
   autoplan:
     enabled: false
+- dir: terraform
+  autoplan:
+    enabled: true
