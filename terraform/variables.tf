@@ -26,3 +26,5 @@ variable "github-repo" {
   default     = "marknooch/foodtrucks"
 }
 
+variable "new" {
+  description = "bad syntax"
