@@ -27,6 +27,4 @@ variable "github-repo" {
 }
 
 variable "new" {
-  description = "good syntax"
-  default     = "new"
-}
+  description = "bad syntax"
