@@ -25,3 +25,6 @@ variable "github-repo" {
   description = "the repo you create when you fork this one"
   default     = "marknooch/foodtrucks"
 }
+
+variable "new" {
+  description = "bad syntax"
