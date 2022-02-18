@@ -28,6 +28,19 @@
     },
     {
       "properties": {
+        "popupContent": "Peruvian Food Served Hot"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.39406659922962",
+          "37.783124660841082"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
         "popupContent": "everything except for hot dogs"
       },
       "type": "Feature",
@@ -93,19 +106,6 @@
     },
     {
       "properties": {
-        "popupContent": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn."
-      },
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.40081339110537",
-          "37.78493822996267"
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "properties": {
         "popupContent": "Tacos: burritos: quesadillas: tortas: nachos (refried beans: cheese sauce: salsa fresca): carnes (beef: chicken: marinated pork: fried pork): canned beans: rice: sodas: horchata drinks."
       },
       "type": "Feature",
@@ -113,6 +113,19 @@
         "coordinates": [
           "-122.40673602990493",
           "37.738830582567026"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn."
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.40081339110537",
+          "37.78493822996267"
         ],
         "type": "Point"
       }
@@ -191,19 +204,6 @@
         "coordinates": [
           "-122.40527052309521",
           "37.787813788166275"
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "properties": {
-        "popupContent": "Rotisserie chicken: pork loin: ribs: chicken salad wrap: potatoes: roasted seasonal vegetables kale salad: beverages."
-      },
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.40257456841074",
-          "37.78904580399292"
         ],
         "type": "Point"
       }
@@ -301,13 +301,13 @@
     },
     {
       "properties": {
-        "popupContent": "Peruvian Food Served Hot"
+        "popupContent": "Rotisserie chicken: pork loin: ribs: chicken salad wrap: potatoes: roasted seasonal vegetables kale salad: beverages."
       },
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          "-122.39406659922962",
-          "37.783124660841082"
+          "-122.40257456841074",
+          "37.78904580399292"
         ],
         "type": "Point"
       }
