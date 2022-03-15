@@ -55,6 +55,32 @@
     },
     {
       "properties": {
+        "popupContent": "Tacos: burritos: quesadillas"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.40241859729358",
+          "37.787746304359324"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Tacos: burritos: quesadillas"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.39723654373122",
+          "37.787746304359324"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
         "popupContent": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn."
       },
       "type": "Feature",
@@ -107,19 +133,6 @@
     },
     {
       "properties": {
-        "popupContent": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn."
-      },
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.40081339110537",
-          "37.78493822996267"
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "properties": {
         "popupContent": "Tacos: burritos: quesadillas: tortas: nachos (refried beans: cheese sauce: salsa fresca): carnes (beef: chicken: marinated pork: fried pork): canned beans: rice: sodas: horchata drinks."
       },
       "type": "Feature",
@@ -140,6 +153,19 @@
         "coordinates": [
           "-122.50959579624613",
           "37.763318322345384"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn."
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.40081339110537",
+          "37.78493822996267"
         ],
         "type": "Point"
       }
@@ -231,32 +257,6 @@
         "coordinates": [
           "-122.40742266827704",
           "37.784906148887941"
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "properties": {
-        "popupContent": "Tacos: burritos: quesadillas"
-      },
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.40241859729358",
-          "37.787746304359324"
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "properties": {
-        "popupContent": "Tacos: burritos: quesadillas"
-      },
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39723654373122",
-          "37.787746304359324"
         ],
         "type": "Point"
       }
