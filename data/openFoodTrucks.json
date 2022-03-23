@@ -1,5 +1,4 @@
 {
-  "type": "FeatureCollection",
   "features": [
     {
       "geometry": {
@@ -24,19 +23,6 @@
       },
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.394807823179",
-          "37.778714701469028"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Mexican Food: Yucatan Food: Street Food"
       },
       "type": "Feature"
     },
@@ -69,8 +55,21 @@
     {
       "geometry": {
         "coordinates": [
+          "-122.394807823179",
+          "37.778714701469028"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Mexican Food: Yucatan Food: Street Food"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           "-122.40126969523558",
-          "37.788387888445406"
+          "37.787998605236957"
         ],
         "type": "Point"
       },
@@ -83,7 +82,7 @@
       "geometry": {
         "coordinates": [
           "-122.40126969523558",
-          "37.787998605236957"
+          "37.788387888445406"
         ],
         "type": "Point"
       },
@@ -187,7 +186,7 @@
       "geometry": {
         "coordinates": [
           "-122.39610066847152",
-          "37.788387888445406"
+          "37.787998605236957"
         ],
         "type": "Point"
       },
@@ -200,19 +199,6 @@
       "geometry": {
         "coordinates": [
           "-122.39610066847152",
-          "37.787998605236957"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Latin Food: Tacos: Pupusas: Vegetables: Salad: Waters: Sodas"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.40018504988889",
           "37.788387888445406"
         ],
         "type": "Point"
@@ -227,6 +213,19 @@
         "coordinates": [
           "-122.40018504988889",
           "37.787998605236957"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Latin Food: Tacos: Pupusas: Vegetables: Salad: Waters: Sodas"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-122.40018504988889",
+          "37.788387888445406"
         ],
         "type": "Point"
       },
@@ -278,7 +277,7 @@
       "geometry": {
         "coordinates": [
           "-122.42516137635808",
-          "37.755519731943515"
+          "37.77056784888584"
         ],
         "type": "Point"
       },
@@ -291,7 +290,7 @@
       "geometry": {
         "coordinates": [
           "-122.42516137635808",
-          "37.77056784888584"
+          "37.755519731943515"
         ],
         "type": "Point"
       },
@@ -317,7 +316,7 @@
       "geometry": {
         "coordinates": [
           "-122.4407311621107",
-          "37.755519731943515"
+          "37.77056784888584"
         ],
         "type": "Point"
       },
@@ -330,19 +329,6 @@
       "geometry": {
         "coordinates": [
           "-122.4407311621107",
-          "37.77056784888584"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.43733160784082",
           "37.755519731943515"
         ],
         "type": "Point"
@@ -357,6 +343,19 @@
         "coordinates": [
           "-122.43733160784082",
           "37.77056784888584"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-122.43733160784082",
+          "37.755519731943515"
         ],
         "type": "Point"
       },
@@ -382,7 +381,7 @@
       "geometry": {
         "coordinates": [
           "-122.44672163317198",
-          "37.755519731943515"
+          "37.77056784888584"
         ],
         "type": "Point"
       },
@@ -395,19 +394,6 @@
       "geometry": {
         "coordinates": [
           "-122.44672163317198",
-          "37.77056784888584"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "0",
           "37.755519731943515"
         ],
         "type": "Point"
@@ -422,6 +408,19 @@
         "coordinates": [
           "0",
           "37.77056784888584"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "0",
+          "37.755519731943515"
         ],
         "type": "Point"
       },
@@ -447,7 +446,7 @@
       "geometry": {
         "coordinates": [
           "-122.42711064395493",
-          "37.755519731943515"
+          "37.77056784888584"
         ],
         "type": "Point"
       },
@@ -460,19 +459,6 @@
       "geometry": {
         "coordinates": [
           "-122.42711064395493",
-          "37.77056784888584"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.38453073422282",
           "37.755519731943515"
         ],
         "type": "Point"
@@ -498,7 +484,7 @@
     {
       "geometry": {
         "coordinates": [
-          "-122.42951117634738",
+          "-122.38453073422282",
           "37.755519731943515"
         ],
         "type": "Point"
@@ -524,13 +510,13 @@
     {
       "geometry": {
         "coordinates": [
-          "-122.38906620560476",
-          "37.778714701469028"
+          "-122.42951117634738",
+          "37.755519731943515"
         ],
         "type": "Point"
       },
       "properties": {
-        "popupContent": "Mexican Food: Yucatan Food: Street Food"
+        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
       },
       "type": "Feature"
     },
@@ -563,7 +549,7 @@
     {
       "geometry": {
         "coordinates": [
-          "-122.39830388133372",
+          "-122.38906620560476",
           "37.778714701469028"
         ],
         "type": "Point"
@@ -602,7 +588,7 @@
     {
       "geometry": {
         "coordinates": [
-          "-122.43878238856672",
+          "-122.39830388133372",
           "37.778714701469028"
         ],
         "type": "Point"
@@ -630,6 +616,19 @@
         "coordinates": [
           "-122.43878238856672",
           "37.77730002627586"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Mexican Food: Yucatan Food: Street Food"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-122.43878238856672",
+          "37.778714701469028"
         ],
         "type": "Point"
       },
@@ -655,19 +654,6 @@
       "geometry": {
         "coordinates": [
           "-122.39290104947858",
-          "37.778714701469028"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Mexican Food: Yucatan Food: Street Food"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.39290104947858",
           "37.783108842973789"
         ],
         "type": "Point"
@@ -693,7 +679,7 @@
     {
       "geometry": {
         "coordinates": [
-          "-122.46459761957114",
+          "-122.39290104947858",
           "37.778714701469028"
         ],
         "type": "Point"
@@ -732,7 +718,7 @@
     {
       "geometry": {
         "coordinates": [
-          "-122.39644435935813",
+          "-122.46459761957114",
           "37.778714701469028"
         ],
         "type": "Point"
@@ -760,6 +746,19 @@
         "coordinates": [
           "-122.39644435935813",
           "37.77730002627586"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Mexican Food: Yucatan Food: Street Food"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-122.39644435935813",
+          "37.778714701469028"
         ],
         "type": "Point"
       },
@@ -4412,7 +4411,7 @@
       "geometry": {
         "coordinates": [
           "-122.40959283347962",
-          "37.785711570310717"
+          "37.789164275278559"
         ],
         "type": "Point"
       },
@@ -4425,7 +4424,7 @@
       "geometry": {
         "coordinates": [
           "-122.40959283347962",
-          "37.789164275278559"
+          "37.785711570310717"
         ],
         "type": "Point"
       },
@@ -5257,7 +5256,7 @@
       "geometry": {
         "coordinates": [
           "0",
-          "37.785711570310717"
+          "37.789164275278559"
         ],
         "type": "Point"
       },
@@ -5270,7 +5269,7 @@
       "geometry": {
         "coordinates": [
           "0",
-          "37.789164275278559"
+          "37.785711570310717"
         ],
         "type": "Point"
       },
@@ -5413,7 +5412,7 @@
       "geometry": {
         "coordinates": [
           "-122.39889295934644",
-          "37.785711570310717"
+          "37.789164275278559"
         ],
         "type": "Point"
       },
@@ -5426,7 +5425,7 @@
       "geometry": {
         "coordinates": [
           "-122.39889295934644",
-          "37.789164275278559"
+          "37.785711570310717"
         ],
         "type": "Point"
       },
@@ -8035,5 +8034,6 @@
       },
       "type": "Feature"
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
