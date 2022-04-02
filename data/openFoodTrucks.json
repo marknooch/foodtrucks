@@ -1,19 +1,5 @@
 {
-  "type": "FeatureCollection",
   "features": [
-    {
-      "properties": {
-        "popupContent": "Mexican Food: Yucatan Food: Street Food"
-      },
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.394807823179",
-          "37.778520535067905"
-        ],
-        "type": "Point"
-      }
-    },
     {
       "properties": {
         "popupContent": "Prepackaged Kettlecorn"
@@ -62,6 +48,19 @@
         "coordinates": [
           "0",
           "37.739576790778216"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Mexican Food: Yucatan Food: Street Food"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.394807823179",
+          "37.778520535067905"
         ],
         "type": "Point"
       }
@@ -198,6 +197,19 @@
     },
     {
       "properties": {
+        "popupContent": "Tacos: burritos: soda & juice"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.41746613186956",
+          "37.77181402235702"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
         "popupContent": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn."
       },
       "type": "Feature",
@@ -205,6 +217,19 @@
         "coordinates": [
           "-122.40081339110537",
           "37.78493822996267"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Tacos: burritos: soda & juice"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.4114199662057",
+          "37.77181402235702"
         ],
         "type": "Point"
       }
@@ -231,6 +256,19 @@
         "coordinates": [
           "-122.40739807595821",
           "37.787407398506105"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Tacos: burritos: soda & juice"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.41400704302406",
+          "37.77181402235702"
         ],
         "type": "Point"
       }
@@ -302,32 +340,6 @@
     },
     {
       "properties": {
-        "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: sodea: coffee: espresso: cappucino: pastries: ice cream: Italian sausages: shish-ka-bob: churros: juice: water: various drinks."
-      },
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.40661576107294",
-          "37.785773234875755"
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "properties": {
-        "popupContent": "Soft Pretzels: hot dogs: sausage: chips: popcorn: soda: espresso: cappucino: pastries: ice cream: italian sausages: shish-ka-bob: churros: juice: water: various drinks"
-      },
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.40689189299718",
-          "37.786635282568959"
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "properties": {
         "popupContent": "Bonito Poke Bowls & Various Drinks"
       },
       "type": "Feature",
@@ -335,19 +347,6 @@
         "coordinates": [
           "-122.39588103933524",
           "37.766786779295607"
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "properties": {
-        "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: soda: espresso: cappucino: pastry: ica cream: ices: italian sausage: shish-ka-bob: churros: juice: water: various drinks"
-      },
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.40742266827704",
-          "37.784906148887941"
         ],
         "type": "Point"
       }
@@ -364,32 +363,7 @@
         ],
         "type": "Point"
       }
-    },
-    {
-      "properties": {
-        "popupContent": "Ice Cream: Waffle Cones"
-      },
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.40135328093122",
-          "37.789121900046254"
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "properties": {
-        "popupContent": "Ice Cream: Waffle Cones"
-      },
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.40241859729358",
-          "37.789121900046254"
-        ],
-        "type": "Point"
-      }
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
