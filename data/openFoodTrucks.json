@@ -1,19 +1,5 @@
 {
-  "type": "FeatureCollection",
   "features": [
-    {
-      "properties": {
-        "popupContent": "Asian Fusion - Japanese Sandwiches/Sliders/Misubi"
-      },
-      "geometry": {
-        "coordinates": [
-          "-122.41594524663745",
-          "37.805738191056804"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature"
-    },
     {
       "properties": {
         "popupContent": "Sandwich: Donuts: Coffee: Soft Serve Ice Cream: Drinks"
@@ -289,32 +275,6 @@
     },
     {
       "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Nachos Alambres: Choice of Meat: Carne Asada: Carnitas: Pollo: Al Pastor Camarones"
-      },
-      "geometry": {
-        "coordinates": [
-          "-122.42260358516438",
-          "37.785385205930979"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Nachos Alambres: Choice of Meat: Carne Asada: Carnitas: Pollo: Al Pastor Camarones"
-      },
-      "geometry": {
-        "coordinates": [
-          "-122.42256813313709",
-          "37.785385205930979"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas"
       },
       "geometry": {
@@ -523,19 +483,6 @@
     },
     {
       "properties": {
-        "popupContent": "Cold truck: sandwiches: salads: beverages: chips: candy: cookies: coffee: tea: drinks"
-      },
-      "geometry": {
-        "coordinates": [
-          "-122.40320062649582",
-          "37.76383946084772"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
         "popupContent": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn."
       },
       "geometry": {
@@ -627,32 +574,6 @@
     },
     {
       "properties": {
-        "popupContent": "Cold truck: sandwiches: salads: beverages: chips: candy: cookies: coffee: tea: drinks"
-      },
-      "geometry": {
-        "coordinates": [
-          "-122.3910982796345",
-          "37.76383946084772"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
-        "popupContent": "Cold truck: sandwiches: salads: beverages: chips: candy: cookies: coffee: tea: drinks"
-      },
-      "geometry": {
-        "coordinates": [
-          "-122.4583917498439",
-          "37.76383946084772"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
         "popupContent": "Tacos: burritos: soda & juice"
       },
       "geometry": {
@@ -685,19 +606,6 @@
         "coordinates": [
           "-122.40739807595821",
           "37.787407398506105"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
-        "popupContent": "Cold truck: sandwiches: salads: beverages: chips: candy: cookies: coffee: tea: drinks"
-      },
-      "geometry": {
-        "coordinates": [
-          "-122.3891692314827",
-          "37.76383946084772"
         ],
         "type": "Point"
       },
@@ -807,5 +715,6 @@
       },
       "type": "Feature"
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
