@@ -6,6 +6,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "-122.394807823179",
+          "37.778520535067905"
+        ]
+      },
+      "properties": {
+        "popupContent": "Mexican Food: Yucatan Food: Street Food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "-122.40241859729358",
           "37.789121900046254"
         ]
@@ -58,99 +71,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-122.39406659922962",
-          "37.783124660841082"
-        ]
-      },
-      "properties": {
-        "popupContent": "Peruvian Food Served Hot"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.40241859729358",
-          "37.787746304359324"
-        ]
-      },
-      "properties": {
-        "popupContent": "Tacos: burritos: quesadillas"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.39723654373122",
-          "37.787746304359324"
-        ]
-      },
-      "properties": {
-        "popupContent": "Tacos: burritos: quesadillas"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.394807823179",
-          "37.778714701469028"
-        ]
-      },
-      "properties": {
-        "popupContent": "Mexican Food: Yucatan Food: Street Food"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.394807823179",
-          "37.778520535067905"
-        ]
-      },
-      "properties": {
-        "popupContent": "Mexican Food: Yucatan Food: Street Food"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.38906620560476",
-          "37.778714701469028"
-        ]
-      },
-      "properties": {
-        "popupContent": "Mexican Food: Yucatan Food: Street Food"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "-122.38906620560476",
           "37.778520535067905"
-        ]
-      },
-      "properties": {
-        "popupContent": "Mexican Food: Yucatan Food: Street Food"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.39830388133372",
-          "37.778714701469028"
         ]
       },
       "properties": {
@@ -176,33 +98,7 @@
         "type": "Point",
         "coordinates": [
           "-122.43878238856672",
-          "37.778714701469028"
-        ]
-      },
-      "properties": {
-        "popupContent": "Mexican Food: Yucatan Food: Street Food"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.43878238856672",
           "37.778520535067905"
-        ]
-      },
-      "properties": {
-        "popupContent": "Mexican Food: Yucatan Food: Street Food"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.39290104947858",
-          "37.778714701469028"
         ]
       },
       "properties": {
@@ -228,33 +124,7 @@
         "type": "Point",
         "coordinates": [
           "-122.46459761957114",
-          "37.778714701469028"
-        ]
-      },
-      "properties": {
-        "popupContent": "Mexican Food: Yucatan Food: Street Food"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.46459761957114",
           "37.778520535067905"
-        ]
-      },
-      "properties": {
-        "popupContent": "Mexican Food: Yucatan Food: Street Food"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.39644435935813",
-          "37.778714701469028"
         ]
       },
       "properties": {
@@ -331,12 +201,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-122.40673602990493",
-          "37.738830582567026"
+          "-122.40081339110537",
+          "37.78493822996267"
         ]
       },
       "properties": {
-        "popupContent": "Tacos: burritos: quesadillas: tortas: nachos (refried beans: cheese sauce: salsa fresca): carnes (beef: chicken: marinated pork: fried pork): canned beans: rice: sodas: horchata drinks."
+        "popupContent": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn."
       }
     },
     {
@@ -344,12 +214,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-122.40081339110537",
-          "37.78493822996267"
+          "-122.40673602990493",
+          "37.738830582567026"
         ]
       },
       "properties": {
-        "popupContent": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn."
+        "popupContent": "Tacos: burritos: quesadillas: tortas: nachos (refried beans: cheese sauce: salsa fresca): carnes (beef: chicken: marinated pork: fried pork): canned beans: rice: sodas: horchata drinks."
       }
     },
     {
@@ -441,6 +311,45 @@
       },
       "properties": {
         "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: soda: espresso: cappucino: pastry: ica cream: ices: italian sausage: shish-ka-bob: churros: juice: water: various drinks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.39406659922962",
+          "37.783124660841082"
+        ]
+      },
+      "properties": {
+        "popupContent": "Peruvian Food Served Hot"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.40241859729358",
+          "37.787746304359324"
+        ]
+      },
+      "properties": {
+        "popupContent": "Tacos: burritos: quesadillas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.39723654373122",
+          "37.787746304359324"
+        ]
+      },
+      "properties": {
+        "popupContent": "Tacos: burritos: quesadillas"
       }
     },
     {
