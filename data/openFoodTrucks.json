@@ -1,18 +1,6 @@
 {
+  "type": "FeatureCollection",
   "features": [
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.394807823179",
-          "37.778520535067905"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Mexican Food: Yucatan Food: Street Food"
-      }
-    },
     {
       "geometry": {
         "coordinates": [
@@ -63,6 +51,19 @@
       "type": "Feature",
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-122.394807823179",
+          "37.778520535067905"
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Mexican Food: Yucatan Food: Street Food"
       }
     },
     {
@@ -273,6 +274,5 @@
         "popupContent": "Ice Cream: Waffle Cones"
       }
     }
-  ],
-  "type": "FeatureCollection"
+  ]
 }
