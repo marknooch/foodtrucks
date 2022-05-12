@@ -1,5 +1,4 @@
 {
-  "type": "FeatureCollection",
   "features": [
     {
       "geometry": {
@@ -12,32 +11,6 @@
       "type": "Feature",
       "properties": {
         "popupContent": "Asian Fusion - Japanese Sandwiches/Sliders/Misubi"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.40126969523558",
-          "37.787998605236957"
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Latin Food: Tacos: Pupusas: Vegetables: Salad: Waters: Sodas"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.40126969523558",
-          "37.788387888445406"
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Latin Food: Tacos: Pupusas: Vegetables: Salad: Waters: Sodas"
       }
     },
     {
@@ -129,58 +102,6 @@
       "type": "Feature",
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.39610066847152",
-          "37.787998605236957"
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Latin Food: Tacos: Pupusas: Vegetables: Salad: Waters: Sodas"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.39610066847152",
-          "37.788387888445406"
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Latin Food: Tacos: Pupusas: Vegetables: Salad: Waters: Sodas"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.40018504988889",
-          "37.787998605236957"
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Latin Food: Tacos: Pupusas: Vegetables: Salad: Waters: Sodas"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.40018504988889",
-          "37.788387888445406"
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Latin Food: Tacos: Pupusas: Vegetables: Salad: Waters: Sodas"
       }
     },
     {
@@ -993,71 +914,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-122.43111456170246",
-          "37.781337576301475"
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Breakfast and lunch items with a nod to various cultures"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.43111456170246",
-          "37.781337576301475"
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Breakfast and lunch items with a nod to various cultures"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.43111456170246",
-          "37.7818382734674"
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Breakfast and lunch items with a nod to various cultures"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.43111456170246",
-          "37.780908888790137"
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Breakfast and lunch items with a nod to various cultures"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.40815476434545",
-          "37.787687193261206"
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Filipino fusion food: taco: burrito: nachos: rice plates"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "-122.40673602990493",
           "37.738830582567026"
         ]
@@ -1071,71 +927,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-122.43184035948617",
-          "37.781337576301475"
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Breakfast and lunch items with a nod to various cultures"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.43184035948617",
-          "37.781337576301475"
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Breakfast and lunch items with a nod to various cultures"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.43184035948617",
-          "37.7818382734674"
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Breakfast and lunch items with a nod to various cultures"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.43184035948617",
-          "37.780908888790137"
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Breakfast and lunch items with a nod to various cultures"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.39956633142907",
-          "37.787687193261206"
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Filipino fusion food: taco: burrito: nachos: rice plates"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "-122.4017890913628",
           "37.788837572631962"
         ]
@@ -1143,19 +934,6 @@
       "type": "Feature",
       "properties": {
         "popupContent": "Lobster rolls: crab rolls: lobster burritos: crab burritos: chicken burritos: fish burritos: chicken burritos: poke bowls: soups: chips & soda."
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "0",
-          "37.792159914039125"
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Filipino fusion food: tacos: burritos: nachos: rice plates. Various beverages."
       }
     },
     {
@@ -1201,58 +979,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-122.43305677044793",
-          "37.781337576301475"
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Breakfast and lunch items with a nod to various cultures"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.43305677044793",
-          "37.781337576301475"
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Breakfast and lunch items with a nod to various cultures"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.43305677044793",
-          "37.7818382734674"
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Breakfast and lunch items with a nod to various cultures"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.43305677044793",
-          "37.780908888790137"
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Breakfast and lunch items with a nod to various cultures"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "-122.39897033211076",
           "37.788837572631962"
         ]
@@ -1273,58 +999,6 @@
       "type": "Feature",
       "properties": {
         "popupContent": "Senor Sisig: Filipino fusion food: tacos: burritos: nachos: rice plates. Various beverages."
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.43184035948617",
-          "37.781337576301475"
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Breakfast and lunch items with a nod to various cultures"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.43184035948617",
-          "37.781337576301475"
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Breakfast and lunch items with a nod to various cultures"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.43184035948617",
-          "37.7818382734674"
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Breakfast and lunch items with a nod to various cultures"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.43184035948617",
-          "37.780908888790137"
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Breakfast and lunch items with a nod to various cultures"
       }
     },
     {
@@ -1605,7 +1279,7 @@
         "type": "Point",
         "coordinates": [
           "-122.39665067526364",
-          "37.791070398675551"
+          "37.79698446843701"
         ]
       },
       "type": "Feature",
@@ -1670,7 +1344,7 @@
         "type": "Point",
         "coordinates": [
           "-122.40116037029892",
-          "37.791070398675551"
+          "37.79698446843701"
         ]
       },
       "type": "Feature",
@@ -1782,5 +1456,6 @@
         "popupContent": "Lomo Saltado: Jalea: Ceviche: Calamar: Tilapia plate: chicken special. Soda: Water."
       }
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
