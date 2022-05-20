@@ -3,6 +3,19 @@
   "features": [
     {
       "properties": {
+        "popupContent": "Mexican Food: Yucatan Food: Street Food"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.394807823179",
+          "37.778520535067905"
+        ]
+      }
+    },
+    {
+      "properties": {
         "popupContent": "Sandwich: Donuts: Coffee: Soft Serve Ice Cream: Drinks"
       },
       "type": "Feature",
@@ -63,19 +76,6 @@
         "coordinates": [
           "0",
           "37.739576790778216"
-        ]
-      }
-    },
-    {
-      "properties": {
-        "popupContent": "Mexican Food: Yucatan Food: Street Food"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.394807823179",
-          "37.778520535067905"
         ]
       }
     },
