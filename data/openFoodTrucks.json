@@ -1,5 +1,4 @@
 {
-  "type": "FeatureCollection",
   "features": [
     {
       "type": "Feature",
@@ -1307,7 +1306,7 @@
         "type": "Point",
         "coordinates": [
           "-122.4017890913628",
-          "37.792457925715127"
+          "37.793049085465782"
         ]
       },
       "properties": {
@@ -1320,19 +1319,6 @@
         "type": "Point",
         "coordinates": [
           "-122.4017890913628",
-          "37.793049085465782"
-        ]
-      },
-      "properties": {
-        "popupContent": "Lobster rolls: crab rolls: lobster burritos: crab burritos: chicken burritos: fish burritos: chicken burritos: poke bowls: soups: chips & soda."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.39935935136297",
           "37.792457925715127"
         ]
       },
@@ -1347,6 +1333,19 @@
         "coordinates": [
           "-122.39935935136297",
           "37.793049085465782"
+        ]
+      },
+      "properties": {
+        "popupContent": "Lobster rolls: crab rolls: lobster burritos: crab burritos: chicken burritos: fish burritos: chicken burritos: poke bowls: soups: chips & soda."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.39935935136297",
+          "37.792457925715127"
         ]
       },
       "properties": {
@@ -1411,7 +1410,7 @@
         "type": "Point",
         "coordinates": [
           "-122.39897033211076",
-          "37.792457925715127"
+          "37.793049085465782"
         ]
       },
       "properties": {
@@ -1424,7 +1423,7 @@
         "type": "Point",
         "coordinates": [
           "-122.39897033211076",
-          "37.793049085465782"
+          "37.792457925715127"
         ]
       },
       "properties": {
@@ -6488,5 +6487,6 @@
         "popupContent": "Cold Truck: Hamburger: cheeseburgers: hot dogs: hot sandwiches: cold sandwiches: egg muffins: cup of noodles: corn dogs: canned soup: coffee: hot cocoa: hot tea: gatorade: juice: milk: soda: water: fruits: fruit salad: rice pudding: yogurt: candy bars: chips: cookies: donuts: granola bars: muffins"
       }
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
