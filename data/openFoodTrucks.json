@@ -1,5 +1,4 @@
 {
-  "type": "FeatureCollection",
   "features": [
     {
       "type": "Feature",
@@ -76,32 +75,6 @@
         "coordinates": [
           "-122.39787163500326",
           "37.786804480998804"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Nachos Alambres: Choice of Meat: Carne Asada: Carnitas: Pollo: Al Pastor Camarones"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.42260358516438",
-          "37.784569434609786"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Nachos Alambres: Choice of Meat: Carne Asada: Carnitas: Pollo: Al Pastor Camarones"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.42256813313709",
-          "37.784569434609786"
         ]
       }
     },
@@ -355,19 +328,6 @@
     {
       "type": "Feature",
       "properties": {
-        "popupContent": "Cold truck: sandwiches: salads: beverages: chips: candy: cookies: coffee: tea: drinks"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.4583917498439",
-          "37.76383946084772"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "popupContent": "Baos: bowls & drinks"
       },
       "geometry": {
@@ -440,19 +400,6 @@
         "coordinates": [
           "-122.4018247471207",
           "37.789139557701269"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Cold truck: sandwiches: salads: beverages: chips: candy: cookies: coffee: tea: drinks"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.40320062649582",
-          "37.76383946084772"
         ]
       }
     },
@@ -537,19 +484,6 @@
     {
       "type": "Feature",
       "properties": {
-        "popupContent": "Cold truck: sandwiches: salads: beverages: chips: candy: cookies: coffee: tea: drinks"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.3910982796345",
-          "37.76383946084772"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "popupContent": "Tacos: burritos: soda & juice"
       },
       "geometry": {
@@ -583,19 +517,6 @@
         "coordinates": [
           "-122.39581105302317",
           "37.782281370912223"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Cold truck: sandwiches: salads: beverages: chips: candy: cookies: coffee: tea: drinks"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.3891692314827",
-          "37.76383946084772"
         ]
       }
     },
@@ -719,71 +640,6 @@
     {
       "type": "Feature",
       "properties": {
-        "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.4095912604668",
-          "37.78916114986874"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.40135328093122",
-          "37.78916114986874"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.40375455824538",
-          "37.78916114986874"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.40070689723306",
-          "37.78916114986874"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.43301077434302",
-          "37.78916114986874"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "popupContent": "Ice Cream: Waffle Cones"
       },
       "geometry": {
@@ -807,5 +663,6 @@
         ]
       }
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
