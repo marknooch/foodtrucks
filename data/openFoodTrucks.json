@@ -1,4 +1,5 @@
 {
+  "type": "FeatureCollection",
   "features": [
     {
       "geometry": {
@@ -24,136 +25,6 @@
       "type": "Feature",
       "properties": {
         "popupContent": "Prepackaged Kettlecorn"
-      }
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.4552219061259",
-          "37.739576790778216"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
-      }
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.45937730954839",
-          "37.739576790778216"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
-      }
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "0",
-          "37.739576790778216"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
-      }
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.394807823179",
-          "37.778520535067905"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Mexican Food: Yucatan Food: Street Food"
-      }
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.38906620560476",
-          "37.778520535067905"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Mexican Food: Yucatan Food: Street Food"
-      }
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.39830388133372",
-          "37.778520535067905"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Mexican Food: Yucatan Food: Street Food"
-      }
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.43878238856672",
-          "37.778520535067905"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Mexican Food: Yucatan Food: Street Food"
-      }
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.39290104947858",
-          "37.778520535067905"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Mexican Food: Yucatan Food: Street Food"
-      }
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.46459761957114",
-          "37.778520535067905"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Mexican Food: Yucatan Food: Street Food"
-      }
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.39644435935813",
-          "37.778520535067905"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Mexican Food: Yucatan Food: Street Food"
       }
     },
     {
@@ -276,58 +147,6 @@
     {
       "geometry": {
         "coordinates": [
-          "-122.39610066847152",
-          "37.766786779295607"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Bonito Poke Bowls & Various Drinks"
-      }
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.38735628651092",
-          "37.766786779295607"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Bonito Poke Bowls & Various Drinks"
-      }
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.39588103933524",
-          "37.766786779295607"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Bonito Poke Bowls & Various Drinks"
-      }
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.4017890913628",
-          "37.766786779295607"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Bonito Poke Bowls & Various Drinks"
-      }
-    },
-    {
-      "geometry": {
-        "coordinates": [
           "-122.40747042036952",
           "37.78846837365839"
         ],
@@ -338,6 +157,5 @@
         "popupContent": "Ice Cream: Waffle Cones"
       }
     }
-  ],
-  "type": "FeatureCollection"
+  ]
 }
