@@ -589,6 +589,19 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
+          "-122.40959283347962",
+          "37.785711570310717"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Baos: bowls & drinks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
           "-122.47587232222202",
           "37.747706739155923"
         ],
@@ -616,6 +629,32 @@
       "geometry": {
         "coordinates": [
           "0",
+          "37.785711570310717"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Baos: bowls & drinks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "0",
+          "37.785711570310717"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Baos: bowls & drinks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.39889295934644",
           "37.785711570310717"
         ],
         "type": "Point"
