@@ -1,4 +1,5 @@
 {
+  "type": "FeatureCollection",
   "features": [
     {
       "geometry": {
@@ -537,32 +538,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-122.39566345752182",
-          "37.772798809588323"
-        ]
-      },
-      "properties": {
-        "popupContent": "Coffee: Pastries: Bagels: Sandwiches: Other Items"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.39181160681602",
-          "37.772798809588323"
-        ]
-      },
-      "properties": {
-        "popupContent": "Coffee: Pastries: Bagels: Sandwiches: Other Items"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "-122.39961794865545",
           "37.776038510576427"
         ]
@@ -680,58 +655,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-122.43111456170246",
-          "37.7818382734674"
-        ]
-      },
-      "properties": {
-        "popupContent": "Breakfast and lunch items with a nod to various cultures"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.43111456170246",
-          "37.781337576301475"
-        ]
-      },
-      "properties": {
-        "popupContent": "Breakfast and lunch items with a nod to various cultures"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.43111456170246",
-          "37.781337576301475"
-        ]
-      },
-      "properties": {
-        "popupContent": "Breakfast and lunch items with a nod to various cultures"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.43111456170246",
-          "37.780908888790137"
-        ]
-      },
-      "properties": {
-        "popupContent": "Breakfast and lunch items with a nod to various cultures"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "-122.40815476434545",
           "37.785502222397305"
         ]
@@ -751,58 +674,6 @@
       },
       "properties": {
         "popupContent": "Tacos: burritos: quesadillas: tortas: nachos (refried beans: cheese sauce: salsa fresca): carnes (beef: chicken: marinated pork: fried pork): canned beans: rice: sodas: horchata drinks."
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.43184035948617",
-          "37.7818382734674"
-        ]
-      },
-      "properties": {
-        "popupContent": "Breakfast and lunch items with a nod to various cultures"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.43184035948617",
-          "37.781337576301475"
-        ]
-      },
-      "properties": {
-        "popupContent": "Breakfast and lunch items with a nod to various cultures"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.43184035948617",
-          "37.781337576301475"
-        ]
-      },
-      "properties": {
-        "popupContent": "Breakfast and lunch items with a nod to various cultures"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.43184035948617",
-          "37.780908888790137"
-        ]
-      },
-      "properties": {
-        "popupContent": "Breakfast and lunch items with a nod to various cultures"
       },
       "type": "Feature"
     },
@@ -842,110 +713,6 @@
       },
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Various Drinks"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.43305677044793",
-          "37.7818382734674"
-        ]
-      },
-      "properties": {
-        "popupContent": "Breakfast and lunch items with a nod to various cultures"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.43305677044793",
-          "37.781337576301475"
-        ]
-      },
-      "properties": {
-        "popupContent": "Breakfast and lunch items with a nod to various cultures"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.43305677044793",
-          "37.781337576301475"
-        ]
-      },
-      "properties": {
-        "popupContent": "Breakfast and lunch items with a nod to various cultures"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.43305677044793",
-          "37.780908888790137"
-        ]
-      },
-      "properties": {
-        "popupContent": "Breakfast and lunch items with a nod to various cultures"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.43184035948617",
-          "37.7818382734674"
-        ]
-      },
-      "properties": {
-        "popupContent": "Breakfast and lunch items with a nod to various cultures"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.43184035948617",
-          "37.781337576301475"
-        ]
-      },
-      "properties": {
-        "popupContent": "Breakfast and lunch items with a nod to various cultures"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.43184035948617",
-          "37.781337576301475"
-        ]
-      },
-      "properties": {
-        "popupContent": "Breakfast and lunch items with a nod to various cultures"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.43184035948617",
-          "37.780908888790137"
-        ]
-      },
-      "properties": {
-        "popupContent": "Breakfast and lunch items with a nod to various cultures"
       },
       "type": "Feature"
     },
@@ -1148,6 +915,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "-122.39665067526364",
+          "37.79698446843701"
+        ]
+      },
+      "properties": {
+        "popupContent": "Chicken Tiki Masala Burritos: Paneer Tiki Masala Burritos: Samosas: Mango Lassi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "-122.40661576107294",
           "37.785773234875755"
         ]
@@ -1200,6 +980,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "-122.40116037029892",
+          "37.79698446843701"
+        ]
+      },
+      "properties": {
+        "popupContent": "Chicken Tiki Masala Burritos: Paneer Tiki Masala Burritos: Samosas: Mango Lassi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "-122.4017890913628",
           "37.766786779295607"
         ]
@@ -1226,46 +1019,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-122.40959283347962",
-          "37.785711570310717"
-        ]
-      },
-      "properties": {
-        "popupContent": "Baos: bowls & drinks"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "0",
-          "37.785711570310717"
-        ]
-      },
-      "properties": {
-        "popupContent": "Baos: bowls & drinks"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "0",
-          "37.785711570310717"
-        ]
-      },
-      "properties": {
-        "popupContent": "Baos: bowls & drinks"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.39889295934644",
           "37.785711570310717"
         ]
       },
@@ -1456,6 +1210,5 @@
       },
       "type": "Feature"
     }
-  ],
-  "type": "FeatureCollection"
+  ]
 }
