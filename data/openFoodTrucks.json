@@ -1,31 +1,6 @@
 {
+  "type": "FeatureCollection",
   "features": [
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.4925212449949",
-          "37.721889708708382"
-        ]
-      },
-      "properties": {
-        "popupContent": "Coffee: Vegan Pastries: Vegan Hot Dogs: Vegan Tamales: Te: Vegan Shakes"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.394807823179",
-          "37.778714701469028"
-        ]
-      },
-      "properties": {
-        "popupContent": "Mexican Food: Yucatan Food: Street Food"
-      },
-      "type": "Feature"
-    },
     {
       "geometry": {
         "type": "Point",
@@ -45,19 +20,6 @@
         "coordinates": [
           "-122.40815476434545",
           "37.785502222397305"
-        ]
-      },
-      "properties": {
-        "popupContent": "Prepackaged Kettlecorn"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.39787163500326",
-          "37.786804480998804"
         ]
       },
       "properties": {
@@ -108,47 +70,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-122.43301077434302",
-          "37.805128228384312"
-        ]
-      },
-      "properties": {
-        "popupContent": "Acai Bowls: Poke Bowls: Smoothies: Juices"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.38906620560476",
-          "37.778714701469028"
-        ]
-      },
-      "properties": {
-        "popupContent": "Mexican Food: Yucatan Food: Street Food"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "-122.38906620560476",
           "37.778520535067905"
-        ]
-      },
-      "properties": {
-        "popupContent": "Mexican Food: Yucatan Food: Street Food"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.39830388133372",
-          "37.778714701469028"
         ]
       },
       "properties": {
@@ -174,33 +97,7 @@
         "type": "Point",
         "coordinates": [
           "-122.43878238856672",
-          "37.778714701469028"
-        ]
-      },
-      "properties": {
-        "popupContent": "Mexican Food: Yucatan Food: Street Food"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.43878238856672",
           "37.778520535067905"
-        ]
-      },
-      "properties": {
-        "popupContent": "Mexican Food: Yucatan Food: Street Food"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.39290104947858",
-          "37.778714701469028"
         ]
       },
       "properties": {
@@ -226,33 +123,7 @@
         "type": "Point",
         "coordinates": [
           "-122.46459761957114",
-          "37.778714701469028"
-        ]
-      },
-      "properties": {
-        "popupContent": "Mexican Food: Yucatan Food: Street Food"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.46459761957114",
           "37.778520535067905"
-        ]
-      },
-      "properties": {
-        "popupContent": "Mexican Food: Yucatan Food: Street Food"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.39644435935813",
-          "37.778714701469028"
         ]
       },
       "properties": {
@@ -342,19 +213,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-122.40673602990493",
-          "37.738830582567026"
-        ]
-      },
-      "properties": {
-        "popupContent": "Tacos: burritos: quesadillas: tortas: nachos (refried beans: cheese sauce: salsa fresca): carnes (beef: chicken: marinated pork: fried pork): canned beans: rice: sodas: horchata drinks."
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "-122.39964429852886",
           "37.781846487320465"
         ]
@@ -394,19 +252,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-122.39863358940373",
-          "37.791258708308668"
-        ]
-      },
-      "properties": {
-        "popupContent": "Gyros: Kebabs: soft drinks: and water"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "-122.40527052309521",
           "37.787813788166275"
         ]
@@ -426,19 +271,6 @@
       },
       "properties": {
         "popupContent": "Ice Cream & Waffle Cones"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.40257456841074",
-          "37.78904580399292"
-        ]
-      },
-      "properties": {
-        "popupContent": "Rotisserie chicken: pork loin: ribs: chicken salad wrap: potatoes: roasted seasonal vegetables kale salad: beverages."
       },
       "type": "Feature"
     },
@@ -559,6 +391,5 @@
       },
       "type": "Feature"
     }
-  ],
-  "type": "FeatureCollection"
+  ]
 }
