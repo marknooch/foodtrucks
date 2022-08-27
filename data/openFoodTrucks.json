@@ -1,4 +1,5 @@
 {
+  "type": "FeatureCollection",
   "features": [
     {
       "geometry": {
@@ -95,12 +96,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "-122.40815476434545",
+          "37.785502222397305"
+        ]
+      },
+      "properties": {
+        "popupContent": "Filipino fusion food: taco: burrito: nachos: rice plates"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "-122.43184035948617",
           "37.780908888790137"
         ]
       },
       "properties": {
         "popupContent": "Breakfast and lunch items with a nod to various cultures"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.39956633142907",
+          "37.785502222397305"
+        ]
+      },
+      "properties": {
+        "popupContent": "Filipino fusion food: taco: burrito: nachos: rice plates"
       },
       "type": "Feature"
     },
@@ -160,6 +187,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "-122.4077185090006",
+          "37.787347325398393"
+        ]
+      },
+      "properties": {
+        "popupContent": "Ice Cream & Waffle Cones"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "-122.39863358940373",
           "37.791258708308668"
         ]
@@ -181,7 +221,45 @@
         "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: soda: espresso: cappucino: pastry: ica cream: ices: italian sausage: shish-ka-bob: churros: juice: water: various drinks"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.40959283347962",
+          "37.785711570310717"
+        ]
+      },
+      "properties": {
+        "popupContent": "Baos: bowls & drinks"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "0",
+          "37.785711570310717"
+        ]
+      },
+      "properties": {
+        "popupContent": "Baos: bowls & drinks"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.39889295934644",
+          "37.785711570310717"
+        ]
+      },
+      "properties": {
+        "popupContent": "Baos: bowls & drinks"
+      },
+      "type": "Feature"
     }
-  ],
-  "type": "FeatureCollection"
+  ]
 }
