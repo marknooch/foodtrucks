@@ -1,146 +1,107 @@
 {
   "features": [
     {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Prepackaged Kettlecorn"
-      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           "-122.39787163500326",
           "37.786804480998804"
-        ]
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Prepackaged Kettlecorn"
       }
     },
     {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn."
-      },
       "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.40081339110537",
-          "37.78493822996267"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Filipino fusion food: taco: burrito: nachos: rice plates"
-      },
-      "geometry": {
-        "type": "Point",
         "coordinates": [
           "-122.40815476434545",
           "37.785502222397305"
-        ]
-      }
-    },
-    {
+        ],
+        "type": "Point"
+      },
       "type": "Feature",
       "properties": {
         "popupContent": "Filipino fusion food: taco: burrito: nachos: rice plates"
-      },
+      }
+    },
+    {
       "geometry": {
-        "type": "Point",
         "coordinates": [
           "-122.39956633142907",
           "37.785502222397305"
-        ]
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Filipino fusion food: taco: burrito: nachos: rice plates"
       }
     },
     {
+      "geometry": {
+        "coordinates": [
+          "-122.40081339110537",
+          "37.78493822996267"
+        ],
+        "type": "Point"
+      },
       "type": "Feature",
       "properties": {
         "popupContent": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn."
-      },
+      }
+    },
+    {
       "geometry": {
-        "type": "Point",
         "coordinates": [
           "-122.39581105302317",
           "37.782281370912223"
-        ]
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn."
       }
     },
     {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Gyros: Kebabs: soft drinks: and water"
-      },
       "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.39863358940373",
-          "37.791258708308668"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Ice Cream & Waffle Cones"
-      },
-      "geometry": {
-        "type": "Point",
         "coordinates": [
           "-122.4077185090006",
           "37.787347325398393"
-        ]
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Ice Cream & Waffle Cones"
       }
     },
     {
+      "geometry": {
+        "coordinates": [
+          "-122.39863358940373",
+          "37.791258708308668"
+        ],
+        "type": "Point"
+      },
       "type": "Feature",
       "properties": {
-        "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: soda: espresso: cappucino: pastry: ica cream: ices: italian sausage: shish-ka-bob: churros: juice: water: various drinks"
-      },
+        "popupContent": "Gyros: Kebabs: soft drinks: and water"
+      }
+    },
+    {
       "geometry": {
-        "type": "Point",
         "coordinates": [
           "-122.40742266827704",
           "37.784906148887941"
-        ]
-      }
-    },
-    {
+        ],
+        "type": "Point"
+      },
       "type": "Feature",
       "properties": {
-        "popupContent": "Baos: bowls & drinks"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.40959283347962",
-          "37.785711570310717"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Baos: bowls & drinks"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "0",
-          "37.785711570310717"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Baos: bowls & drinks"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.39889295934644",
-          "37.785711570310717"
-        ]
+        "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: soda: espresso: cappucino: pastry: ica cream: ices: italian sausage: shish-ka-bob: churros: juice: water: various drinks"
       }
     }
   ],
