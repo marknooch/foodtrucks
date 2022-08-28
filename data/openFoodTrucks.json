@@ -1,5 +1,4 @@
 {
-  "type": "FeatureCollection",
   "features": [
     {
       "properties": {
@@ -16,6 +15,19 @@
     },
     {
       "properties": {
+        "popupContent": "Mexican Food: Yucatan Food: Street Food"
+      },
+      "geometry": {
+        "coordinates": [
+          "-122.394807823179",
+          "37.765588472761685"
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
       },
       "geometry": {
@@ -87,6 +99,84 @@
         "coordinates": [
           "0",
           "37.710201887920647"
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "popupContent": "Mexican Food: Yucatan Food: Street Food"
+      },
+      "geometry": {
+        "coordinates": [
+          "-122.38906620560476",
+          "37.765588472761685"
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "popupContent": "Mexican Food: Yucatan Food: Street Food"
+      },
+      "geometry": {
+        "coordinates": [
+          "-122.39830388133372",
+          "37.765588472761685"
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "popupContent": "Mexican Food: Yucatan Food: Street Food"
+      },
+      "geometry": {
+        "coordinates": [
+          "-122.43878238856672",
+          "37.765588472761685"
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "popupContent": "Mexican Food: Yucatan Food: Street Food"
+      },
+      "geometry": {
+        "coordinates": [
+          "-122.39290104947858",
+          "37.765588472761685"
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "popupContent": "Mexican Food: Yucatan Food: Street Food"
+      },
+      "geometry": {
+        "coordinates": [
+          "-122.46459761957114",
+          "37.765588472761685"
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "popupContent": "Mexican Food: Yucatan Food: Street Food"
+      },
+      "geometry": {
+        "coordinates": [
+          "-122.39644435935813",
+          "37.765588472761685"
         ],
         "type": "Point"
       },
@@ -378,5 +468,6 @@
       },
       "type": "Feature"
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
