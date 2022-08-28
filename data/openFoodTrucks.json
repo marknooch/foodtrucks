@@ -1,5 +1,4 @@
 {
-  "type": "FeatureCollection",
   "features": [
     {
       "type": "Feature",
@@ -524,45 +523,6 @@
     {
       "type": "Feature",
       "properties": {
-        "popupContent": "Baos: bowls & drinks"
-      },
-      "geometry": {
-        "coordinates": [
-          "-122.40959283347962",
-          "37.785711570310717"
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Baos: bowls & drinks"
-      },
-      "geometry": {
-        "coordinates": [
-          "0",
-          "37.785711570310717"
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Baos: bowls & drinks"
-      },
-      "geometry": {
-        "coordinates": [
-          "-122.39889295934644",
-          "37.785711570310717"
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
       },
       "geometry": {
@@ -651,5 +611,6 @@
         "type": "Point"
       }
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
