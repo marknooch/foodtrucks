@@ -2,19 +2,6 @@
   "features": [
     {
       "properties": {
-        "popupContent": "Sandwich: Donuts: Coffee: Soft Serve Ice Cream: Drinks"
-      },
-      "geometry": {
-        "coordinates": [
-          "-122.40241859729358",
-          "37.789121900046254"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
         "popupContent": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn."
       },
       "geometry": {
@@ -60,19 +47,6 @@
         "coordinates": [
           "-122.40739807595821",
           "37.787407398506105"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
-        "popupContent": "Ice Cream: Waffle Cones"
-      },
-      "geometry": {
-        "coordinates": [
-          "-122.40747042036952",
-          "37.78846837365839"
         ],
         "type": "Point"
       },
