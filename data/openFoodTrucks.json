@@ -1,9 +1,6 @@
 {
   "features": [
     {
-      "properties": {
-        "popupContent": "Tacos: burritos: soda & juice"
-      },
       "geometry": {
         "coordinates": [
           "-122.41746613186956",
@@ -11,12 +8,12 @@
         ],
         "type": "Point"
       },
-      "type": "Feature"
-    },
-    {
+      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: burritos: soda & juice"
-      },
+      }
+    },
+    {
       "geometry": {
         "coordinates": [
           "-122.4114199662057",
@@ -24,12 +21,12 @@
         ],
         "type": "Point"
       },
-      "type": "Feature"
-    },
-    {
+      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: burritos: soda & juice"
-      },
+      }
+    },
+    {
       "geometry": {
         "coordinates": [
           "-122.41400704302406",
@@ -37,12 +34,12 @@
         ],
         "type": "Point"
       },
-      "type": "Feature"
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Tacos: burritos: soda & juice"
+      }
     },
     {
-      "properties": {
-        "popupContent": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn."
-      },
       "geometry": {
         "coordinates": [
           "-122.40557905421024",
@@ -50,12 +47,12 @@
         ],
         "type": "Point"
       },
-      "type": "Feature"
-    },
-    {
+      "type": "Feature",
       "properties": {
         "popupContent": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn."
-      },
+      }
+    },
+    {
       "geometry": {
         "coordinates": [
           "-122.4018247471207",
@@ -63,12 +60,12 @@
         ],
         "type": "Point"
       },
-      "type": "Feature"
-    },
-    {
+      "type": "Feature",
       "properties": {
         "popupContent": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn."
-      },
+      }
+    },
+    {
       "geometry": {
         "coordinates": [
           "-122.40081339110537",
@@ -76,12 +73,12 @@
         ],
         "type": "Point"
       },
-      "type": "Feature"
-    },
-    {
+      "type": "Feature",
       "properties": {
         "popupContent": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn."
-      },
+      }
+    },
+    {
       "geometry": {
         "coordinates": [
           "-122.39964429852886",
@@ -89,12 +86,12 @@
         ],
         "type": "Point"
       },
-      "type": "Feature"
-    },
-    {
+      "type": "Feature",
       "properties": {
         "popupContent": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn."
-      },
+      }
+    },
+    {
       "geometry": {
         "coordinates": [
           "-122.39581105302317",
@@ -102,7 +99,10 @@
         ],
         "type": "Point"
       },
-      "type": "Feature"
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn."
+      }
     }
   ],
   "type": "FeatureCollection"
