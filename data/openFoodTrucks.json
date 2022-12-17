@@ -1,5 +1,4 @@
 {
-  "type": "FeatureCollection",
   "features": [
     {
       "type": "Feature",
@@ -269,7 +268,7 @@
       "geometry": {
         "coordinates": [
           "-122.43301077434302",
-          "37.78916114986874"
+          "37.805128228384312"
         ],
         "type": "Point"
       }
@@ -282,7 +281,7 @@
       "geometry": {
         "coordinates": [
           "-122.43301077434302",
-          "37.805128228384312"
+          "37.78916114986874"
         ],
         "type": "Point"
       }
@@ -308,7 +307,7 @@
       "geometry": {
         "coordinates": [
           "-122.40135328093122",
-          "37.78916114986874"
+          "37.805128228384312"
         ],
         "type": "Point"
       }
@@ -321,7 +320,7 @@
       "geometry": {
         "coordinates": [
           "-122.40135328093122",
-          "37.805128228384312"
+          "37.78916114986874"
         ],
         "type": "Point"
       }
@@ -347,7 +346,7 @@
       "geometry": {
         "coordinates": [
           "-122.40070689723306",
-          "37.78916114986874"
+          "37.805128228384312"
         ],
         "type": "Point"
       }
@@ -360,7 +359,7 @@
       "geometry": {
         "coordinates": [
           "-122.40070689723306",
-          "37.805128228384312"
+          "37.78916114986874"
         ],
         "type": "Point"
       }
@@ -399,7 +398,7 @@
       "geometry": {
         "coordinates": [
           "-122.4095912604668",
-          "37.78916114986874"
+          "37.805128228384312"
         ],
         "type": "Point"
       }
@@ -412,19 +411,6 @@
       "geometry": {
         "coordinates": [
           "-122.4095912604668",
-          "37.805128228384312"
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
-      },
-      "geometry": {
-        "coordinates": [
-          "-122.40375455824538",
           "37.78916114986874"
         ],
         "type": "Point"
@@ -439,6 +425,19 @@
         "coordinates": [
           "-122.40375455824538",
           "37.805128228384312"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
+      },
+      "geometry": {
+        "coordinates": [
+          "-122.40375455824538",
+          "37.78916114986874"
         ],
         "type": "Point"
       }
@@ -755,5 +754,6 @@
         "type": "Point"
       }
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
