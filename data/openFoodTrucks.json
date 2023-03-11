@@ -1,4 +1,5 @@
 {
+  "type": "FeatureCollection",
   "features": [
     {
       "geometry": {
@@ -680,45 +681,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-122.39809861316652",
-          "37.793449871960071"
-        ]
-      },
-      "properties": {
-        "popupContent": "MOMO Spicy Noodle: POPO's Noodle: Spicy Chicken Noodle: Rice Noodles"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.40238532279395",
-          "37.792846595133213"
-        ]
-      },
-      "properties": {
-        "popupContent": "Tacos: burritos: quesadillas"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.40103337534973",
-          "37.786731629993909"
-        ]
-      },
-      "properties": {
-        "popupContent": "Noodles: Meat & Drinks"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "-122.39956633142907",
           "37.785502222397305"
         ]
@@ -745,32 +707,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-122.4001004237385",
-          "37.788670817471122"
-        ]
-      },
-      "properties": {
-        "popupContent": "Noodles"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.4001004237385",
-          "37.790990760680316"
-        ]
-      },
-      "properties": {
-        "popupContent": "Noodles"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "-122.4552219061259",
           "37.710201887920647"
         ]
@@ -816,35 +752,8 @@
       },
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.3986412420388",
-          "37.788670817471122"
-        ]
-      },
-      "properties": {
-        "popupContent": "Noodles"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.3986412420388",
-          "37.790990760680316"
-        ]
-      },
-      "properties": {
-        "popupContent": "Noodles"
       },
       "type": "Feature"
     }
-  ],
-  "type": "FeatureCollection"
+  ]
 }
