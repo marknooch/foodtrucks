@@ -1,5 +1,4 @@
 {
-  "type": "FeatureCollection",
   "features": [
     {
       "properties": {
@@ -29,19 +28,6 @@
     },
     {
       "properties": {
-        "popupContent": "Coffee: Vegan Pastries: Vegan Hot Dogs: Vegan Tamales: Te: Vegan Shakes"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.4925212449949",
-          "37.721889708708382"
-        ]
-      }
-    },
-    {
-      "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
       },
       "type": "Feature",
@@ -62,19 +48,6 @@
         "type": "Point",
         "coordinates": [
           "-122.40135328093122",
-          "37.805128228384312"
-        ]
-      }
-    },
-    {
-      "properties": {
-        "popupContent": "Acai Bowls: Poke Bowls: Smoothies: Juices"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.43301077434302",
           "37.805128228384312"
         ]
       }
@@ -404,5 +377,6 @@
         ]
       }
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
