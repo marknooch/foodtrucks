@@ -1,18 +1,6 @@
 {
+  "type": "FeatureCollection",
   "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.4017890913628",
-          "37.766786779295607"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Bonito Poke Bowls & Various Drinks"
-      }
-    },
     {
       "type": "Feature",
       "geometry": {
@@ -50,84 +38,6 @@
       },
       "properties": {
         "popupContent": "Tacos: burritos: soda & juice"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.4077185090006",
-          "37.787347325398393"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Ice Cream & Waffle Cones"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39588103933524",
-          "37.766786779295607"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Bonito Poke Bowls & Various Drinks"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39610066847152",
-          "37.766786779295607"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Bonito Poke Bowls & Various Drinks"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.38735628651092",
-          "37.766786779295607"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Bonito Poke Bowls & Various Drinks"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39714976579396",
-          "37.747008237667252"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Brazilian Hamburgers"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39703171897757",
-          "37.747008237667252"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Brazilian Hamburgers"
       }
     },
     {
@@ -186,19 +96,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          "-122.45937730954839",
-          "37.739576790778216"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           "-122.40815476434545",
           "37.785502222397305"
         ],
@@ -207,33 +104,6 @@
       "properties": {
         "popupContent": "Prepackaged Kettlecorn"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.4552219061259",
-          "37.739576790778216"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "0",
-          "37.739576790778216"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
-      }
     }
-  ],
-  "type": "FeatureCollection"
+  ]
 }
