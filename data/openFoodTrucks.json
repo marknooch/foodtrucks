@@ -1,5 +1,19 @@
 {
+  "type": "FeatureCollection",
   "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.38453073422282",
+          "37.77056784888584"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
+      }
+    },
     {
       "type": "Feature",
       "geometry": {
@@ -323,19 +337,6 @@
       },
       "properties": {
         "popupContent": "Peruvian Food Served Hot"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.38453073422282",
-          "37.77056784888584"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
       }
     },
     {
@@ -1235,6 +1236,5 @@
         "popupContent": "Rotisserie Chicken; Ribs; Pork Loin; Roasted Potatoes; Chicken Wrap; Kale Salad; Drinks"
       }
     }
-  ],
-  "type": "FeatureCollection"
+  ]
 }
