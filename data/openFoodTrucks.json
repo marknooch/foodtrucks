@@ -1,6 +1,18 @@
 {
-  "type": "FeatureCollection",
   "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.39179682107691",
+          "37.776038510576427"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "everything except for hot dogs"
+      }
+    },
     {
       "geometry": {
         "type": "Point",
@@ -9,10 +21,49 @@
           "37.786635282568959"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Soft Pretzels: hot dogs: sausage: chips: popcorn: soda: espresso: cappucino: pastries: ice cream: italian sausages: shish-ka-bob: churros: juice: water: various drinks"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.41400704302406",
+          "37.751013838174387"
+        ]
       },
-      "type": "Feature"
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Tacos: burritos: soda & juice"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.4114199662057",
+          "37.751013838174387"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Tacos: burritos: soda & juice"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.41746613186956",
+          "37.751013838174387"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Tacos: burritos: soda & juice"
+      }
     },
     {
       "geometry": {
@@ -22,10 +73,62 @@
           "37.721889708708382"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Coffee: Vegan Pastries: Vegan Hot Dogs: Vegan Tamales: Te: Vegan Shakes"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.47547353178139",
+          "37.747706739155923"
+        ]
       },
-      "type": "Feature"
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cold Truck: Burrito: Corn Dog: Salads: Sandwiches: Quesadilla: Tacos: Fried Rice: Cow Mein: Chinese Rice: Noodle Plates: Soup: Bacon: Eggs: Ham: Avacado: Sausages: Beverages"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.43346578040662",
+          "37.747706739155923"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cold Truck: Burrito: Corn Dog: Salads: Sandwiches: Quesadilla: Tacos: Fried Rice: Cow Mein: Chinese Rice: Noodle Plates: Soup: Bacon: Eggs: Ham: Avacado: Sausages: Beverages"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.40028723986815",
+          "37.747706739155923"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cold Truck: Burrito: Corn Dog: Salads: Sandwiches: Quesadilla: Tacos: Fried Rice: Cow Mein: Chinese Rice: Noodle Plates: Soup: Bacon: Eggs: Ham: Avacado: Sausages: Beverages"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.40025957520209",
+          "37.747706739155923"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cold Truck: Burrito: Corn Dog: Salads: Sandwiches: Quesadilla: Tacos: Fried Rice: Cow Mein: Chinese Rice: Noodle Plates: Soup: Bacon: Eggs: Ham: Avacado: Sausages: Beverages"
+      }
     },
     {
       "geometry": {
@@ -35,10 +138,10 @@
           "37.805128228384312"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
-      },
-      "type": "Feature"
+      }
     },
     {
       "geometry": {
@@ -48,10 +151,36 @@
           "37.805128228384312"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.39703171897757",
+          "37.747706739155923"
+        ]
       },
-      "type": "Feature"
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cold Truck: Burrito: Corn Dog: Salads: Sandwiches: Quesadilla: Tacos: Fried Rice: Cow Mein: Chinese Rice: Noodle Plates: Soup: Bacon: Eggs: Ham: Avacado: Sausages: Beverages"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.43301077434302",
+          "37.805128228384312"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Acai Bowls: Poke Bowls: Smoothies: Juices"
+      }
     },
     {
       "geometry": {
@@ -61,10 +190,49 @@
           "37.805128228384312"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.47587232222202",
+          "37.747706739155923"
+        ]
       },
-      "type": "Feature"
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cold Truck: Burrito: Corn Dog: Salads: Sandwiches: Quesadilla: Tacos: Fried Rice: Cow Mein: Chinese Rice: Noodle Plates: Soup: Bacon: Eggs: Ham: Avacado: Sausages: Beverages"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.49007120809986",
+          "37.747706739155923"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cold Truck: Burrito: Corn Dog: Salads: Sandwiches: Quesadilla: Tacos: Fried Rice: Cow Mein: Chinese Rice: Noodle Plates: Soup: Bacon: Eggs: Ham: Avacado: Sausages: Beverages"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.39863358940373",
+          "37.791258708308668"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Gyros: Kebabs: soft drinks: and water"
+      }
     },
     {
       "geometry": {
@@ -74,10 +242,10 @@
           "37.805128228384312"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
-      },
-      "type": "Feature"
+      }
     },
     {
       "geometry": {
@@ -87,10 +255,10 @@
           "37.805128228384312"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
-      },
-      "type": "Feature"
+      }
     },
     {
       "geometry": {
@@ -100,10 +268,10 @@
           "37.784906148887941"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: soda: espresso: cappucino: pastry: ica cream: ices: italian sausage: shish-ka-bob: churros: juice: water: various drinks"
-      },
-      "type": "Feature"
+      }
     },
     {
       "geometry": {
@@ -113,10 +281,10 @@
           "37.785773234875755"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: sodea: coffee: espresso: cappucino: pastries: ice cream: Italian sausages: shish-ka-bob: churros: juice: water: various drinks."
-      },
-      "type": "Feature"
+      }
     },
     {
       "geometry": {
@@ -126,10 +294,10 @@
           "37.787813788166275"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn."
-      },
-      "type": "Feature"
+      }
     },
     {
       "geometry": {
@@ -139,10 +307,10 @@
           "37.788925230487813"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn."
-      },
-      "type": "Feature"
+      }
     },
     {
       "geometry": {
@@ -152,10 +320,10 @@
           "37.787407398506105"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn."
-      },
-      "type": "Feature"
+      }
     },
     {
       "geometry": {
@@ -165,10 +333,10 @@
           "37.787443441472988"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn."
-      },
-      "type": "Feature"
+      }
     },
     {
       "geometry": {
@@ -178,10 +346,10 @@
           "37.766870819282303"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Various Drinks"
-      },
-      "type": "Feature"
+      }
     },
     {
       "geometry": {
@@ -191,10 +359,10 @@
           "37.766870819282303"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Various Drinks"
-      },
-      "type": "Feature"
+      }
     },
     {
       "geometry": {
@@ -204,10 +372,10 @@
           "37.724270062085751"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
-      },
-      "type": "Feature"
+      }
     },
     {
       "geometry": {
@@ -217,10 +385,10 @@
           "37.710201887920647"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
-      },
-      "type": "Feature"
+      }
     },
     {
       "geometry": {
@@ -230,10 +398,10 @@
           "37.738830582567026"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: burritos: quesadillas: tortas: nachos (refried beans: cheese sauce: salsa fresca): carnes (beef: chicken: marinated pork: fried pork): canned beans: rice: sodas: horchata drinks."
-      },
-      "type": "Feature"
+      }
     },
     {
       "geometry": {
@@ -243,10 +411,10 @@
           "37.724270062085751"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
-      },
-      "type": "Feature"
+      }
     },
     {
       "geometry": {
@@ -256,10 +424,10 @@
           "37.710201887920647"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
-      },
-      "type": "Feature"
+      }
     },
     {
       "geometry": {
@@ -269,10 +437,10 @@
           "37.724270062085751"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
-      },
-      "type": "Feature"
+      }
     },
     {
       "geometry": {
@@ -282,10 +450,11 @@
           "37.710201887920647"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
-      },
-      "type": "Feature"
+      }
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
