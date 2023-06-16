@@ -1,18 +1,6 @@
 {
+  "type": "FeatureCollection",
   "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
-      },
-      "geometry": {
-        "coordinates": [
-          "-122.38453073422282",
-          "37.77056784888584"
-        ],
-        "type": "Point"
-      }
-    },
     {
       "type": "Feature",
       "properties": {
@@ -178,6 +166,19 @@
         "coordinates": [
           "-122.4925212449949",
           "37.721889708708382"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
+      },
+      "geometry": {
+        "coordinates": [
+          "-122.38453073422282",
+          "37.77056784888584"
         ],
         "type": "Point"
       }
@@ -637,6 +638,5 @@
         "type": "Point"
       }
     }
-  ],
-  "type": "FeatureCollection"
+  ]
 }
