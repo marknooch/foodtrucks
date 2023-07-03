@@ -1,6 +1,31 @@
 {
-  "type": "FeatureCollection",
   "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.38453073422282",
+          "37.782999444484496"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.38453073422282",
+          "37.775946808877805"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
+      }
+    },
     {
       "type": "Feature",
       "geometry": {
@@ -220,32 +245,6 @@
       },
       "properties": {
         "popupContent": "Cold truck: sandwiches: salads: beverages: chips: candy: cookies: coffee: tea: drinks"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.38453073422282",
-          "37.782999444484496"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.38453073422282",
-          "37.775946808877805"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
       }
     },
     {
@@ -885,5 +884,6 @@
         "popupContent": "Rotisserie Chicken; Ribs; Pork Loin; Roasted Potatoes; Chicken Wrap; Kale Salad; Drinks"
       }
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
