@@ -1,5 +1,4 @@
 {
-  "type": "FeatureCollection",
   "features": [
     {
       "properties": {
@@ -91,19 +90,7 @@
         ],
         "type": "Point"
       }
-    },
-    {
-      "properties": {
-        "popupContent": "Prepackaged Kettlecorn"
-      },
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.40815476434545",
-          "37.785502222397305"
-        ],
-        "type": "Point"
-      }
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
