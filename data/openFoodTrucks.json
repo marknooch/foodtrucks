@@ -1,5 +1,4 @@
 {
-  "type": "FeatureCollection",
   "features": [
     {
       "geometry": {
@@ -128,6 +127,19 @@
       },
       "properties": {
         "popupContent": "Cold Truck: Burrito: Corn Dog: Salads: Sandwiches: Quesadilla: Tacos: Fried Rice: Cow Mein: Chinese Rice: Noodle Plates: Soup: Bacon: Eggs: Ham: Avacado: Sausages: Beverages"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.42730642251331",
+          "37.761398102006275"
+        ]
+      },
+      "properties": {
+        "popupContent": "Snow Cones: Soft Serve Ice Cream & Frozen Virgin Daiquiris"
       },
       "type": "Feature"
     },
@@ -521,5 +533,6 @@
       },
       "type": "Feature"
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
