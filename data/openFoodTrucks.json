@@ -2,7 +2,6 @@
   "type": "FeatureCollection",
   "features": [
     {
-      "type": "Feature",
       "properties": {
         "popupContent": "Soft Pretzels: hot dogs: sausage: chips: popcorn: soda: espresso: cappucino: pastries: ice cream: italian sausages: shish-ka-bob: churros: juice: water: various drinks"
       },
@@ -12,10 +11,10 @@
           "37.786635282568959"
         ],
         "type": "Point"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: burritos: soda & juice"
       },
@@ -25,10 +24,10 @@
           "37.775548024246895"
         ],
         "type": "Point"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: burritos: soda & juice"
       },
@@ -38,10 +37,10 @@
           "37.775548024246895"
         ],
         "type": "Point"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: burritos: soda & juice"
       },
@@ -51,10 +50,10 @@
           "37.775548024246895"
         ],
         "type": "Point"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "popupContent": "Peruvian Food Served Hot"
       },
@@ -64,10 +63,10 @@
           "37.783124660841082"
         ],
         "type": "Point"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
       },
@@ -77,23 +76,10 @@
           "37.77056784888584"
         ],
         "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
       },
-      "geometry": {
-        "coordinates": [
-          "-122.43301077434302",
-          "37.795838484437851"
-        ],
-        "type": "Point"
-      }
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
       },
@@ -103,10 +89,36 @@
           "37.793002875331801"
         ],
         "type": "Point"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
+      "properties": {
+        "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
+      },
+      "geometry": {
+        "coordinates": [
+          "-122.43301077434302",
+          "37.795838484437851"
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
+      },
+      "geometry": {
+        "coordinates": [
+          "-122.40135328093122",
+          "37.793002875331801"
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
       },
@@ -116,36 +128,10 @@
           "37.795838484437851"
         ],
         "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
       },
-      "geometry": {
-        "coordinates": [
-          "-122.40135328093122",
-          "37.793002875331801"
-        ],
-        "type": "Point"
-      }
+      "type": "Feature"
     },
     {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
-      },
-      "geometry": {
-        "coordinates": [
-          "-122.40070689723306",
-          "37.795838484437851"
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
       },
@@ -155,23 +141,23 @@
           "37.793002875331801"
         ],
         "type": "Point"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
       },
       "geometry": {
         "coordinates": [
-          "-122.4095912604668",
+          "-122.40070689723306",
           "37.795838484437851"
         ],
         "type": "Point"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
       },
@@ -181,23 +167,23 @@
           "37.793002875331801"
         ],
         "type": "Point"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
       },
       "geometry": {
         "coordinates": [
-          "-122.40375455824538",
+          "-122.4095912604668",
           "37.795838484437851"
         ],
         "type": "Point"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
       },
@@ -207,10 +193,23 @@
           "37.793002875331801"
         ],
         "type": "Point"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
+      "properties": {
+        "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
+      },
+      "geometry": {
+        "coordinates": [
+          "-122.40375455824538",
+          "37.795838484437851"
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
       "properties": {
         "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: soda: espresso: cappucino: pastry: ica cream: ices: italian sausage: shish-ka-bob: churros: juice: water: various drinks"
       },
@@ -220,10 +219,10 @@
           "37.784906148887941"
         ],
         "type": "Point"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: sodea: coffee: espresso: cappucino: pastries: ice cream: Italian sausages: shish-ka-bob: churros: juice: water: various drinks."
       },
@@ -233,10 +232,10 @@
           "37.785773234875755"
         ],
         "type": "Point"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "popupContent": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn."
       },
@@ -246,10 +245,10 @@
           "37.787813788166275"
         ],
         "type": "Point"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "popupContent": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn."
       },
@@ -259,10 +258,10 @@
           "37.788925230487813"
         ],
         "type": "Point"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "popupContent": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn."
       },
@@ -272,10 +271,10 @@
           "37.787407398506105"
         ],
         "type": "Point"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "popupContent": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn."
       },
@@ -285,10 +284,10 @@
           "37.787443441472988"
         ],
         "type": "Point"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
       },
@@ -298,10 +297,10 @@
           "37.77056784888584"
         ],
         "type": "Point"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
       },
@@ -311,10 +310,10 @@
           "37.739576790778216"
         ],
         "type": "Point"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
       },
@@ -324,10 +323,10 @@
           "37.77056784888584"
         ],
         "type": "Point"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: burritos: quesadillas: tortas: nachos (refried beans: cheese sauce: salsa fresca): carnes (beef: chicken: marinated pork: fried pork): canned beans: rice: sodas: horchata drinks."
       },
@@ -337,10 +336,10 @@
           "37.738830582567026"
         ],
         "type": "Point"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
       },
@@ -350,10 +349,10 @@
           "37.77056784888584"
         ],
         "type": "Point"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
       },
@@ -363,10 +362,10 @@
           "37.77056784888584"
         ],
         "type": "Point"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
       },
@@ -376,10 +375,10 @@
           "37.77056784888584"
         ],
         "type": "Point"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
       },
@@ -389,10 +388,10 @@
           "37.739576790778216"
         ],
         "type": "Point"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
       },
@@ -402,10 +401,10 @@
           "37.77056784888584"
         ],
         "type": "Point"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
       },
@@ -415,10 +414,10 @@
           "37.77056784888584"
         ],
         "type": "Point"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
       },
@@ -428,10 +427,10 @@
           "37.739576790778216"
         ],
         "type": "Point"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "popupContent": "Sandwich: Donuts: Coffee: Soft Serve Ice Cream: Drinks"
       },
@@ -441,7 +440,8 @@
           "37.789121900046254"
         ],
         "type": "Point"
-      }
+      },
+      "type": "Feature"
     }
   ]
 }
