@@ -1,18 +1,6 @@
 {
+  "type": "FeatureCollection",
   "features": [
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.38453073422282",
-          "37.77056784888584"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
-      },
-      "type": "Feature"
-    },
     {
       "geometry": {
         "coordinates": [
@@ -23,84 +11,6 @@
       },
       "properties": {
         "popupContent": "Bonito Poke Bowls & Various Drinks"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.39179682107691",
-          "37.798811568758893"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "everything except for hot dogs"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.39961794865545",
-          "37.798811568758893"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "everything except for hot dogs"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.40209599456323",
-          "37.798811568758893"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "everything except for hot dogs"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.3970441344819",
-          "37.777830344816408"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Everything"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.3932290415377",
-          "37.777830344816408"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Everything"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.39961794865545",
-          "37.798811568758893"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "everything except for hot dogs"
       },
       "type": "Feature"
     },
@@ -315,149 +225,6 @@
     {
       "geometry": {
         "coordinates": [
-          "-122.4017890913628",
-          "37.793049085465782"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Lobster rolls: crab rolls: lobster burritos: crab burritos: chicken burritos: fish burritos: chicken burritos: poke bowls: soups: chips & soda."
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.4017890913628",
-          "37.792457925715127"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Lobster rolls: crab rolls: lobster burritos: crab burritos: chicken burritos: fish burritos: chicken burritos: poke bowls: soups: chips & soda."
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.39935935136297",
-          "37.793049085465782"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Lobster rolls: crab rolls: lobster burritos: crab burritos: chicken burritos: fish burritos: chicken burritos: poke bowls: soups: chips & soda."
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.39935935136297",
-          "37.792457925715127"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Lobster rolls: crab rolls: lobster burritos: crab burritos: chicken burritos: fish burritos: chicken burritos: poke bowls: soups: chips & soda."
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.39897033211076",
-          "37.793049085465782"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Lobster rolls: crab rolls: lobster burritos: crab burritos: chicken burritos: fish burritos: chicken burritos: poke bowls: soups: chips & soda."
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.39897033211076",
-          "37.792457925715127"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Lobster rolls: crab rolls: lobster burritos: crab burritos: chicken burritos: fish burritos: chicken burritos: poke bowls: soups: chips & soda."
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "0",
-          "37.792461705907812"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Peruvian Food Served Hot"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.39399997405945",
-          "37.792461705907812"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Peruvian Food Served Hot"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.40238532279395",
-          "37.792846595133213"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Peruvian Food Served Hot"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.41602577015111",
-          "37.792368864643684"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Acai Bowls: Smoothies: Juices"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.40127961659626",
-          "37.79205145936664"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Ice cream & Waffle cones"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           "-122.40135328093122",
           "37.789121900046254"
         ],
@@ -471,32 +238,6 @@
     {
       "geometry": {
         "coordinates": [
-          "-122.4025671755779",
-          "37.792887895477385"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "kebabs: halal gyro: grilled halal meat: refreshments"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.4025671755779",
-          "37.794437862296938"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "kebabs: halal gyro: grilled halal meat: refreshments"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           "-122.40241859729358",
           "37.789121900046254"
         ],
@@ -504,32 +245,6 @@
       },
       "properties": {
         "popupContent": "Ice Cream: Waffle Cones"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.39610066847152",
-          "37.788387888445406"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Mexican; Burritos: Burrito Bowls: Salads"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.43301077434302",
-          "37.792235955775467"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
       },
       "type": "Feature"
     },
@@ -563,64 +278,12 @@
       "geometry": {
         "coordinates": [
           "-122.40135328093122",
-          "37.792235955775467"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.40135328093122",
           "37.78916114986874"
         ],
         "type": "Point"
       },
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.40322987670133",
-          "37.79331560268556"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Acai Bowls: Smoothies: Juices"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.39486523862108",
-          "37.792887895477385"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "kebabs: halal gyro: grilled halal meat: refreshments"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.39486523862108",
-          "37.794437862296938"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "kebabs: halal gyro: grilled halal meat: refreshments"
       },
       "type": "Feature"
     },
@@ -640,32 +303,6 @@
     {
       "geometry": {
         "coordinates": [
-          "-122.40014830676716",
-          "37.792368864643684"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Acai Bowls: Smoothies: Juices"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.40070689723306",
-          "37.792235955775467"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           "-122.40070689723306",
           "37.78916114986874"
         ],
@@ -673,19 +310,6 @@
       },
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.39459319923499",
-          "37.788387888445406"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Mexican; Burritos: Burrito Bowls: Salads"
       },
       "type": "Feature"
     },
@@ -706,33 +330,7 @@
       "geometry": {
         "coordinates": [
           "-122.4095912604668",
-          "37.792235955775467"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.4095912604668",
           "37.78916114986874"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.40375455824538",
-          "37.792235955775467"
         ],
         "type": "Point"
       },
@@ -913,19 +511,6 @@
     {
       "geometry": {
         "coordinates": [
-          "0",
-          "37.77056784888584"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           "-122.39787163500326",
           "37.786804480998804"
         ],
@@ -952,71 +537,6 @@
     {
       "geometry": {
         "coordinates": [
-          "-122.44672163317198",
-          "37.77056784888584"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.40034367559197",
-          "37.793258856171512"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Rotisserie Chicken; Ribs; Pork Loin; Roasted Potatoes; Chicken Wrap; Kale Salad; Drinks"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.40103337534973",
-          "37.786731629993909"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Noodles: Meat & Drinks"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.40241859729358",
-          "37.789121900046254"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Tacos: burritos: quesadillas"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.4001004237385",
-          "37.790990760680316"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Rotisserie Chicken: Ribs: Kickass Salad: Potatos w/fat dripping: chicken wrap."
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           "-122.40673602990493",
           "37.738830582567026"
         ],
@@ -1024,45 +544,6 @@
       },
       "properties": {
         "popupContent": "Tacos: burritos: quesadillas: tortas: nachos (refried beans: cheese sauce: salsa fresca): carnes (beef: chicken: marinated pork: fried pork): canned beans: rice: sodas: horchata drinks."
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.42516137635808",
-          "37.77056784888584"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.4407311621107",
-          "37.77056784888584"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.42951117634738",
-          "37.77056784888584"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
       },
       "type": "Feature"
     },
@@ -1082,45 +563,6 @@
     {
       "geometry": {
         "coordinates": [
-          "-122.42711064395493",
-          "37.77056784888584"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.43733160784082",
-          "37.77056784888584"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.39809861316652",
-          "37.793449871960071"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Senor Sisig: Filipino fusion food: tacos: burritos: nachos: rice plates. Various beverages."
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           "0",
           "37.739576790778216"
         ],
@@ -1130,33 +572,6 @@
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
       },
       "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.40660110683912",
-          "37.793449871960071"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Senor Sisig: Filipino fusion food: tacos: burritos: nachos: rice plates. Various beverages."
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.39723654373122",
-          "37.789121900046254"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Tacos: burritos: quesadillas"
-      },
-      "type": "Feature"
     }
-  ],
-  "type": "FeatureCollection"
+  ]
 }
