@@ -1,19 +1,5 @@
 {
-  "type": "FeatureCollection",
   "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.4077185090006",
-          "37.787347325398393"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Ice Cream & Waffle Cones"
-      }
-    },
     {
       "type": "Feature",
       "geometry": {
@@ -66,5 +52,6 @@
         "popupContent": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn."
       }
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
