@@ -3,6 +3,19 @@
   "features": [
     {
       "properties": {
+        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.38453073422282",
+          "37.77056784888584"
+        ]
+      }
+    },
+    {
+      "properties": {
         "popupContent": "Bonito Poke Bowls & Various Drinks"
       },
       "type": "Feature",
@@ -310,19 +323,6 @@
         "coordinates": [
           "-122.39406659922962",
           "37.783124660841082"
-        ]
-      }
-    },
-    {
-      "properties": {
-        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.38453073422282",
-          "37.77056784888584"
         ]
       }
     },
