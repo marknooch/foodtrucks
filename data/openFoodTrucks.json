@@ -1,5 +1,4 @@
 {
-  "type": "FeatureCollection",
   "features": [
     {
       "properties": {
@@ -11,19 +10,6 @@
         "coordinates": [
           "-122.4925212449949",
           "37.721889708708382"
-        ]
-      }
-    },
-    {
-      "properties": {
-        "popupContent": "everything except for hot dogs"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.39179682107691",
-          "37.776038510576427"
         ]
       }
     },
@@ -42,45 +28,6 @@
     },
     {
       "properties": {
-        "popupContent": "Tacos: burritos: soda & juice"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.41400704302406",
-          "37.751013838174387"
-        ]
-      }
-    },
-    {
-      "properties": {
-        "popupContent": "Tacos: burritos: soda & juice"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.4114199662057",
-          "37.751013838174387"
-        ]
-      }
-    },
-    {
-      "properties": {
-        "popupContent": "Tacos: burritos: soda & juice"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.41746613186956",
-          "37.751013838174387"
-        ]
-      }
-    },
-    {
-      "properties": {
         "popupContent": "Ice Cream: Waffle Cones"
       },
       "type": "Feature",
@@ -89,19 +36,6 @@
         "coordinates": [
           "-122.40135328093122",
           "37.789121900046254"
-        ]
-      }
-    },
-    {
-      "properties": {
-        "popupContent": "Snow Cones: Soft Serve Ice Cream & Frozen Virgin Daiquiris"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.42730642251331",
-          "37.761398102006275"
         ]
       }
     },
@@ -302,19 +236,6 @@
     },
     {
       "properties": {
-        "popupContent": "Filipino fusion food: taco: burrito: nachos: rice plates"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.40815476434545",
-          "37.785502222397305"
-        ]
-      }
-    },
-    {
-      "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
       },
       "type": "Feature",
@@ -336,19 +257,6 @@
         "coordinates": [
           "-122.45937730954839",
           "37.710201887920647"
-        ]
-      }
-    },
-    {
-      "properties": {
-        "popupContent": "Filipino fusion food: taco: burrito: nachos: rice plates"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.39956633142907",
-          "37.785502222397305"
         ]
       }
     },
@@ -417,5 +325,6 @@
         ]
       }
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
