@@ -1,18 +1,6 @@
 {
+  "type": "FeatureCollection",
   "features": [
-    {
-      "properties": {
-        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.38453073422282",
-          "37.77056784888584"
-        ]
-      }
-    },
     {
       "properties": {
         "popupContent": "Soft Pretzels: hot dogs: sausage: chips: popcorn: soda: espresso: cappucino: pastries: ice cream: italian sausages: shish-ka-bob: churros: juice: water: various drinks"
@@ -62,6 +50,19 @@
         "coordinates": [
           "-122.41746613186956",
           "37.775548024246895"
+        ]
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.38453073422282",
+          "37.77056784888584"
         ]
       }
     },
@@ -429,6 +430,5 @@
         ]
       }
     }
-  ],
-  "type": "FeatureCollection"
+  ]
 }
