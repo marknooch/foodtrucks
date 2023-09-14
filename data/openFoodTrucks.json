@@ -1,45 +1,9 @@
 {
   "features": [
     {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.38453073422282",
-          "37.775500790207893"
-        ],
-        "type": "Point"
-      },
       "properties": {
-        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.38453073422282",
-          "37.764654753703397"
-        ],
-        "type": "Point"
+        "popupContent": "Lomo Saltado: Jalea: Ceviche: Calamar: Tilapia plate: chicken special. Soda: Water."
       },
-      "properties": {
-        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.38453073422282",
-          "37.766712422593429"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
-      }
-    },
-    {
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -47,12 +11,12 @@
           "37.788249774149101"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Lomo Saltado: Jalea: Ceviche: Calamar: Tilapia plate: chicken special. Soda: Water."
       }
     },
     {
+      "properties": {
+        "popupContent": "Bonito Poke Bowls & Various Drinks"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -60,51 +24,12 @@
           "37.766786779295607"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Bonito Poke Bowls & Various Drinks"
       }
     },
     {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39030948950146",
-          "37.78119822186116"
-        ],
-        "type": "Point"
-      },
       "properties": {
         "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39030948950146",
-          "37.77089687191657"
-        ],
-        "type": "Point"
       },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39030948950146",
-          "37.776282373027279"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -112,12 +37,51 @@
           "37.749700678375767"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.39030948950146",
+          "37.78119822186116"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.39030948950146",
+          "37.77089687191657"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.39030948950146",
+          "37.776282373027279"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Everything"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -125,12 +89,12 @@
           "37.781163614417096"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Everything"
       }
     },
     {
+      "properties": {
+        "popupContent": "Everything"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -138,12 +102,12 @@
           "37.781163614417096"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Everything"
       }
     },
     {
+      "properties": {
+        "popupContent": "Soft Pretzels: hot dogs: sausage: chips: popcorn: soda: espresso: cappucino: pastries: ice cream: italian sausages: shish-ka-bob: churros: juice: water: various drinks"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -151,12 +115,12 @@
           "37.786635282568959"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Soft Pretzels: hot dogs: sausage: chips: popcorn: soda: espresso: cappucino: pastries: ice cream: italian sausages: shish-ka-bob: churros: juice: water: various drinks"
       }
     },
     {
+      "properties": {
+        "popupContent": "Tacos: burritos: soda & juice"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -164,12 +128,12 @@
           "37.775548024246895"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Tacos: burritos: soda & juice"
       }
     },
     {
+      "properties": {
+        "popupContent": "Tacos: Burritos: Tortas: Quesadillas: Sodas: Chips: Candy"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -177,12 +141,12 @@
           "37.750064092127545"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Tacos: Burritos: Tortas: Quesadillas: Sodas: Chips: Candy"
       }
     },
     {
+      "properties": {
+        "popupContent": "Tacos: Burritos: Quesadillas: Nachos Alambres: Choice of Meat: Carne Asada: Carnitas: Pollo: Al Pastor Camarones"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -190,38 +154,38 @@
           "37.784569434609786"
         ],
         "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Tacos: Burritos: Quesadillas: Tortas"
       },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.41610489253189",
+          "37.768485244380287"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Tacos: Burritos: Quesadillas: Tortas"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.41610489253189",
+          "37.768485244380287"
+        ],
+        "type": "Point"
+      }
+    },
+    {
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Nachos Alambres: Choice of Meat: Carne Asada: Carnitas: Pollo: Al Pastor Camarones"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.41610489253189",
-          "37.768485244380287"
-        ],
-        "type": "Point"
       },
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Tortas"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.41610489253189",
-          "37.768485244380287"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Tortas"
-      }
-    },
-    {
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -229,12 +193,12 @@
           "37.784569434609786"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Nachos Alambres: Choice of Meat: Carne Asada: Carnitas: Pollo: Al Pastor Camarones"
       }
     },
     {
+      "properties": {
+        "popupContent": "Tacos: Burritos: Quesadillas: Tortas"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -242,12 +206,12 @@
           "37.768485244380287"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Tortas"
       }
     },
     {
+      "properties": {
+        "popupContent": "Tacos: Burritos: Quesadillas: Tortas"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -255,12 +219,12 @@
           "37.768485244380287"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Tortas"
       }
     },
     {
+      "properties": {
+        "popupContent": "Tacos: burritos: soda & juice"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -268,12 +232,12 @@
           "37.775548024246895"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Tacos: burritos: soda & juice"
       }
     },
     {
+      "properties": {
+        "popupContent": "Tacos: burritos: soda & juice"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -281,12 +245,12 @@
           "37.775548024246895"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Tacos: burritos: soda & juice"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold truck: sandwiches: salads: beverages: chips: candy: cookies: coffee: tea: drinks"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -294,12 +258,12 @@
           "37.76383946084772"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold truck: sandwiches: salads: beverages: chips: candy: cookies: coffee: tea: drinks"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold truck: sandwiches: salads: beverages: chips: candy: cookies: coffee: tea: drinks"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -307,12 +271,12 @@
           "37.76383946084772"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold truck: sandwiches: salads: beverages: chips: candy: cookies: coffee: tea: drinks"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold truck: sandwiches: salads: beverages: chips: candy: cookies: coffee: tea: drinks"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -320,12 +284,12 @@
           "37.76383946084772"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold truck: sandwiches: salads: beverages: chips: candy: cookies: coffee: tea: drinks"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold truck: sandwiches: salads: beverages: chips: candy: cookies: coffee: tea: drinks"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -333,64 +297,12 @@
           "37.76383946084772"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold truck: sandwiches: salads: beverages: chips: candy: cookies: coffee: tea: drinks"
       }
     },
     {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.38989436694435",
-          "37.78119822186116"
-        ],
-        "type": "Point"
-      },
       "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.38989436694435",
-          "37.77089687191657"
-        ],
-        "type": "Point"
+        "popupContent": "Lobster rolls: crab rolls: lobster burritos: crab burritos: chicken burritos: fish burritos: chicken burritos: poke bowls: soups: chips & soda."
       },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.38989436694435",
-          "37.776282373027279"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.38989436694435",
-          "37.749700678375767"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -398,12 +310,12 @@
           "37.788837572631962"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Lobster rolls: crab rolls: lobster burritos: crab burritos: chicken burritos: fish burritos: chicken burritos: poke bowls: soups: chips & soda."
       }
     },
     {
+      "properties": {
+        "popupContent": "Lobster rolls: crab rolls: lobster burritos: crab burritos: chicken burritos: fish burritos: chicken burritos: poke bowls: soups: chips & soda."
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -411,12 +323,12 @@
           "37.788837572631962"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Lobster rolls: crab rolls: lobster burritos: crab burritos: chicken burritos: fish burritos: chicken burritos: poke bowls: soups: chips & soda."
       }
     },
     {
+      "properties": {
+        "popupContent": "Lobster rolls: crab rolls: lobster burritos: crab burritos: chicken burritos: fish burritos: chicken burritos: poke bowls: soups: chips & soda."
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -424,12 +336,64 @@
           "37.788837572631962"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Lobster rolls: crab rolls: lobster burritos: crab burritos: chicken burritos: fish burritos: chicken burritos: poke bowls: soups: chips & soda."
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.39009664366294",
+          "37.749700678375767"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.39009664366294",
+          "37.78119822186116"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.39009664366294",
+          "37.77089687191657"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.39009664366294",
+          "37.776282373027279"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Peruvian Food Served Hot"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -437,12 +401,51 @@
           "37.783124660841082"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Peruvian Food Served Hot"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.38453073422282",
+          "37.775500790207893"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.38453073422282",
+          "37.764654753703397"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.38453073422282",
+          "37.766712422593429"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Acai Bowls: Smoothies: Juices"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -450,12 +453,12 @@
           "37.779619722638408"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Acai Bowls: Smoothies: Juices"
       }
     },
     {
+      "properties": {
+        "popupContent": "Halal Gyro over Rice: Halal Chicken over Rice: Halal Gyro: and Chicken Sandwich"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -463,12 +466,12 @@
           "37.792887895477385"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Halal Gyro over Rice: Halal Chicken over Rice: Halal Gyro: and Chicken Sandwich"
       }
     },
     {
+      "properties": {
+        "popupContent": "Halal Gyro over Rice: Halal Chicken over Rice: Halal Gyro: and Chicken Sandwich"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -476,12 +479,12 @@
           "37.792887895477385"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Halal Gyro over Rice: Halal Chicken over Rice: Halal Gyro: and Chicken Sandwich"
       }
     },
     {
+      "properties": {
+        "popupContent": "kebabs: halal gyro: grilled halal meat: refreshments"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -489,12 +492,12 @@
           "37.794437862296938"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "kebabs: halal gyro: grilled halal meat: refreshments"
       }
     },
     {
+      "properties": {
+        "popupContent": "Mexican; Burritos: Burrito Bowls: Salads"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -502,12 +505,12 @@
           "37.788387888445406"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Mexican; Burritos: Burrito Bowls: Salads"
       }
     },
     {
+      "properties": {
+        "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -515,12 +518,12 @@
           "37.793002875331801"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
       }
     },
     {
+      "properties": {
+        "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -528,12 +531,12 @@
           "37.78916114986874"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
       }
     },
     {
+      "properties": {
+        "popupContent": "Tacos: Burritos: Quesadillas: Tortas"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -541,12 +544,12 @@
           "37.740819657574626"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Tortas"
       }
     },
     {
+      "properties": {
+        "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -554,12 +557,12 @@
           "37.793002875331801"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
       }
     },
     {
+      "properties": {
+        "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -567,12 +570,12 @@
           "37.78916114986874"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
       }
     },
     {
+      "properties": {
+        "popupContent": "kebabs: halal gyro: grilled halal meat: refreshments"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -580,12 +583,12 @@
           "37.794437862296938"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "kebabs: halal gyro: grilled halal meat: refreshments"
       }
     },
     {
+      "properties": {
+        "popupContent": "Latin Food: Tacos: Pupusas: Vegetables: Salad: Waters: Sodas"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -593,12 +596,12 @@
           "37.787998605236957"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Latin Food: Tacos: Pupusas: Vegetables: Salad: Waters: Sodas"
       }
     },
     {
+      "properties": {
+        "popupContent": "Acai Bowls: Smoothies: Juices"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -606,12 +609,12 @@
           "37.779619722638408"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Acai Bowls: Smoothies: Juices"
       }
     },
     {
+      "properties": {
+        "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -619,12 +622,12 @@
           "37.793002875331801"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
       }
     },
     {
+      "properties": {
+        "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -632,12 +635,12 @@
           "37.78916114986874"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
       }
     },
     {
+      "properties": {
+        "popupContent": "Latin Food: Tacos: Pupusas: Vegetables: Salad: Waters: Sodas"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -645,12 +648,12 @@
           "37.787998605236957"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Latin Food: Tacos: Pupusas: Vegetables: Salad: Waters: Sodas"
       }
     },
     {
+      "properties": {
+        "popupContent": "Mexican; Burritos: Burrito Bowls: Salads"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -658,12 +661,12 @@
           "37.788387888445406"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Mexican; Burritos: Burrito Bowls: Salads"
       }
     },
     {
+      "properties": {
+        "popupContent": "Gyros: Kebabs: soft drinks: and water"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -671,12 +674,12 @@
           "37.791258708308668"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Gyros: Kebabs: soft drinks: and water"
       }
     },
     {
+      "properties": {
+        "popupContent": "Latin Food: Tacos: Pupusas: Vegetables: Salad: Waters: Sodas"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -684,12 +687,12 @@
           "37.787998605236957"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Latin Food: Tacos: Pupusas: Vegetables: Salad: Waters: Sodas"
       }
     },
     {
+      "properties": {
+        "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -697,12 +700,12 @@
           "37.793002875331801"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
       }
     },
     {
+      "properties": {
+        "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -710,12 +713,12 @@
           "37.78916114986874"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
       }
     },
     {
+      "properties": {
+        "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -723,12 +726,12 @@
           "37.793002875331801"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
       }
     },
     {
+      "properties": {
+        "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -736,12 +739,12 @@
           "37.78916114986874"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
       }
     },
     {
+      "properties": {
+        "popupContent": "Tacos: Burritos: Quesadillas: Tortas"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -749,155 +752,12 @@
           "37.740819657574626"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Tortas"
       }
     },
     {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.3900276155014",
-          "37.78119822186116"
-        ],
-        "type": "Point"
-      },
       "properties": {
         "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.3900276155014",
-          "37.77089687191657"
-        ],
-        "type": "Point"
       },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.3900276155014",
-          "37.776282373027279"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.3900276155014",
-          "37.749700678375767"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.42314384550635",
-          "37.78119822186116"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.42314384550635",
-          "37.77089687191657"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.42314384550635",
-          "37.776282373027279"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.42314384550635",
-          "37.749700678375767"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.38790832590168",
-          "37.78119822186116"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.38790832590168",
-          "37.77089687191657"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.38790832590168",
-          "37.776282373027279"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -905,12 +765,64 @@
           "37.749700678375767"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.38790832590168",
+          "37.78119822186116"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.38790832590168",
+          "37.77089687191657"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.38790832590168",
+          "37.776282373027279"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.41433443693992",
+          "37.749700678375767"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -918,12 +830,12 @@
           "37.78119822186116"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -931,12 +843,12 @@
           "37.77089687191657"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -944,64 +856,12 @@
           "37.776282373027279"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.41433443693992",
-          "37.749700678375767"
-        ],
-        "type": "Point"
-      },
       "properties": {
         "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.38848230680541",
-          "37.78119822186116"
-        ],
-        "type": "Point"
       },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.38848230680541",
-          "37.77089687191657"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.38848230680541",
-          "37.776282373027279"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -1009,12 +869,64 @@
           "37.749700678375767"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.38848230680541",
+          "37.78119822186116"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.38848230680541",
+          "37.77089687191657"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.38848230680541",
+          "37.776282373027279"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.40123539265836",
+          "37.749700678375767"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -1022,12 +934,12 @@
           "37.78119822186116"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -1035,12 +947,12 @@
           "37.77089687191657"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -1048,116 +960,12 @@
           "37.776282373027279"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.40123539265836",
-          "37.749700678375767"
-        ],
-        "type": "Point"
-      },
       "properties": {
         "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39009664366294",
-          "37.78119822186116"
-        ],
-        "type": "Point"
       },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39009664366294",
-          "37.77089687191657"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39009664366294",
-          "37.776282373027279"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39009664366294",
-          "37.749700678375767"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.38453073422282",
-          "37.78119822186116"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.38453073422282",
-          "37.77089687191657"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.38453073422282",
-          "37.776282373027279"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -1165,12 +973,116 @@
           "37.749700678375767"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.38453073422282",
+          "37.78119822186116"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.38453073422282",
+          "37.77089687191657"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.38453073422282",
+          "37.776282373027279"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.38989436694435",
+          "37.749700678375767"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.38989436694435",
+          "37.78119822186116"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.38989436694435",
+          "37.77089687191657"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.38989436694435",
+          "37.776282373027279"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.38752570401662",
+          "37.749700678375767"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -1178,12 +1090,12 @@
           "37.78119822186116"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -1191,12 +1103,12 @@
           "37.77089687191657"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -1204,64 +1116,12 @@
           "37.776282373027279"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.38752570401662",
-          "37.749700678375767"
-        ],
-        "type": "Point"
-      },
       "properties": {
         "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.42988524760261",
-          "37.78119822186116"
-        ],
-        "type": "Point"
       },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.42988524760261",
-          "37.77089687191657"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.42988524760261",
-          "37.776282373027279"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -1269,12 +1129,64 @@
           "37.749700678375767"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.42988524760261",
+          "37.78119822186116"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.42988524760261",
+          "37.77089687191657"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.42988524760261",
+          "37.776282373027279"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.39590345491315",
+          "37.749700678375767"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -1282,12 +1194,12 @@
           "37.78119822186116"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -1295,12 +1207,12 @@
           "37.77089687191657"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -1308,64 +1220,12 @@
           "37.776282373027279"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39590345491315",
-          "37.749700678375767"
-        ],
-        "type": "Point"
-      },
       "properties": {
         "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.38935344507568",
-          "37.78119822186116"
-        ],
-        "type": "Point"
       },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.38935344507568",
-          "37.77089687191657"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.38935344507568",
-          "37.776282373027279"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -1373,12 +1233,64 @@
           "37.749700678375767"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.38935344507568",
+          "37.78119822186116"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.38935344507568",
+          "37.77089687191657"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.38935344507568",
+          "37.776282373027279"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.38913385740454",
+          "37.749700678375767"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -1386,12 +1298,12 @@
           "37.78119822186116"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -1399,12 +1311,12 @@
           "37.77089687191657"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -1412,64 +1324,12 @@
           "37.776282373027279"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.38913385740454",
-          "37.749700678375767"
-        ],
-        "type": "Point"
-      },
       "properties": {
         "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39354961053631",
-          "37.78119822186116"
-        ],
-        "type": "Point"
       },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39354961053631",
-          "37.77089687191657"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39354961053631",
-          "37.776282373027279"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -1477,12 +1337,116 @@
           "37.749700678375767"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.39354961053631",
+          "37.78119822186116"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.39354961053631",
+          "37.77089687191657"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.39354961053631",
+          "37.776282373027279"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.3900276155014",
+          "37.749700678375767"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.3900276155014",
+          "37.78119822186116"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.3900276155014",
+          "37.77089687191657"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.3900276155014",
+          "37.776282373027279"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.39963625164356",
+          "37.749700678375767"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -1490,12 +1454,12 @@
           "37.78119822186116"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -1503,12 +1467,12 @@
           "37.77089687191657"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -1516,64 +1480,12 @@
           "37.776282373027279"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39963625164356",
-          "37.749700678375767"
-        ],
-        "type": "Point"
-      },
       "properties": {
         "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39014439398791",
-          "37.78119822186116"
-        ],
-        "type": "Point"
       },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39014439398791",
-          "37.77089687191657"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39014439398791",
-          "37.776282373027279"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -1581,12 +1493,64 @@
           "37.749700678375767"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.39014439398791",
+          "37.78119822186116"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.39014439398791",
+          "37.77089687191657"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.39014439398791",
+          "37.776282373027279"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.41519315390947",
+          "37.749700678375767"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -1594,12 +1558,12 @@
           "37.78119822186116"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -1607,12 +1571,12 @@
           "37.77089687191657"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -1620,64 +1584,12 @@
           "37.776282373027279"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.41519315390947",
-          "37.749700678375767"
-        ],
-        "type": "Point"
-      },
       "properties": {
         "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39095839869275",
-          "37.78119822186116"
-        ],
-        "type": "Point"
       },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39095839869275",
-          "37.77089687191657"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39095839869275",
-          "37.776282373027279"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -1685,12 +1597,64 @@
           "37.749700678375767"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.39095839869275",
+          "37.78119822186116"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.39095839869275",
+          "37.77089687191657"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.39095839869275",
+          "37.776282373027279"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.41724962664345",
+          "37.749700678375767"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -1698,12 +1662,12 @@
           "37.78119822186116"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -1711,12 +1675,12 @@
           "37.77089687191657"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -1724,64 +1688,12 @@
           "37.776282373027279"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.41724962664345",
-          "37.749700678375767"
-        ],
-        "type": "Point"
-      },
       "properties": {
         "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.42087956139908",
-          "37.78119822186116"
-        ],
-        "type": "Point"
       },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.42087956139908",
-          "37.77089687191657"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.42087956139908",
-          "37.776282373027279"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -1789,12 +1701,64 @@
           "37.749700678375767"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.42087956139908",
+          "37.78119822186116"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.42087956139908",
+          "37.77089687191657"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.42087956139908",
+          "37.776282373027279"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.39401294737715",
+          "37.749700678375767"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -1802,12 +1766,12 @@
           "37.78119822186116"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -1815,12 +1779,12 @@
           "37.77089687191657"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -1828,64 +1792,12 @@
           "37.776282373027279"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39401294737715",
-          "37.749700678375767"
-        ],
-        "type": "Point"
-      },
       "properties": {
         "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39005910139933",
-          "37.78119822186116"
-        ],
-        "type": "Point"
       },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39005910139933",
-          "37.77089687191657"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39005910139933",
-          "37.776282373027279"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -1893,12 +1805,64 @@
           "37.749700678375767"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.39005910139933",
+          "37.78119822186116"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.39005910139933",
+          "37.77089687191657"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.39005910139933",
+          "37.776282373027279"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.39406294711628",
+          "37.749700678375767"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -1906,12 +1870,12 @@
           "37.78119822186116"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -1919,12 +1883,12 @@
           "37.77089687191657"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -1932,64 +1896,12 @@
           "37.776282373027279"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39406294711628",
-          "37.749700678375767"
-        ],
-        "type": "Point"
-      },
       "properties": {
         "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39014490082212",
-          "37.78119822186116"
-        ],
-        "type": "Point"
       },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39014490082212",
-          "37.77089687191657"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39014490082212",
-          "37.776282373027279"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -1997,51 +1909,51 @@
           "37.749700678375767"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          "-122.39304592079775",
+          "-122.39014490082212",
           "37.78119822186116"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          "-122.39304592079775",
+          "-122.39014490082212",
           "37.77089687191657"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          "-122.39304592079775",
+          "-122.39014490082212",
           "37.776282373027279"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -2049,51 +1961,51 @@
           "37.749700678375767"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          "-122.39547585248978",
+          "-122.39304592079775",
           "37.78119822186116"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          "-122.39547585248978",
+          "-122.39304592079775",
           "37.77089687191657"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          "-122.39547585248978",
+          "-122.39304592079775",
           "37.776282373027279"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -2101,116 +2013,103 @@
           "37.749700678375767"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          "-122.37779736896212",
+          "-122.39547585248978",
           "37.78119822186116"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          "-122.37779736896212",
+          "-122.39547585248978",
           "37.77089687191657"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          "-122.37779736896212",
+          "-122.39547585248978",
           "37.776282373027279"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          "-122.37779736896212",
+          "-122.42314384550635",
           "37.749700678375767"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          "-122.38927699608101",
+          "-122.42314384550635",
           "37.78119822186116"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          "-122.38927699608101",
+          "-122.42314384550635",
           "37.77089687191657"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          "-122.38927699608101",
+          "-122.42314384550635",
           "37.776282373027279"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.38927699608101",
-          "37.749700678375767"
-        ],
-        "type": "Point"
-      },
       "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
+        "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: soda: espresso: cappucino: pastry: ica cream: ices: italian sausage: shish-ka-bob: churros: juice: water: various drinks"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -2218,64 +2117,116 @@
           "37.784906148887941"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: soda: espresso: cappucino: pastry: ica cream: ices: italian sausage: shish-ka-bob: churros: juice: water: various drinks"
       }
     },
     {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.38993209325044",
-          "37.78119822186116"
-        ],
-        "type": "Point"
-      },
       "properties": {
         "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.38993209325044",
-          "37.77089687191657"
-        ],
-        "type": "Point"
       },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          "-122.38993209325044",
-          "37.776282373027279"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.38993209325044",
+          "-122.37779736896212",
           "37.749700678375767"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.37779736896212",
+          "37.78119822186116"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.37779736896212",
+          "37.77089687191657"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.37779736896212",
+          "37.776282373027279"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.38927699608101",
+          "37.749700678375767"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.38927699608101",
+          "37.78119822186116"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.38927699608101",
+          "37.77089687191657"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.38927699608101",
+          "37.776282373027279"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Bonito Poke Bowls & Various Drinks"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -2283,64 +2234,64 @@
           "37.766786779295607"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Bonito Poke Bowls & Various Drinks"
       }
     },
     {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39428524233958",
-          "37.78119822186116"
-        ],
-        "type": "Point"
-      },
       "properties": {
         "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39428524233958",
-          "37.77089687191657"
-        ],
-        "type": "Point"
       },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          "-122.39428524233958",
-          "37.776282373027279"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39428524233958",
+          "-122.38993209325044",
           "37.749700678375767"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.38993209325044",
+          "37.78119822186116"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.38993209325044",
+          "37.77089687191657"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.38993209325044",
+          "37.776282373027279"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Bonito Poke Bowls & Various Drinks"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -2348,12 +2299,12 @@
           "37.766786779295607"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Bonito Poke Bowls & Various Drinks"
       }
     },
     {
+      "properties": {
+        "popupContent": "Bonito Poke Bowls & Various Drinks"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -2361,51 +2312,64 @@
           "37.766786779295607"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Bonito Poke Bowls & Various Drinks"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          "-122.3916718906821",
+          "-122.39428524233958",
+          "37.749700678375767"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.39428524233958",
           "37.78119822186116"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          "-122.3916718906821",
+          "-122.39428524233958",
           "37.77089687191657"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          "-122.3916718906821",
+          "-122.39428524233958",
           "37.776282373027279"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -2413,51 +2377,51 @@
           "37.749700678375767"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          "-122.38798553250403",
+          "-122.3916718906821",
           "37.78119822186116"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          "-122.38798553250403",
+          "-122.3916718906821",
           "37.77089687191657"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          "-122.38798553250403",
+          "-122.3916718906821",
           "37.776282373027279"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -2465,116 +2429,51 @@
           "37.749700678375767"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          "-122.41598117460148",
+          "-122.38798553250403",
           "37.78119822186116"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          "-122.41598117460148",
+          "-122.38798553250403",
           "37.77089687191657"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          "-122.41598117460148",
+          "-122.38798553250403",
           "37.776282373027279"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.41598117460148",
-          "37.749700678375767"
-        ],
-        "type": "Point"
-      },
       "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39781803171861",
-          "37.78119822186116"
-        ],
-        "type": "Point"
+        "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: sodea: coffee: espresso: cappucino: pastries: ice cream: Italian sausages: shish-ka-bob: churros: juice: water: various drinks."
       },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39781803171861",
-          "37.77089687191657"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39781803171861",
-          "37.776282373027279"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39781803171861",
-          "37.749700678375767"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
-      }
-    },
-    {
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -2582,51 +2481,116 @@
           "37.785773234875755"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: sodea: coffee: espresso: cappucino: pastries: ice cream: Italian sausages: shish-ka-bob: churros: juice: water: various drinks."
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          "-122.38687903197963",
+          "-122.41598117460148",
+          "37.749700678375767"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.41598117460148",
           "37.78119822186116"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          "-122.38687903197963",
+          "-122.41598117460148",
           "37.77089687191657"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          "-122.38687903197963",
+          "-122.41598117460148",
           "37.776282373027279"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.39781803171861",
+          "37.749700678375767"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.39781803171861",
+          "37.78119822186116"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.39781803171861",
+          "37.77089687191657"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.39781803171861",
+          "37.776282373027279"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -2634,51 +2598,51 @@
           "37.749700678375767"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          "-122.41180906852375",
+          "-122.38687903197963",
           "37.78119822186116"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          "-122.41180906852375",
+          "-122.38687903197963",
           "37.77089687191657"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          "-122.41180906852375",
+          "-122.38687903197963",
           "37.776282373027279"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -2686,12 +2650,51 @@
           "37.749700678375767"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.41180906852375",
+          "37.78119822186116"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.41180906852375",
+          "37.77089687191657"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.41180906852375",
+          "37.776282373027279"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn."
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -2699,12 +2702,12 @@
           "37.787813788166275"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn."
       }
     },
     {
+      "properties": {
+        "popupContent": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn."
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -2712,12 +2715,12 @@
           "37.788925230487813"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn."
       }
     },
     {
+      "properties": {
+        "popupContent": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn."
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -2725,12 +2728,12 @@
           "37.787407398506105"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn."
       }
     },
     {
+      "properties": {
+        "popupContent": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn."
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -2738,12 +2741,12 @@
           "37.787443441472988"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn."
       }
     },
     {
+      "properties": {
+        "popupContent": "Tacos: Burritos: Quesadillas: Various Drinks"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -2751,12 +2754,12 @@
           "37.768221393081411"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Various Drinks"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -2764,12 +2767,12 @@
           "37.775500790207893"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -2777,12 +2780,12 @@
           "37.764654753703397"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -2790,12 +2793,12 @@
           "37.766712422593429"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Tacos: Burritos: Quesadillas: Various Drinks"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -2803,12 +2806,12 @@
           "37.768221393081411"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Various Drinks"
       }
     },
     {
+      "properties": {
+        "popupContent": "Various menu items & drinks"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -2816,12 +2819,12 @@
           "37.798811568758893"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Various menu items & drinks"
       }
     },
     {
+      "properties": {
+        "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -2829,12 +2832,12 @@
           "37.739576790778216"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
       }
     },
     {
+      "properties": {
+        "popupContent": "Senor Sisig: Filipino fusion food: tacos: burritos: nachos: rice plates. Various beverages.Chairman Bao: Vegetable and meat sandwiches filled with Asian-flavored meats and vegetables."
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -2842,12 +2845,12 @@
           "37.798811568758893"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Senor Sisig: Filipino fusion food: tacos: burritos: nachos: rice plates. Various beverages.Chairman Bao: Vegetable and meat sandwiches filled with Asian-flavored meats and vegetables."
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -2855,12 +2858,12 @@
           "37.775500790207893"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -2868,12 +2871,12 @@
           "37.764654753703397"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -2881,12 +2884,12 @@
           "37.766712422593429"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "MOMO Spicy Noodle: POPO's Noodle: Spicy Chicken Noodle: Rice Noodles"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -2894,12 +2897,12 @@
           "37.793449871960071"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "MOMO Spicy Noodle: POPO's Noodle: Spicy Chicken Noodle: Rice Noodles"
       }
     },
     {
+      "properties": {
+        "popupContent": "Senor Sisig: Filipino fusion food: tacos: burritos: nachos: rice plates. Various beverages.Chairman Bao: Vegetable and meat sandwiches filled with Asian-flavored meats and vegetables."
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -2907,12 +2910,12 @@
           "37.798811568758893"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Senor Sisig: Filipino fusion food: tacos: burritos: nachos: rice plates. Various beverages.Chairman Bao: Vegetable and meat sandwiches filled with Asian-flavored meats and vegetables."
       }
     },
     {
+      "properties": {
+        "popupContent": "Tacos: burritos: quesadillas"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -2920,12 +2923,12 @@
           "37.792846595133213"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Tacos: burritos: quesadillas"
       }
     },
     {
+      "properties": {
+        "popupContent": "Noodles: Meat & Drinks"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -2933,12 +2936,12 @@
           "37.786731629993909"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Noodles: Meat & Drinks"
       }
     },
     {
+      "properties": {
+        "popupContent": "Tacos: burritos: quesadillas: tortas: nachos (refried beans: cheese sauce: salsa fresca): carnes (beef: chicken: marinated pork: fried pork): canned beans: rice: sodas: horchata drinks."
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -2946,12 +2949,12 @@
           "37.738830582567026"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Tacos: burritos: quesadillas: tortas: nachos (refried beans: cheese sauce: salsa fresca): carnes (beef: chicken: marinated pork: fried pork): canned beans: rice: sodas: horchata drinks."
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -2959,12 +2962,12 @@
           "37.775500790207893"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -2972,12 +2975,12 @@
           "37.764654753703397"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -2985,12 +2988,12 @@
           "37.766712422593429"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -2998,12 +3001,12 @@
           "37.775500790207893"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -3011,12 +3014,12 @@
           "37.764654753703397"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -3024,12 +3027,12 @@
           "37.766712422593429"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Noodles"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -3037,12 +3040,12 @@
           "37.790990760680316"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Noodles"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -3050,12 +3053,12 @@
           "37.775500790207893"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -3063,12 +3066,12 @@
           "37.764654753703397"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -3076,12 +3079,12 @@
           "37.766712422593429"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -3089,12 +3092,12 @@
           "37.739576790778216"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -3102,12 +3105,12 @@
           "37.775500790207893"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -3115,12 +3118,12 @@
           "37.764654753703397"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -3128,12 +3131,12 @@
           "37.766712422593429"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -3141,12 +3144,12 @@
           "37.775500790207893"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -3154,12 +3157,12 @@
           "37.764654753703397"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -3167,12 +3170,12 @@
           "37.766712422593429"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
       }
     },
     {
+      "properties": {
+        "popupContent": "Noodles: Meat & Drinks"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -3180,12 +3183,12 @@
           "37.793079029560417"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Noodles: Meat & Drinks"
       }
     },
     {
+      "properties": {
+        "popupContent": "Senor Sisig: Filipino fusion food: tacos: burritos: nachos: rice plates. Various beverages."
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -3193,12 +3196,12 @@
           "37.782676456736766"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Senor Sisig: Filipino fusion food: tacos: burritos: nachos: rice plates. Various beverages."
       }
     },
     {
+      "properties": {
+        "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -3206,12 +3209,12 @@
           "37.739576790778216"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
       }
     },
     {
+      "properties": {
+        "popupContent": "Noodles"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -3219,12 +3222,12 @@
           "37.790990760680316"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Noodles"
       }
     },
     {
+      "properties": {
+        "popupContent": "Senor Sisig: Filipino fusion food: tacos: burritos: nachos: rice plates. Various beverages."
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -3232,12 +3235,12 @@
           "37.782676456736766"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Senor Sisig: Filipino fusion food: tacos: burritos: nachos: rice plates. Various beverages."
       }
     },
     {
+      "properties": {
+        "popupContent": "Sandwich: Donuts: Coffee: Soft Serve Ice Cream: Drinks"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -3245,12 +3248,12 @@
           "37.789121900046254"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Sandwich: Donuts: Coffee: Soft Serve Ice Cream: Drinks"
       }
     },
     {
+      "properties": {
+        "popupContent": "Rotisserie Chicken; Ribs; Pork Loin; Roasted Potatoes; Chicken Wrap; Kale Salad; Drinks"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -3258,9 +3261,6 @@
           "37.781299188302398"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Rotisserie Chicken; Ribs; Pork Loin; Roasted Potatoes; Chicken Wrap; Kale Salad; Drinks"
       }
     }
   ],
