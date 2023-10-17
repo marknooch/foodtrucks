@@ -4,6 +4,19 @@
     {
       "type": "Feature",
       "properties": {
+        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.38453073422282",
+          "37.77056784888584"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "popupContent": "Lomo Saltado: Jalea: Ceviche: Calamar: Tilapia plate: chicken special. Soda: Water."
       },
       "geometry": {
@@ -11,19 +24,6 @@
         "coordinates": [
           "-122.3998841605663",
           "37.788249774149101"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Multiple Food Trucks & Food Types"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.40661921344578",
-          "37.781434998453697"
         ]
       }
     },
@@ -212,19 +212,6 @@
     {
       "type": "Feature",
       "properties": {
-        "popupContent": "Filipino fusion food: taco: burrito: nachos: rice plates"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.40815476434545",
-          "37.787687193261206"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "popupContent": "Lobster rolls: crab rolls: lobster burritos: crab burritos: chicken burritos: fish burritos: chicken burritos: poke bowls: soups: chips & soda."
       },
       "geometry": {
@@ -245,32 +232,6 @@
         "coordinates": [
           "-122.39961794865545",
           "37.798811568758893"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Filipino fusion food: tacos: burritos: nachos: rice plates. Various beverages."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "0",
-          "37.792159914039125"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Filipino fusion food: taco: burrito: nachos: rice plates"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.39956633142907",
-          "37.787687193261206"
         ]
       }
     },
@@ -381,32 +342,6 @@
     {
       "type": "Feature",
       "properties": {
-        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.38453073422282",
-          "37.77056784888584"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Tacos: burritos: quesadillas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.40238532279395",
-          "37.792846595133213"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "popupContent": "Acai Bowls: Smoothies: Juices"
       },
       "geometry": {
@@ -491,7 +426,7 @@
         "type": "Point",
         "coordinates": [
           "-122.43301077434302",
-          "37.795838484437851"
+          "37.793002875331801"
         ]
       }
     },
@@ -504,19 +439,6 @@
         "type": "Point",
         "coordinates": [
           "-122.43301077434302",
-          "37.793002875331801"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.40135328093122",
           "37.795838484437851"
         ]
       }
@@ -531,6 +453,19 @@
         "coordinates": [
           "-122.40135328093122",
           "37.793002875331801"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.40135328093122",
+          "37.795838484437851"
         ]
       }
     },
@@ -544,32 +479,6 @@
         "coordinates": [
           "-122.39486523862108",
           "37.794437862296938"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Latin Food: Tacos: Pupusas: Vegetables: Salad: Waters: Sodas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.40126969523558",
-          "37.792274296118016"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Latin Food: Tacos: Pupusas: Vegetables: Salad: Waters: Sodas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.40126969523558",
-          "37.788387888445406"
         ]
       }
     },
@@ -595,7 +504,7 @@
         "type": "Point",
         "coordinates": [
           "-122.40070689723306",
-          "37.795838484437851"
+          "37.793002875331801"
         ]
       }
     },
@@ -608,33 +517,7 @@
         "type": "Point",
         "coordinates": [
           "-122.40070689723306",
-          "37.793002875331801"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Latin Food: Tacos: Pupusas: Vegetables: Salad: Waters: Sodas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.40018504988889",
-          "37.792274296118016"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Latin Food: Tacos: Pupusas: Vegetables: Salad: Waters: Sodas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.40018504988889",
-          "37.788387888445406"
+          "37.795838484437851"
         ]
       }
     },
@@ -654,26 +537,13 @@
     {
       "type": "Feature",
       "properties": {
-        "popupContent": "Latin Food: Tacos: Pupusas: Vegetables: Salad: Waters: Sodas"
+        "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-122.39610066847152",
-          "37.792274296118016"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Latin Food: Tacos: Pupusas: Vegetables: Salad: Waters: Sodas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.39610066847152",
-          "37.788387888445406"
+          "-122.4095912604668",
+          "37.793002875331801"
         ]
       }
     },
@@ -698,7 +568,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-122.4095912604668",
+          "-122.40375455824538",
           "37.793002875331801"
         ]
       }
@@ -719,13 +589,13 @@
     {
       "type": "Feature",
       "properties": {
-        "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
+        "popupContent": "Tacos: burritos: quesadillas"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-122.40375455824538",
-          "37.793002875331801"
+          "-122.40238532279395",
+          "37.792846595133213"
         ]
       }
     },
@@ -750,7 +620,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-122.3910982796345",
+          "-122.40320062649582",
           "37.76383946084772"
         ]
       }
@@ -763,7 +633,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-122.40320062649582",
+          "-122.3910982796345",
           "37.76383946084772"
         ]
       }
