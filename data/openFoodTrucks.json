@@ -1,5 +1,4 @@
 {
-  "type": "FeatureCollection",
   "features": [
     {
       "properties": {
@@ -7,24 +6,11 @@
       },
       "type": "Feature",
       "geometry": {
-        "type": "Point",
         "coordinates": [
           "-122.41880648110114",
           "37.760191420931278"
-        ]
-      }
-    },
-    {
-      "properties": {
-        "popupContent": "Ice Cream: Waffle Cones"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.40747042036952",
-          "37.78846837365839"
-        ]
+        ],
+        "type": "Point"
       }
     },
     {
@@ -33,11 +19,11 @@
       },
       "type": "Feature",
       "geometry": {
-        "type": "Point",
         "coordinates": [
           "-122.40527052309521",
           "37.787813788166275"
-        ]
+        ],
+        "type": "Point"
       }
     },
     {
@@ -46,11 +32,11 @@
       },
       "type": "Feature",
       "geometry": {
-        "type": "Point",
         "coordinates": [
           "-122.40719603412224",
           "37.788925230487813"
-        ]
+        ],
+        "type": "Point"
       }
     },
     {
@@ -59,11 +45,11 @@
       },
       "type": "Feature",
       "geometry": {
-        "type": "Point",
         "coordinates": [
           "-122.40739807595821",
           "37.787407398506105"
-        ]
+        ],
+        "type": "Point"
       }
     },
     {
@@ -72,38 +58,13 @@
       },
       "type": "Feature",
       "geometry": {
-        "type": "Point",
         "coordinates": [
           "-122.40687973821338",
           "37.787443441472988"
-        ]
-      }
-    },
-    {
-      "properties": {
-        "popupContent": "Prepackaged Kettlecorn"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.40815476434545",
-          "37.785502222397305"
-        ]
-      }
-    },
-    {
-      "properties": {
-        "popupContent": "Sandwich: Donuts: Coffee: Soft Serve Ice Cream: Drinks"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.40241859729358",
-          "37.789121900046254"
-        ]
+        ],
+        "type": "Point"
       }
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
