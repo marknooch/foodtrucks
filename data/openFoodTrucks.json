@@ -1,18 +1,6 @@
 {
+  "type": "FeatureCollection",
   "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.38453073422282",
-          "37.77056784888584"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
-      }
-    },
     {
       "type": "Feature",
       "geometry": {
@@ -24,6 +12,45 @@
       },
       "properties": {
         "popupContent": "Lomo Saltado: Jalea: Ceviche: Calamar: Tilapia plate: chicken special. Soda: Water."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.4007474940767",
+          "37.793079029560417"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Noodles: Meat & Drinks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.3924814876784",
+          "37.745625113681612"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Tacos: Burritos: Quesadillas: Tortas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.39301498669842",
+          "37.745625113681612"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Tacos: Burritos: Quesadillas: Tortas"
       }
     },
     {
@@ -154,6 +181,19 @@
       },
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Nachos Alambres: Choice of Meat: Carne Asada: Carnitas: Pollo: Al Pastor Camarones"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.39547306227007",
+          "37.766486367767882"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Tacos burritos quesadillas tortas pupusas flautas tamales"
       }
     },
     {
@@ -297,6 +337,45 @@
       },
       "properties": {
         "popupContent": "Peruvian Food Served Hot"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.38453073422282",
+          "37.77056784888584"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.40241859729358",
+          "37.789121900046254"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Tacos: burritos: quesadillas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.39723654373122",
+          "37.789121900046254"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Tacos: burritos: quesadillas"
       }
     },
     {
@@ -732,32 +811,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          "-122.40241859729358",
-          "37.789121900046254"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Tacos: burritos: quesadillas"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39723654373122",
-          "37.789121900046254"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Tacos: burritos: quesadillas"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           "-122.39459319923499",
           "37.792987967452049"
         ],
@@ -771,7 +824,7 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          "-122.40320062649582",
+          "-122.3910982796345",
           "37.76383946084772"
         ],
         "type": "Point"
@@ -784,7 +837,7 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          "-122.3910982796345",
+          "-122.40320062649582",
           "37.76383946084772"
         ],
         "type": "Point"
@@ -875,19 +928,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          "-122.4007474940767",
-          "37.793079029560417"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Noodles: Meat & Drinks"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           "-122.39714976579396",
           "37.747706739155923"
         ],
@@ -960,45 +1000,6 @@
       },
       "properties": {
         "popupContent": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.3924814876784",
-          "37.745625113681612"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Tortas"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39301498669842",
-          "37.745625113681612"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Tortas"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39547306227007",
-          "37.766486367767882"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Tacos burritos quesadillas tortas pupusas flautas tamales"
       }
     },
     {
@@ -1183,6 +1184,5 @@
         "popupContent": "Sandwich: Donuts: Coffee: Soft Serve Ice Cream: Drinks"
       }
     }
-  ],
-  "type": "FeatureCollection"
+  ]
 }
