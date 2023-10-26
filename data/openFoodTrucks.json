@@ -1,6 +1,31 @@
 {
-  "type": "FeatureCollection",
   "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          "-122.3924814876784",
+          "37.740819657574626"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Tacos: Burritos: Quesadillas: Tortas"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-122.39301498669842",
+          "37.740819657574626"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Tacos: Burritos: Quesadillas: Tortas"
+      },
+      "type": "Feature"
+    },
     {
       "geometry": {
         "coordinates": [
@@ -186,32 +211,6 @@
     {
       "geometry": {
         "coordinates": [
-          "-122.3924814876784",
-          "37.740819657574626"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Tortas"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.39301498669842",
-          "37.740819657574626"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Tortas"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           "-122.42057533514163",
           "37.768221393081411"
         ],
@@ -300,5 +299,6 @@
       },
       "type": "Feature"
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
