@@ -2,6 +2,19 @@
   "features": [
     {
       "properties": {
+        "popupContent": "Hot dogs and related toppings: non alcoholic beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.41880648110114",
+          "37.760191420931278"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
         "popupContent": "Coffee: Vegan Pastries: Vegan Hot Dogs: Vegan Tamales: Te: Vegan Shakes"
       },
       "type": "Feature",
@@ -22,45 +35,6 @@
         "coordinates": [
           "-122.40689189299718",
           "37.786635282568959"
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "properties": {
-        "popupContent": "Tacos: burritos: soda & juice"
-      },
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.4114199662057",
-          "37.775548024246895"
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "properties": {
-        "popupContent": "Tacos: burritos: soda & juice"
-      },
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.41400704302406",
-          "37.775548024246895"
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "properties": {
-        "popupContent": "Tacos: burritos: soda & juice"
-      },
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.41746613186956",
-          "37.775548024246895"
         ],
         "type": "Point"
       }
@@ -100,6 +74,19 @@
         "coordinates": [
           "-122.43301077434302",
           "37.805128228384312"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Ice Cream & Waffle Cones"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.4077185090006",
+          "37.787347325398393"
         ],
         "type": "Point"
       }
@@ -256,6 +243,19 @@
         "coordinates": [
           "-122.40673602990493",
           "37.738830582567026"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Prepackaged Kettlecorn"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.40815476434545",
+          "37.785502222397305"
         ],
         "type": "Point"
       }
