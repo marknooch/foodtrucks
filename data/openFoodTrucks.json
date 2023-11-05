@@ -69,45 +69,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          "-122.4114199662057",
-          "37.751013838174387"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Tacos: burritos: soda & juice"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.41400704302406",
-          "37.751013838174387"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Tacos: burritos: soda & juice"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.41746613186956",
-          "37.751013838174387"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Tacos: burritos: soda & juice"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           "-122.47547353178139",
           "37.747706739155923"
         ],
@@ -511,6 +472,19 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
+          "-122.41400704302406",
+          "37.751013838174387"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Tacos: burritos: soda & juice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
           "0",
           "37.724270062085751"
         ],
@@ -531,6 +505,32 @@
       },
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.4114199662057",
+          "37.751013838174387"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Tacos: burritos: soda & juice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.41746613186956",
+          "37.751013838174387"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Tacos: burritos: soda & juice"
       }
     }
   ],
