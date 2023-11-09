@@ -29,19 +29,6 @@
     },
     {
       "properties": {
-        "popupContent": "Gyros: Kebabs: soft drinks: and water"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.39863358940373",
-          "37.791258708308668"
-        ]
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
         "popupContent": "Tacos: burritos: quesadillas"
       },
       "geometry": {
@@ -62,6 +49,32 @@
         "coordinates": [
           "-122.39723654373122",
           "37.787746304359324"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "popupContent": "Gyros: Kebabs: soft drinks: and water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.39863358940373",
+          "37.791258708308668"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "popupContent": "Ice Cream: Waffle Cones"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.40747042036952",
+          "37.78846837365839"
         ]
       },
       "type": "Feature"
@@ -231,19 +244,6 @@
         "coordinates": [
           "-122.40241859729358",
           "37.789121900046254"
-        ]
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
-        "popupContent": "Ice Cream: Waffle Cones"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.40747042036952",
-          "37.78846837365839"
         ]
       },
       "type": "Feature"
