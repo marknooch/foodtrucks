@@ -1,4 +1,5 @@
 {
+  "type": "FeatureCollection",
   "features": [
     {
       "properties": {
@@ -10,19 +11,6 @@
         "coordinates": [
           "-122.41880648110114",
           "37.760191420931278"
-        ]
-      }
-    },
-    {
-      "properties": {
-        "popupContent": "Ice Cream: Waffle Cones"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.40747042036952",
-          "37.78846837365839"
         ]
       }
     },
@@ -155,7 +143,19 @@
           "37.789121900046254"
         ]
       }
+    },
+    {
+      "properties": {
+        "popupContent": "Ice Cream: Waffle Cones"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.40747042036952",
+          "37.78846837365839"
+        ]
+      }
     }
-  ],
-  "type": "FeatureCollection"
+  ]
 }
