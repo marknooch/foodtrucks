@@ -1,5 +1,4 @@
 {
-  "type": "FeatureCollection",
   "features": [
     {
       "type": "Feature",
@@ -12,19 +11,6 @@
       },
       "properties": {
         "popupContent": "Hot dogs and related toppings: non alcoholic beverages"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.4925212449949",
-          "37.721889708708382"
-        ]
-      },
-      "properties": {
-        "popupContent": "Coffee: Vegan Pastries: Vegan Hot Dogs: Vegan Tamales: Te: Vegan Shakes"
       }
     },
     {
@@ -105,5 +91,6 @@
         "popupContent": "Ice Cream & Waffle Cones"
       }
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
