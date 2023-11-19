@@ -2,9 +2,6 @@
   "type": "FeatureCollection",
   "features": [
     {
-      "properties": {
-        "popupContent": "Coffee: Vegan Pastries: Vegan Hot Dogs: Vegan Tamales: Te: Vegan Shakes"
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -12,12 +9,12 @@
           "37.721889708708382"
         ]
       },
-      "type": "Feature"
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Coffee: Vegan Pastries: Vegan Hot Dogs: Vegan Tamales: Te: Vegan Shakes"
+      }
     },
     {
-      "properties": {
-        "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -25,12 +22,12 @@
           "37.805128228384312"
         ]
       },
-      "type": "Feature"
-    },
-    {
+      "type": "Feature",
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
-      },
+      }
+    },
+    {
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -38,12 +35,12 @@
           "37.805128228384312"
         ]
       },
-      "type": "Feature"
-    },
-    {
+      "type": "Feature",
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
-      },
+      }
+    },
+    {
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -51,12 +48,12 @@
           "37.805128228384312"
         ]
       },
-      "type": "Feature"
-    },
-    {
+      "type": "Feature",
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
-      },
+      }
+    },
+    {
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -64,12 +61,12 @@
           "37.805128228384312"
         ]
       },
-      "type": "Feature"
-    },
-    {
+      "type": "Feature",
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
-      },
+      }
+    },
+    {
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -77,12 +74,12 @@
           "37.805128228384312"
         ]
       },
-      "type": "Feature"
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
+      }
     },
     {
-      "properties": {
-        "popupContent": "Filipino fusion food: taco: burrito: nachos: rice plates"
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -90,12 +87,12 @@
           "37.785502222397305"
         ]
       },
-      "type": "Feature"
-    },
-    {
+      "type": "Feature",
       "properties": {
         "popupContent": "Filipino fusion food: taco: burrito: nachos: rice plates"
-      },
+      }
+    },
+    {
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -103,12 +100,12 @@
           "37.785502222397305"
         ]
       },
-      "type": "Feature"
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Filipino fusion food: taco: burrito: nachos: rice plates"
+      }
     },
     {
-      "properties": {
-        "popupContent": "Tacos: burritos: soda & juice"
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -116,12 +113,12 @@
           "37.751013838174387"
         ]
       },
-      "type": "Feature"
-    },
-    {
+      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: burritos: soda & juice"
-      },
+      }
+    },
+    {
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -129,12 +126,12 @@
           "37.751013838174387"
         ]
       },
-      "type": "Feature"
-    },
-    {
+      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: burritos: soda & juice"
-      },
+      }
+    },
+    {
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -142,12 +139,12 @@
           "37.751013838174387"
         ]
       },
-      "type": "Feature"
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Tacos: burritos: soda & juice"
+      }
     },
     {
-      "properties": {
-        "popupContent": "Ice Cream & Waffle Cones"
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -155,12 +152,12 @@
           "37.787347325398393"
         ]
       },
-      "type": "Feature"
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Ice Cream & Waffle Cones"
+      }
     },
     {
-      "properties": {
-        "popupContent": "Ice Cream: Waffle Cones"
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -168,12 +165,12 @@
           "37.789121900046254"
         ]
       },
-      "type": "Feature"
-    },
-    {
+      "type": "Feature",
       "properties": {
         "popupContent": "Ice Cream: Waffle Cones"
-      },
+      }
+    },
+    {
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -181,12 +178,12 @@
           "37.789121900046254"
         ]
       },
-      "type": "Feature"
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Ice Cream: Waffle Cones"
+      }
     },
     {
-      "properties": {
-        "popupContent": "Cold Truck: Burrito: Corn Dog: Salads: Sandwiches: Quesadilla: Tacos: Fried Rice: Cow Mein: Chinese Rice: Noodle Plates: Soup: Bacon: Eggs: Ham: Avacado: Sausages: Beverages"
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -194,12 +191,12 @@
           "37.747706739155923"
         ]
       },
-      "type": "Feature"
-    },
-    {
+      "type": "Feature",
       "properties": {
         "popupContent": "Cold Truck: Burrito: Corn Dog: Salads: Sandwiches: Quesadilla: Tacos: Fried Rice: Cow Mein: Chinese Rice: Noodle Plates: Soup: Bacon: Eggs: Ham: Avacado: Sausages: Beverages"
-      },
+      }
+    },
+    {
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -207,12 +204,12 @@
           "37.747706739155923"
         ]
       },
-      "type": "Feature"
-    },
-    {
+      "type": "Feature",
       "properties": {
         "popupContent": "Cold Truck: Burrito: Corn Dog: Salads: Sandwiches: Quesadilla: Tacos: Fried Rice: Cow Mein: Chinese Rice: Noodle Plates: Soup: Bacon: Eggs: Ham: Avacado: Sausages: Beverages"
-      },
+      }
+    },
+    {
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -220,12 +217,12 @@
           "37.747706739155923"
         ]
       },
-      "type": "Feature"
-    },
-    {
+      "type": "Feature",
       "properties": {
         "popupContent": "Cold Truck: Burrito: Corn Dog: Salads: Sandwiches: Quesadilla: Tacos: Fried Rice: Cow Mein: Chinese Rice: Noodle Plates: Soup: Bacon: Eggs: Ham: Avacado: Sausages: Beverages"
-      },
+      }
+    },
+    {
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -233,12 +230,12 @@
           "37.747706739155923"
         ]
       },
-      "type": "Feature"
-    },
-    {
+      "type": "Feature",
       "properties": {
         "popupContent": "Cold Truck: Burrito: Corn Dog: Salads: Sandwiches: Quesadilla: Tacos: Fried Rice: Cow Mein: Chinese Rice: Noodle Plates: Soup: Bacon: Eggs: Ham: Avacado: Sausages: Beverages"
-      },
+      }
+    },
+    {
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -246,12 +243,12 @@
           "37.747706739155923"
         ]
       },
-      "type": "Feature"
-    },
-    {
+      "type": "Feature",
       "properties": {
         "popupContent": "Cold Truck: Burrito: Corn Dog: Salads: Sandwiches: Quesadilla: Tacos: Fried Rice: Cow Mein: Chinese Rice: Noodle Plates: Soup: Bacon: Eggs: Ham: Avacado: Sausages: Beverages"
-      },
+      }
+    },
+    {
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -259,12 +256,12 @@
           "37.747706739155923"
         ]
       },
-      "type": "Feature"
-    },
-    {
+      "type": "Feature",
       "properties": {
         "popupContent": "Cold Truck: Burrito: Corn Dog: Salads: Sandwiches: Quesadilla: Tacos: Fried Rice: Cow Mein: Chinese Rice: Noodle Plates: Soup: Bacon: Eggs: Ham: Avacado: Sausages: Beverages"
-      },
+      }
+    },
+    {
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -272,7 +269,10 @@
           "37.747706739155923"
         ]
       },
-      "type": "Feature"
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cold Truck: Burrito: Corn Dog: Salads: Sandwiches: Quesadilla: Tacos: Fried Rice: Cow Mein: Chinese Rice: Noodle Plates: Soup: Bacon: Eggs: Ham: Avacado: Sausages: Beverages"
+      }
     }
   ]
 }
