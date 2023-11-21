@@ -1,5 +1,4 @@
 {
-  "type": "FeatureCollection",
   "features": [
     {
       "properties": {
@@ -16,97 +15,6 @@
     },
     {
       "properties": {
-        "popupContent": "MOMO Spicy Noodle: POPO's Noodle: Spicy Chicken Noodle: Rice Noodles"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.39809861316652",
-          "37.793449871960071"
-        ]
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Tortas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.3924814876784",
-          "37.745625113681612"
-        ]
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
-        "popupContent": "Noodles"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.3986412420388",
-          "37.788670817471122"
-        ]
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
-        "popupContent": "Noodles"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.3986412420388",
-          "37.790990760680316"
-        ]
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Tortas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.39301498669842",
-          "37.745625113681612"
-        ]
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
-        "popupContent": "Noodles"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.4001004237385",
-          "37.788670817471122"
-        ]
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
-        "popupContent": "Noodles"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.4001004237385",
-          "37.790990760680316"
-        ]
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
       },
       "geometry": {
@@ -153,19 +61,6 @@
         "coordinates": [
           "-122.40070689723306",
           "37.795838484437851"
-        ]
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
-        "popupContent": "Tacos burritos quesadillas tortas pupusas flautas tamales"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.39547306227007",
-          "37.766486367767882"
         ]
       },
       "type": "Feature"
@@ -276,19 +171,6 @@
     },
     {
       "properties": {
-        "popupContent": "Senor Sisig: Filipino fusion food: tacos: burritos: nachos: rice plates. Various beverages."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.39809861316652",
-          "37.782676456736766"
-        ]
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
         "popupContent": "Peruvian Food Served Hot"
       },
       "geometry": {
@@ -296,6 +178,19 @@
         "coordinates": [
           "0",
           "37.792461705907812"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "popupContent": "Senor Sisig: Filipino fusion food: tacos: burritos: nachos: rice plates. Various beverages."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.39809861316652",
+          "37.782676456736766"
         ]
       },
       "type": "Feature"
@@ -354,13 +249,195 @@
     },
     {
       "properties": {
-        "popupContent": "Tacos: burritos: soda & juice"
+        "popupContent": "Tacos: burritos: quesadillas"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-122.4114199662057",
-          "37.775548024246895"
+          "-122.40238532279395",
+          "37.792846595133213"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "popupContent": "Mexican; Burritos: Burrito Bowls: Salads"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.39459319923499",
+          "37.792987967452049"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "popupContent": "Cold truck: sandwiches: salads: beverages: chips: candy: cookies: coffee: tea: drinks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.40320062649582",
+          "37.76383946084772"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "popupContent": "Cold truck: sandwiches: salads: beverages: chips: candy: cookies: coffee: tea: drinks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.3910982796345",
+          "37.76383946084772"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "popupContent": "Cold truck: sandwiches: salads: beverages: chips: candy: cookies: coffee: tea: drinks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.4583917498439",
+          "37.76383946084772"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "popupContent": "Mexican; Burritos: Burrito Bowls: Salads"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.39610066847152",
+          "37.792987967452049"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "popupContent": "Cold truck: sandwiches: salads: beverages: chips: candy: cookies: coffee: tea: drinks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.3891692314827",
+          "37.76383946084772"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "popupContent": "Noodles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.4001004237385",
+          "37.788670817471122"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "popupContent": "Noodles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.4001004237385",
+          "37.790990760680316"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "popupContent": "MOMO Spicy Noodle: POPO's Noodle: Spicy Chicken Noodle: Rice Noodles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.39809861316652",
+          "37.793449871960071"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "popupContent": "Tacos: Burritos: Quesadillas: Tortas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.3924814876784",
+          "37.745625113681612"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "popupContent": "Noodles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.3986412420388",
+          "37.788670817471122"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "popupContent": "Noodles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.3986412420388",
+          "37.790990760680316"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "popupContent": "Tacos: Burritos: Quesadillas: Tortas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.39301498669842",
+          "37.745625113681612"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "popupContent": "Tacos burritos quesadillas tortas pupusas flautas tamales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.39547306227007",
+          "37.766486367767882"
         ]
       },
       "type": "Feature"
@@ -373,6 +450,19 @@
         "type": "Point",
         "coordinates": [
           "-122.41400704302406",
+          "37.775548024246895"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "popupContent": "Tacos: burritos: soda & juice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.4114199662057",
           "37.775548024246895"
         ]
       },
@@ -400,19 +490,6 @@
         "coordinates": [
           "-122.41746613186956",
           "37.775548024246895"
-        ]
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
-        "popupContent": "Tacos: burritos: quesadillas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.40238532279395",
-          "37.792846595133213"
         ]
       },
       "type": "Feature"
@@ -494,84 +571,7 @@
         ]
       },
       "type": "Feature"
-    },
-    {
-      "properties": {
-        "popupContent": "Mexican; Burritos: Burrito Bowls: Salads"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.39459319923499",
-          "37.792987967452049"
-        ]
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
-        "popupContent": "Cold truck: sandwiches: salads: beverages: chips: candy: cookies: coffee: tea: drinks"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.3910982796345",
-          "37.76383946084772"
-        ]
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
-        "popupContent": "Cold truck: sandwiches: salads: beverages: chips: candy: cookies: coffee: tea: drinks"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.40320062649582",
-          "37.76383946084772"
-        ]
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
-        "popupContent": "Cold truck: sandwiches: salads: beverages: chips: candy: cookies: coffee: tea: drinks"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.4583917498439",
-          "37.76383946084772"
-        ]
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
-        "popupContent": "Mexican; Burritos: Burrito Bowls: Salads"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.39610066847152",
-          "37.792987967452049"
-        ]
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
-        "popupContent": "Cold truck: sandwiches: salads: beverages: chips: candy: cookies: coffee: tea: drinks"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.3891692314827",
-          "37.76383946084772"
-        ]
-      },
-      "type": "Feature"
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
