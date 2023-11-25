@@ -1,8 +1,6 @@
 {
-  "type": "FeatureCollection",
   "features": [
     {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -10,12 +8,12 @@
           "37.805128228384312"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
       }
     },
     {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -23,12 +21,12 @@
           "37.78916114986874"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
       }
     },
     {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -36,12 +34,12 @@
           "37.805128228384312"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
       }
     },
     {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -49,12 +47,12 @@
           "37.78916114986874"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
       }
     },
     {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -62,12 +60,12 @@
           "37.805128228384312"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
       }
     },
     {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -75,12 +73,12 @@
           "37.78916114986874"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
       }
     },
     {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -88,12 +86,12 @@
           "37.805128228384312"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
       }
     },
     {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -101,12 +99,12 @@
           "37.78916114986874"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
       }
     },
     {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -114,12 +112,12 @@
           "37.805128228384312"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
       }
     },
     {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -127,9 +125,11 @@
           "37.78916114986874"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
       }
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
