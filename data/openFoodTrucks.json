@@ -2,6 +2,7 @@
   "type": "FeatureCollection",
   "features": [
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -11,10 +12,10 @@
       },
       "properties": {
         "popupContent": "Coffee: Vegan Pastries: Vegan Hot Dogs: Vegan Tamales: Te: Vegan Shakes"
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -24,10 +25,10 @@
       },
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -37,10 +38,10 @@
       },
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -50,10 +51,10 @@
       },
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -63,10 +64,10 @@
       },
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -76,10 +77,10 @@
       },
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -89,10 +90,10 @@
       },
       "properties": {
         "popupContent": "Filipino fusion food: taco: burrito: nachos: rice plates"
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -102,23 +103,10 @@
       },
       "properties": {
         "popupContent": "Filipino fusion food: taco: burrito: nachos: rice plates"
-      },
-      "type": "Feature"
+      }
     },
     {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.41400704302406",
-          "37.751013838174387"
-        ]
-      },
-      "properties": {
-        "popupContent": "Tacos: burritos: soda & juice"
-      },
-      "type": "Feature"
-    },
-    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -128,10 +116,23 @@
       },
       "properties": {
         "popupContent": "Tacos: burritos: soda & juice"
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.41400704302406",
+          "37.751013838174387"
+        ]
+      },
+      "properties": {
+        "popupContent": "Tacos: burritos: soda & juice"
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -141,10 +142,10 @@
       },
       "properties": {
         "popupContent": "Tacos: burritos: soda & juice"
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -154,10 +155,10 @@
       },
       "properties": {
         "popupContent": "Ice Cream & Waffle Cones"
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -167,10 +168,10 @@
       },
       "properties": {
         "popupContent": "Ice Cream: Waffle Cones"
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -180,8 +181,7 @@
       },
       "properties": {
         "popupContent": "Ice Cream: Waffle Cones"
-      },
-      "type": "Feature"
+      }
     }
   ]
 }
