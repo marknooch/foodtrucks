@@ -1,9 +1,7 @@
 {
   "features": [
     {
-      "properties": {
-        "popupContent": "Hot dogs and related toppings: non alcoholic beverages"
-      },
+      "type": "Feature",
       "geometry": {
         "coordinates": [
           "-122.41880648110114",
@@ -11,12 +9,12 @@
         ],
         "type": "Point"
       },
-      "type": "Feature"
+      "properties": {
+        "popupContent": "Hot dogs and related toppings: non alcoholic beverages"
+      }
     },
     {
-      "properties": {
-        "popupContent": "Peruvian Food Served Hot"
-      },
+      "type": "Feature",
       "geometry": {
         "coordinates": [
           "-122.39406659922962",
@@ -24,12 +22,12 @@
         ],
         "type": "Point"
       },
-      "type": "Feature"
+      "properties": {
+        "popupContent": "Peruvian Food Served Hot"
+      }
     },
     {
-      "properties": {
-        "popupContent": "Tacos: burritos: quesadillas"
-      },
+      "type": "Feature",
       "geometry": {
         "coordinates": [
           "-122.40241859729358",
@@ -37,12 +35,12 @@
         ],
         "type": "Point"
       },
-      "type": "Feature"
-    },
-    {
       "properties": {
         "popupContent": "Tacos: burritos: quesadillas"
-      },
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "coordinates": [
           "-122.39723654373122",
@@ -50,12 +48,12 @@
         ],
         "type": "Point"
       },
-      "type": "Feature"
+      "properties": {
+        "popupContent": "Tacos: burritos: quesadillas"
+      }
     },
     {
-      "properties": {
-        "popupContent": "Ice Cream: Waffle Cones"
-      },
+      "type": "Feature",
       "geometry": {
         "coordinates": [
           "-122.40747042036952",
@@ -63,7 +61,9 @@
         ],
         "type": "Point"
       },
-      "type": "Feature"
+      "properties": {
+        "popupContent": "Ice Cream: Waffle Cones"
+      }
     }
   ],
   "type": "FeatureCollection"
