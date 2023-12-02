@@ -1,4 +1,5 @@
 {
+  "type": "FeatureCollection",
   "features": [
     {
       "type": "Feature",
@@ -148,7 +149,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-122.4114199662057",
+          "-122.41400704302406",
           "37.775548024246895"
         ]
       },
@@ -161,7 +162,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-122.41400704302406",
+          "-122.4114199662057",
           "37.775548024246895"
         ]
       },
@@ -182,6 +183,5 @@
         "popupContent": "Tacos: burritos: soda & juice"
       }
     }
-  ],
-  "type": "FeatureCollection"
+  ]
 }
