@@ -2,6 +2,20 @@
   "type": "FeatureCollection",
   "features": [
     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.4925212449949",
+          "37.721889708708382"
+        ]
+      },
+      "properties": {
+        "popupContent": "Coffee: Vegan Pastries: Vegan Hot Dogs: Vegan Tamales: Te: Vegan Shakes"
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -11,10 +25,10 @@
       },
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -24,10 +38,10 @@
       },
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -37,10 +51,10 @@
       },
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -50,10 +64,10 @@
       },
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -63,10 +77,10 @@
       },
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -76,10 +90,10 @@
       },
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -89,10 +103,10 @@
       },
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -102,10 +116,10 @@
       },
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -115,10 +129,10 @@
       },
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -128,8 +142,46 @@
       },
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.4114199662057",
+          "37.775548024246895"
+        ]
       },
-      "type": "Feature"
+      "properties": {
+        "popupContent": "Tacos: burritos: soda & juice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.41400704302406",
+          "37.775548024246895"
+        ]
+      },
+      "properties": {
+        "popupContent": "Tacos: burritos: soda & juice"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.41746613186956",
+          "37.775548024246895"
+        ]
+      },
+      "properties": {
+        "popupContent": "Tacos: burritos: soda & juice"
+      }
     }
   ]
 }
