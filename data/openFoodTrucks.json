@@ -1,7 +1,6 @@
 {
   "features": [
     {
-      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: burritos: soda & juice"
       },
@@ -11,10 +10,10 @@
           "37.77181402235702"
         ],
         "type": "Point"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: burritos: soda & juice"
       },
@@ -24,10 +23,10 @@
           "37.77181402235702"
         ],
         "type": "Point"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: burritos: soda & juice"
       },
@@ -37,7 +36,8 @@
           "37.77181402235702"
         ],
         "type": "Point"
-      }
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"
