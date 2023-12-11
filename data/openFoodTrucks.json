@@ -1,7 +1,9 @@
 {
-  "type": "FeatureCollection",
   "features": [
     {
+      "properties": {
+        "popupContent": "Hot dogs and related toppings: non alcoholic beverages"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -9,12 +11,12 @@
           "37.760191420931278"
         ]
       },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Hot dogs and related toppings: non alcoholic beverages"
-      }
+      "type": "Feature"
     },
     {
+      "properties": {
+        "popupContent": "Ice Cream & Waffle Cones"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -22,36 +24,8 @@
           "37.787347325398393"
         ]
       },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Ice Cream & Waffle Cones"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.40135328093122",
-          "37.789121900046254"
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Ice Cream: Waffle Cones"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.40241859729358",
-          "37.789121900046254"
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Ice Cream: Waffle Cones"
-      }
+      "type": "Feature"
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
