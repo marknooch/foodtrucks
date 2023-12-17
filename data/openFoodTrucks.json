@@ -1,6 +1,7 @@
 {
   "features": [
     {
+      "type": "Feature",
       "properties": {
         "popupContent": "Hot dogs and related toppings: non alcoholic beverages"
       },
@@ -10,23 +11,10 @@
           "37.760191420931278"
         ],
         "type": "Point"
-      },
-      "type": "Feature"
+      }
     },
     {
-      "properties": {
-        "popupContent": "Coffee: Vegan Pastries: Vegan Hot Dogs: Vegan Tamales: Te: Vegan Shakes"
-      },
-      "geometry": {
-        "coordinates": [
-          "-122.4925212449949",
-          "37.721889708708382"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature"
-    },
-    {
+      "type": "Feature",
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
       },
@@ -36,10 +24,10 @@
           "37.805128228384312"
         ],
         "type": "Point"
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
       },
@@ -49,23 +37,10 @@
           "37.805128228384312"
         ],
         "type": "Point"
-      },
-      "type": "Feature"
+      }
     },
     {
-      "properties": {
-        "popupContent": "Acai Bowls: Poke Bowls: Smoothies: Juices"
-      },
-      "geometry": {
-        "coordinates": [
-          "-122.43301077434302",
-          "37.805128228384312"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature"
-    },
-    {
+      "type": "Feature",
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
       },
@@ -75,10 +50,10 @@
           "37.805128228384312"
         ],
         "type": "Point"
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
       },
@@ -88,10 +63,10 @@
           "37.805128228384312"
         ],
         "type": "Point"
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
       },
@@ -101,10 +76,10 @@
           "37.805128228384312"
         ],
         "type": "Point"
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
       },
@@ -114,10 +89,10 @@
           "37.739576790778216"
         ],
         "type": "Point"
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
       },
@@ -127,10 +102,10 @@
           "37.710201887920647"
         ],
         "type": "Point"
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
       },
@@ -140,10 +115,10 @@
           "37.739576790778216"
         ],
         "type": "Point"
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
       },
@@ -153,10 +128,10 @@
           "37.710201887920647"
         ],
         "type": "Point"
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
       },
@@ -166,10 +141,10 @@
           "37.739576790778216"
         ],
         "type": "Point"
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
       },
@@ -179,10 +154,10 @@
           "37.710201887920647"
         ],
         "type": "Point"
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "properties": {
         "popupContent": "Ice Cream & Waffle Cones"
       },
@@ -192,8 +167,7 @@
           "37.787347325398393"
         ],
         "type": "Point"
-      },
-      "type": "Feature"
+      }
     }
   ],
   "type": "FeatureCollection"
