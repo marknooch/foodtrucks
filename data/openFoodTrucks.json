@@ -1,31 +1,31 @@
 {
+  "type": "FeatureCollection",
   "features": [
     {
+      "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-122.41880648110114",
           "37.760191420931278"
-        ],
-        "type": "Point"
+        ]
       },
       "properties": {
         "popupContent": "Hot dogs and related toppings: non alcoholic beverages"
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-122.4077185090006",
           "37.787347325398393"
-        ],
-        "type": "Point"
+        ]
       },
       "properties": {
         "popupContent": "Ice Cream & Waffle Cones"
-      },
-      "type": "Feature"
+      }
     }
-  ],
-  "type": "FeatureCollection"
+  ]
 }
