@@ -2,9 +2,6 @@
   "type": "FeatureCollection",
   "features": [
     {
-      "properties": {
-        "popupContent": "Hot dogs and related toppings: non alcoholic beverages"
-      },
       "type": "Feature",
       "geometry": {
         "type": "Point",
@@ -12,12 +9,12 @@
           "-122.41880648110114",
           "37.760191420931278"
         ]
+      },
+      "properties": {
+        "popupContent": "Hot dogs and related toppings: non alcoholic beverages"
       }
     },
     {
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
-      },
       "type": "Feature",
       "geometry": {
         "type": "Point",
@@ -25,12 +22,12 @@
           "-122.45937730954839",
           "37.739576790778216"
         ]
+      },
+      "properties": {
+        "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
       }
     },
     {
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
-      },
       "type": "Feature",
       "geometry": {
         "type": "Point",
@@ -38,12 +35,12 @@
           "0",
           "37.739576790778216"
         ]
+      },
+      "properties": {
+        "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
       }
     },
     {
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
-      },
       "type": "Feature",
       "geometry": {
         "type": "Point",
@@ -51,12 +48,12 @@
           "-122.4552219061259",
           "37.739576790778216"
         ]
+      },
+      "properties": {
+        "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
       }
     },
     {
-      "properties": {
-        "popupContent": "Ice Cream: Waffle Cones"
-      },
       "type": "Feature",
       "geometry": {
         "type": "Point",
@@ -64,6 +61,9 @@
           "-122.40747042036952",
           "37.78846837365839"
         ]
+      },
+      "properties": {
+        "popupContent": "Ice Cream: Waffle Cones"
       }
     }
   ]
