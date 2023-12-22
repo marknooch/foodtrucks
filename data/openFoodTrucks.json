@@ -1,4 +1,5 @@
 {
+  "type": "FeatureCollection",
   "features": [
     {
       "geometry": {
@@ -8,10 +9,10 @@
         ],
         "type": "Point"
       },
-      "type": "Feature",
       "properties": {
         "popupContent": "Hot dogs and related toppings: non alcoholic beverages"
-      }
+      },
+      "type": "Feature"
     },
     {
       "geometry": {
@@ -21,10 +22,10 @@
         ],
         "type": "Point"
       },
-      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
-      }
+      },
+      "type": "Feature"
     },
     {
       "geometry": {
@@ -34,10 +35,10 @@
         ],
         "type": "Point"
       },
-      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
-      }
+      },
+      "type": "Feature"
     },
     {
       "geometry": {
@@ -47,10 +48,10 @@
         ],
         "type": "Point"
       },
-      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
-      }
+      },
+      "type": "Feature"
     },
     {
       "geometry": {
@@ -60,11 +61,10 @@
         ],
         "type": "Point"
       },
-      "type": "Feature",
       "properties": {
         "popupContent": "Ice Cream: Waffle Cones"
-      }
+      },
+      "type": "Feature"
     }
-  ],
-  "type": "FeatureCollection"
+  ]
 }
