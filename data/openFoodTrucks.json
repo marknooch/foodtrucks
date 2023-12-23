@@ -1,13 +1,12 @@
 {
-  "type": "FeatureCollection",
   "features": [
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-122.41880648110114",
           "37.760191420931278"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature",
       "properties": {
@@ -16,11 +15,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-122.45937730954839",
           "37.739576790778216"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature",
       "properties": {
@@ -29,11 +28,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "0",
           "37.739576790778216"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature",
       "properties": {
@@ -42,11 +41,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-122.4552219061259",
           "37.739576790778216"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature",
       "properties": {
@@ -55,11 +54,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-122.41400704302406",
           "37.77181402235702"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature",
       "properties": {
@@ -68,11 +67,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-122.4114199662057",
           "37.77181402235702"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature",
       "properties": {
@@ -81,11 +80,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-122.41746613186956",
           "37.77181402235702"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature",
       "properties": {
@@ -94,16 +93,17 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-122.4077185090006",
           "37.787347325398393"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature",
       "properties": {
         "popupContent": "Ice Cream & Waffle Cones"
       }
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
