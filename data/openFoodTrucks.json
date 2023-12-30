@@ -82,19 +82,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          "-122.4077185090006",
-          "37.787347325398393"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Ice Cream & Waffle Cones"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           "-122.40257456841074",
           "37.78904580399292"
         ],
@@ -102,6 +89,19 @@
       },
       "properties": {
         "popupContent": "Rotisserie chicken: pork loin: ribs: chicken salad wrap: potatoes: roasted seasonal vegetables kale salad: beverages."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.4077185090006",
+          "37.787347325398393"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Ice Cream & Waffle Cones"
       }
     },
     {
