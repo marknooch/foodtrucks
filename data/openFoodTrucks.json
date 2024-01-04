@@ -1,7 +1,5 @@
 {
-  "type": "FeatureCollection",
   "features": {
-    "type": "Feature",
     "properties": {
       "popupContent": "Hot dogs and related toppings: non alcoholic beverages"
     },
@@ -11,6 +9,8 @@
         "37.760191420931278"
       ],
       "type": "Point"
-    }
-  }
+    },
+    "type": "Feature"
+  },
+  "type": "FeatureCollection"
 }
