@@ -2,7 +2,6 @@
   "type": "FeatureCollection",
   "features": [
     {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -10,12 +9,12 @@
           "37.760191420931278"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Hot dogs and related toppings: non alcoholic beverages"
       }
     },
     {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -23,12 +22,12 @@
           "37.783124660841082"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Peruvian Food Served Hot"
       }
     },
     {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -36,12 +35,12 @@
           "37.739576790778216"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
       }
     },
     {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -49,12 +48,12 @@
           "37.739576790778216"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
       }
     },
     {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -62,12 +61,12 @@
           "37.739576790778216"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
       }
     },
     {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -75,12 +74,12 @@
           "37.78904580399292"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Rotisserie chicken: pork loin: ribs: chicken salad wrap: potatoes: roasted seasonal vegetables kale salad: beverages."
       }
     },
     {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -88,6 +87,7 @@
           "37.78846837365839"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Ice Cream: Waffle Cones"
       }
