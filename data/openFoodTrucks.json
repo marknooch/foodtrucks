@@ -1,122 +1,96 @@
 {
+  "type": "FeatureCollection",
   "features": [
     {
       "properties": {
         "popupContent": "Hot dogs and related toppings: non alcoholic beverages"
       },
+      "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-122.41880648110114",
           "37.760191420931278"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
-        "popupContent": "Tacos: burritos: quesadillas: tortas: nachos (refried beans: cheese sauce: salsa fresca): carnes (beef: chicken: marinated pork: fried pork): canned beans: rice: sodas: horchata drinks."
-      },
-      "geometry": {
-        "coordinates": [
-          "-122.40673602990493",
-          "37.738830582567026"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature"
+        ]
+      }
     },
     {
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
       },
+      "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-122.45937730954839",
           "37.739576790778216"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature"
+        ]
+      }
     },
     {
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
       },
+      "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "0",
           "37.739576790778216"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature"
+        ]
+      }
     },
     {
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
       },
+      "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-122.4552219061259",
           "37.739576790778216"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
-        "popupContent": "Rotisserie chicken: pork loin: ribs: chicken salad wrap: potatoes: roasted seasonal vegetables kale salad: beverages."
-      },
-      "geometry": {
-        "coordinates": [
-          "-122.40257456841074",
-          "37.78904580399292"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature"
+        ]
+      }
     },
     {
       "properties": {
         "popupContent": "Ice Cream & Waffle Cones"
       },
+      "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-122.4077185090006",
           "37.787347325398393"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature"
+        ]
+      }
     },
     {
       "properties": {
         "popupContent": "Ice Cream: Waffle Cones"
       },
+      "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-122.40135328093122",
           "37.789121900046254"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature"
+        ]
+      }
     },
     {
       "properties": {
         "popupContent": "Ice Cream: Waffle Cones"
       },
+      "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-122.40241859729358",
           "37.789121900046254"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature"
+        ]
+      }
     }
-  ],
-  "type": "FeatureCollection"
+  ]
 }
