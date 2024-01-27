@@ -2,6 +2,7 @@
   "type": "FeatureCollection",
   "features": [
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -9,38 +10,12 @@
           "37.760191420931278"
         ]
       },
-      "type": "Feature",
       "properties": {
         "popupContent": "Hot dogs and related toppings: non alcoholic beverages"
       }
     },
     {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.4925212449949",
-          "37.721889708708382"
-        ]
-      },
       "type": "Feature",
-      "properties": {
-        "popupContent": "Coffee: Vegan Pastries: Vegan Hot Dogs: Vegan Tamales: Te: Vegan Shakes"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.43301077434302",
-          "37.805128228384312"
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Acai Bowls: Poke Bowls: Smoothies: Juices"
-      }
-    },
-    {
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -48,12 +23,12 @@
           "37.738830582567026"
         ]
       },
-      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: burritos: quesadillas: tortas: nachos (refried beans: cheese sauce: salsa fresca): carnes (beef: chicken: marinated pork: fried pork): canned beans: rice: sodas: horchata drinks."
       }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -61,12 +36,12 @@
           "37.739576790778216"
         ]
       },
-      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
       }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -74,12 +49,12 @@
           "37.739576790778216"
         ]
       },
-      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
       }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -87,25 +62,12 @@
           "37.739576790778216"
         ]
       },
-      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
       }
     },
     {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.40257456841074",
-          "37.78904580399292"
-        ]
-      },
       "type": "Feature",
-      "properties": {
-        "popupContent": "Rotisserie chicken: pork loin: ribs: chicken salad wrap: potatoes: roasted seasonal vegetables kale salad: beverages."
-      }
-    },
-    {
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -113,12 +75,25 @@
           "37.787347325398393"
         ]
       },
-      "type": "Feature",
       "properties": {
         "popupContent": "Ice Cream & Waffle Cones"
       }
     },
     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.40257456841074",
+          "37.78904580399292"
+        ]
+      },
+      "properties": {
+        "popupContent": "Rotisserie chicken: pork loin: ribs: chicken salad wrap: potatoes: roasted seasonal vegetables kale salad: beverages."
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -126,12 +101,12 @@
           "37.789121900046254"
         ]
       },
-      "type": "Feature",
       "properties": {
         "popupContent": "Ice Cream: Waffle Cones"
       }
     },
     {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -139,7 +114,6 @@
           "37.789121900046254"
         ]
       },
-      "type": "Feature",
       "properties": {
         "popupContent": "Ice Cream: Waffle Cones"
       }
