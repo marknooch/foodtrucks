@@ -1,7 +1,6 @@
 {
   "features": [
     {
-      "type": "Feature",
       "geometry": {
         "coordinates": [
           "-122.41880648110114",
@@ -11,10 +10,10 @@
       },
       "properties": {
         "popupContent": "Hot dogs and related toppings: non alcoholic beverages"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
         "coordinates": [
           "-122.45937730954839",
@@ -24,10 +23,10 @@
       },
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
         "coordinates": [
           "0",
@@ -37,10 +36,10 @@
       },
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
         "coordinates": [
           "-122.4552219061259",
@@ -50,10 +49,10 @@
       },
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
         "coordinates": [
           "-122.40742266827704",
@@ -63,10 +62,10 @@
       },
       "properties": {
         "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: soda: espresso: cappucino: pastry: ica cream: ices: italian sausage: shish-ka-bob: churros: juice: water: various drinks"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
         "coordinates": [
           "-122.40689189299718",
@@ -76,10 +75,10 @@
       },
       "properties": {
         "popupContent": "Soft Pretzels: hot dogs: sausage: chips: popcorn: soda: espresso: cappucino: pastries: ice cream: italian sausages: shish-ka-bob: churros: juice: water: various drinks"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
         "coordinates": [
           "-122.40661576107294",
@@ -89,10 +88,10 @@
       },
       "properties": {
         "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: sodea: coffee: espresso: cappucino: pastries: ice cream: Italian sausages: shish-ka-bob: churros: juice: water: various drinks."
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
         "coordinates": [
           "-122.4077185090006",
@@ -102,7 +101,8 @@
       },
       "properties": {
         "popupContent": "Ice Cream & Waffle Cones"
-      }
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"
