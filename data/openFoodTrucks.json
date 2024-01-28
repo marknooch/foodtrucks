@@ -1,19 +1,9 @@
 {
   "features": [
     {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.41880648110114",
-          "37.760191420931278"
-        ],
-        "type": "Point"
-      },
       "properties": {
-        "popupContent": "Hot dogs and related toppings: non alcoholic beverages"
-      }
-    },
-    {
+        "popupContent": "Tacos: burritos: soda & juice"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -21,12 +11,12 @@
           "37.77181402235702"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Tacos: burritos: soda & juice"
       }
     },
     {
+      "properties": {
+        "popupContent": "Tacos: burritos: soda & juice"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -34,12 +24,12 @@
           "37.77181402235702"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Tacos: burritos: soda & juice"
       }
     },
     {
+      "properties": {
+        "popupContent": "Tacos: burritos: soda & juice"
+      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -47,9 +37,6 @@
           "37.77181402235702"
         ],
         "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Tacos: burritos: soda & juice"
       }
     }
   ],
