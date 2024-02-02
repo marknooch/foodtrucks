@@ -2,14 +2,27 @@
   "features": [
     {
       "properties": {
+        "popupContent": "Hot dogs and related toppings: non alcoholic beverages"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.41880648110114",
+          "37.760191420931278"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
         "popupContent": "Peruvian Food Served Hot"
       },
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-122.39406659922962",
           "37.783124660841082"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature"
     },
@@ -18,11 +31,11 @@
         "popupContent": "Tacos: burritos: quesadillas: tortas: nachos (refried beans: cheese sauce: salsa fresca): carnes (beef: chicken: marinated pork: fried pork): canned beans: rice: sodas: horchata drinks."
       },
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-122.40673602990493",
           "37.738830582567026"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature"
     },
@@ -31,11 +44,11 @@
         "popupContent": "Soft Pretzels: hot dogs: sausage: chips: popcorn: soda: espresso: cappucino: pastries: ice cream: italian sausages: shish-ka-bob: churros: juice: water: various drinks"
       },
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-122.40689189299718",
           "37.786635282568959"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature"
     },
@@ -44,11 +57,11 @@
         "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: soda: espresso: cappucino: pastry: ica cream: ices: italian sausage: shish-ka-bob: churros: juice: water: various drinks"
       },
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-122.40742266827704",
           "37.784906148887941"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature"
     },
@@ -57,11 +70,11 @@
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
       },
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-122.45937730954839",
           "37.739576790778216"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature"
     },
@@ -70,11 +83,11 @@
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
       },
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "0",
           "37.739576790778216"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature"
     },
@@ -83,11 +96,11 @@
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
       },
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-122.4552219061259",
           "37.739576790778216"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature"
     },
@@ -96,115 +109,37 @@
         "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: sodea: coffee: espresso: cappucino: pastries: ice cream: Italian sausages: shish-ka-bob: churros: juice: water: various drinks."
       },
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-122.40661576107294",
           "37.785773234875755"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature"
     },
     {
       "properties": {
-        "popupContent": "Tacos: burritos: soda & juice"
+        "popupContent": "Rotisserie chicken: pork loin: ribs: chicken salad wrap: potatoes: roasted seasonal vegetables kale salad: beverages."
       },
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          "-122.4114199662057",
-          "37.775548024246895"
-        ],
-        "type": "Point"
+          "-122.40257456841074",
+          "37.78904580399292"
+        ]
       },
       "type": "Feature"
     },
     {
       "properties": {
-        "popupContent": "Tacos: burritos: soda & juice"
+        "popupContent": "Ice Cream: Waffle Cones"
       },
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          "-122.41400704302406",
-          "37.775548024246895"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
-        "popupContent": "Tacos: burritos: soda & juice"
-      },
-      "geometry": {
-        "coordinates": [
-          "-122.41746613186956",
-          "37.775548024246895"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
-        "popupContent": "Rotisserie Chicken; Ribs; Pork Loin; Roasted Potatoes; Chicken Wrap; Kale Salad; Drinks"
-      },
-      "geometry": {
-        "coordinates": [
-          "-122.39241698313292",
-          "37.781299188302398"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Tortas"
-      },
-      "geometry": {
-        "coordinates": [
-          "-122.41610489253189",
-          "37.768485244380287"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Tortas"
-      },
-      "geometry": {
-        "coordinates": [
-          "-122.41610489253189",
-          "37.768485244380287"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Tortas"
-      },
-      "geometry": {
-        "coordinates": [
-          "-122.41610489253189",
-          "37.768485244380287"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Tortas"
-      },
-      "geometry": {
-        "coordinates": [
-          "-122.41610489253189",
-          "37.768485244380287"
-        ],
-        "type": "Point"
+          "-122.40747042036952",
+          "37.78846837365839"
+        ]
       },
       "type": "Feature"
     }
