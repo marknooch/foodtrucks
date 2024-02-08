@@ -2538,19 +2538,6 @@
     },
     {
       "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Various Drinks"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.42032247306807",
-          "37.768221393081411"
-        ]
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
         "popupContent": "Tacos: burritos: soda & juice"
       },
       "geometry": {
@@ -2571,6 +2558,19 @@
         "coordinates": [
           "-122.40742266827704",
           "37.784906148887941"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "popupContent": "Tacos: Burritos: Quesadillas: Various Drinks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.42032247306807",
+          "37.768221393081411"
         ]
       },
       "type": "Feature"
