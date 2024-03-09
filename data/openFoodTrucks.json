@@ -1,19 +1,5 @@
 {
-  "type": "FeatureCollection",
   "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.4925212449949",
-          "37.721889708708382"
-        ]
-      },
-      "properties": {
-        "popupContent": "Coffee: Vegan Pastries: Vegan Hot Dogs: Vegan Tamales: Te: Vegan Shakes"
-      }
-    },
     {
       "type": "Feature",
       "geometry": {
@@ -136,19 +122,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-122.43301077434302",
-          "37.805128228384312"
-        ]
-      },
-      "properties": {
-        "popupContent": "Acai Bowls: Poke Bowls: Smoothies: Juices"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "0",
           "37.739576790778216"
         ]
@@ -183,5 +156,6 @@
         "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: sodea: coffee: espresso: cappucino: pastries: ice cream: Italian sausages: shish-ka-bob: churros: juice: water: various drinks."
       }
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
