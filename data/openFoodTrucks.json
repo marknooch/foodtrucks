@@ -1,5 +1,4 @@
 {
-  "type": "FeatureCollection",
   "features": [
     {
       "type": "Feature",
@@ -291,6 +290,19 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
+          "-122.3924814876784",
+          "37.740819657574626"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Tacos: Burritos: Quesadillas: Tortas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
           "-122.47587232222202",
           "37.752351850307384"
         ],
@@ -317,13 +329,26 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          "-122.42032247306807",
-          "37.766870819282303"
+          "-122.39301498669842",
+          "37.740819657574626"
         ],
         "type": "Point"
       },
       "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Various Drinks"
+        "popupContent": "Tacos: Burritos: Quesadillas: Tortas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.4001004237385",
+          "37.790990760680316"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Noodles"
       }
     },
     {
@@ -350,6 +375,32 @@
       },
       "properties": {
         "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: soda: espresso: cappucino: pastry: ica cream: ices: italian sausage: shish-ka-bob: churros: juice: water: various drinks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.3986412420388",
+          "37.790990760680316"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Noodles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.42032247306807",
+          "37.766870819282303"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Tacos: Burritos: Quesadillas: Various Drinks"
       }
     },
     {
@@ -612,5 +663,6 @@
         "popupContent": "Tacos: Burritos: Tortas: Quesadillas: Chips & Salsa & Various Beverages"
       }
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
