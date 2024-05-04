@@ -1,5 +1,4 @@
 {
-  "type": "FeatureCollection",
   "features": [
     {
       "properties": {
@@ -393,6 +392,19 @@
     },
     {
       "properties": {
+        "popupContent": "Tacos: Burritos: Quesadillas: Various Drinks"
+      },
+      "geometry": {
+        "coordinates": [
+          "-122.42032247306807",
+          "37.766870819282303"
+        ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
         "popupContent": "Tacos: burritos: soda & juice"
       },
       "geometry": {
@@ -438,19 +450,6 @@
         "coordinates": [
           "-122.3986412420388",
           "37.788670817471122"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Various Drinks"
-      },
-      "geometry": {
-        "coordinates": [
-          "-122.42032247306807",
-          "37.766870819282303"
         ],
         "type": "Point"
       },
@@ -1223,5 +1222,6 @@
       },
       "type": "Feature"
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
