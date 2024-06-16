@@ -1,5 +1,4 @@
 {
-  "type": "FeatureCollection",
   "features": [
     {
       "properties": {
@@ -52,32 +51,7 @@
         ],
         "type": "Point"
       }
-    },
-    {
-      "properties": {
-        "popupContent": "Tacos: Tortas: Burritos"
-      },
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39924710472444",
-          "37.730136110166313"
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "properties": {
-        "popupContent": "Tacos: Tortas: Burritos"
-      },
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39924710472444",
-          "37.730136110166313"
-        ],
-        "type": "Point"
-      }
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
