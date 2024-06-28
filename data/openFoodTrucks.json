@@ -1,7 +1,9 @@
 {
   "features": [
     {
-      "type": "Feature",
+      "properties": {
+        "popupContent": "Hot dogs and related toppings: non alcoholic beverages"
+      },
       "geometry": {
         "coordinates": [
           "-122.41880648110114",
@@ -9,12 +11,12 @@
         ],
         "type": "Point"
       },
-      "properties": {
-        "popupContent": "Hot dogs and related toppings: non alcoholic beverages"
-      }
+      "type": "Feature"
     },
     {
-      "type": "Feature",
+      "properties": {
+        "popupContent": "Ice Cream: Waffle Cones"
+      },
       "geometry": {
         "coordinates": [
           "-122.40747042036952",
@@ -22,12 +24,12 @@
         ],
         "type": "Point"
       },
-      "properties": {
-        "popupContent": "Ice Cream: Waffle Cones"
-      }
+      "type": "Feature"
     },
     {
-      "type": "Feature",
+      "properties": {
+        "popupContent": "Tacos: Tortas: Burritos"
+      },
       "geometry": {
         "coordinates": [
           "-122.39924710472444",
@@ -35,12 +37,12 @@
         ],
         "type": "Point"
       },
-      "properties": {
-        "popupContent": "Tacos: Tortas: Burritos"
-      }
+      "type": "Feature"
     },
     {
-      "type": "Feature",
+      "properties": {
+        "popupContent": "Tacos: Tortas: Burritos"
+      },
       "geometry": {
         "coordinates": [
           "-122.39924710472444",
@@ -48,9 +50,7 @@
         ],
         "type": "Point"
       },
-      "properties": {
-        "popupContent": "Tacos: Tortas: Burritos"
-      }
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"
