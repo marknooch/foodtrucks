@@ -2,7 +2,9 @@
   "type": "FeatureCollection",
   "features": [
     {
-      "type": "Feature",
+      "properties": {
+        "popupContent": "Hot dogs and related toppings: non alcoholic beverages"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -10,12 +12,12 @@
           "37.760191420931278"
         ]
       },
-      "properties": {
-        "popupContent": "Hot dogs and related toppings: non alcoholic beverages"
-      }
+      "type": "Feature"
     },
     {
-      "type": "Feature",
+      "properties": {
+        "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -23,12 +25,12 @@
           "37.739576790778216"
         ]
       },
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
-      }
+      "type": "Feature"
     },
     {
-      "type": "Feature",
+      "properties": {
+        "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -36,12 +38,12 @@
           "37.739576790778216"
         ]
       },
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
-      }
+      "type": "Feature"
     },
     {
-      "type": "Feature",
+      "properties": {
+        "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -49,12 +51,12 @@
           "37.739576790778216"
         ]
       },
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
-      }
+      "type": "Feature"
     },
     {
-      "type": "Feature",
+      "properties": {
+        "popupContent": "Tacos: Tortas: Burritos"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -62,12 +64,12 @@
           "37.730136110166313"
         ]
       },
-      "properties": {
-        "popupContent": "Tacos: Tortas: Burritos"
-      }
+      "type": "Feature"
     },
     {
-      "type": "Feature",
+      "properties": {
+        "popupContent": "Tacos: Tortas: Burritos"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -75,9 +77,7 @@
           "37.730136110166313"
         ]
       },
-      "properties": {
-        "popupContent": "Tacos: Tortas: Burritos"
-      }
+      "type": "Feature"
     }
   ]
 }
