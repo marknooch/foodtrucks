@@ -2,7 +2,6 @@
   "type": "FeatureCollection",
   "features": [
     {
-      "type": "Feature",
       "properties": {
         "popupContent": "Hot dogs and related toppings: non alcoholic beverages"
       },
@@ -12,10 +11,10 @@
           "-122.41880648110114",
           "37.760191420931278"
         ]
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "popupContent": "Ice Cream: Waffle Cones"
       },
@@ -25,10 +24,10 @@
           "-122.40747042036952",
           "37.78846837365839"
         ]
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: Tortas: Burritos"
       },
@@ -38,10 +37,10 @@
           "-122.39924710472444",
           "37.730136110166313"
         ]
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: Tortas: Burritos"
       },
@@ -51,7 +50,8 @@
           "-122.39924710472444",
           "37.730136110166313"
         ]
-      }
+      },
+      "type": "Feature"
     }
   ]
 }
