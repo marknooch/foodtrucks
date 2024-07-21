@@ -1,5 +1,4 @@
 {
-  "type": "FeatureCollection",
   "features": [
     {
       "geometry": {
@@ -365,5 +364,6 @@
         "popupContent": "everything except for hot dogs"
       }
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
