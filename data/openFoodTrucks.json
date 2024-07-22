@@ -1,4 +1,5 @@
 {
+  "type": "FeatureCollection",
   "features": [
     {
       "geometry": {
@@ -926,6 +927,32 @@
     {
       "geometry": {
         "coordinates": [
+          "-122.39924710472444",
+          "37.730136110166313"
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Tacos: Tortas: Burritos"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-122.39924710472444",
+          "37.730136110166313"
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Tacos: Tortas: Burritos"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
           "-122.38781536801433",
           "37.773632119940828"
         ],
@@ -1286,33 +1313,6 @@
       "properties": {
         "popupContent": "Cold Truck: Pre-packaged sandwiches: snacks: fruit: various beverages"
       }
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.39924710472444",
-          "37.730136110166313"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Tacos: Tortas: Burritos"
-      }
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.39924710472444",
-          "37.730136110166313"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Tacos: Tortas: Burritos"
-      }
     }
-  ],
-  "type": "FeatureCollection"
+  ]
 }
