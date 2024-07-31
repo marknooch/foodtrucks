@@ -15,19 +15,6 @@
     },
     {
       "properties": {
-        "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: sodea: coffee: espresso: cappucino: pastries: ice cream: Italian sausages: shish-ka-bob: churros: juice: water: various drinks."
-      },
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.40661576107294",
-          "37.785773234875755"
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "properties": {
         "popupContent": "Tacos: burritos: soda & juice"
       },
       "type": "Feature",
@@ -35,6 +22,19 @@
         "coordinates": [
           "-122.4114199662057",
           "37.775548024246895"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: sodea: coffee: espresso: cappucino: pastries: ice cream: Italian sausages: shish-ka-bob: churros: juice: water: various drinks."
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.40661576107294",
+          "37.785773234875755"
         ],
         "type": "Point"
       }
@@ -1003,19 +1003,6 @@
     },
     {
       "properties": {
-        "popupContent": "Cold Truck: Pre-packaged sandwiches: snacks: fruit: various beverages"
-      },
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.38822774090347",
-          "37.773632119940828"
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "properties": {
         "popupContent": "Tacos: burritos: quesadillas"
       },
       "type": "Feature",
@@ -1101,6 +1088,19 @@
         "coordinates": [
           "-122.40135328093122",
           "37.793002875331801"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Cold Truck: Pre-packaged sandwiches: snacks: fruit: various beverages"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.38822774090347",
+          "37.773632119940828"
         ],
         "type": "Point"
       }
