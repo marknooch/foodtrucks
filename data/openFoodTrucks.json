@@ -4,19 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "popupContent": "Tacos: burritos: soda & juice"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.4114199662057",
-          "37.775548024246895"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: sodea: coffee: espresso: cappucino: pastries: ice cream: Italian sausages: shish-ka-bob: churros: juice: water: various drinks."
       },
       "geometry": {
@@ -24,6 +11,19 @@
         "coordinates": [
           "-122.40661576107294",
           "37.785773234875755"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Tacos: burritos: soda & juice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.4114199662057",
+          "37.775548024246895"
         ]
       }
     },
