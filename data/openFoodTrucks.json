@@ -1,7 +1,6 @@
 {
   "features": [
     {
-      "type": "Feature",
       "properties": {
         "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: sodea: coffee: espresso: cappucino: pastries: ice cream: Italian sausages: shish-ka-bob: churros: juice: water: various drinks."
       },
@@ -11,10 +10,10 @@
           "37.785773234875755"
         ],
         "type": "Point"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "popupContent": "Ice Cream: Waffle Cones"
       },
@@ -24,10 +23,10 @@
           "37.789121900046254"
         ],
         "type": "Point"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: soda: espresso: cappucino: pastry: ica cream: ices: italian sausage: shish-ka-bob: churros: juice: water: various drinks"
       },
@@ -37,10 +36,10 @@
           "37.784906148887941"
         ],
         "type": "Point"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "popupContent": "Ice Cream & Waffle Cones"
       },
@@ -50,10 +49,10 @@
           "37.787347325398393"
         ],
         "type": "Point"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "popupContent": "Soft Pretzels: hot dogs: sausage: chips: popcorn: soda: espresso: cappucino: pastries: ice cream: italian sausages: shish-ka-bob: churros: juice: water: various drinks"
       },
@@ -63,10 +62,10 @@
           "37.786635282568959"
         ],
         "type": "Point"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "popupContent": "Ice Cream: Waffle Cones"
       },
@@ -76,10 +75,10 @@
           "37.789121900046254"
         ],
         "type": "Point"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "properties": {
         "popupContent": "Hot dogs and related toppings: non alcoholic beverages"
       },
@@ -89,7 +88,8 @@
           "37.760191420931278"
         ],
         "type": "Point"
-      }
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"
