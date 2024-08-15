@@ -1,4 +1,5 @@
 {
+  "type": "FeatureCollection",
   "features": [
     {
       "type": "Feature",
@@ -16,19 +17,6 @@
     {
       "type": "Feature",
       "properties": {
-        "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: sodea: coffee: espresso: cappucino: pastries: ice cream: Italian sausages: shish-ka-bob: churros: juice: water: various drinks."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.40661576107294",
-          "37.785773234875755"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "popupContent": "Tacos: burritos: soda & juice"
       },
       "geometry": {
@@ -36,6 +24,19 @@
         "coordinates": [
           "-122.4114199662057",
           "37.775548024246895"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: sodea: coffee: espresso: cappucino: pastries: ice cream: Italian sausages: shish-ka-bob: churros: juice: water: various drinks."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.40661576107294",
+          "37.785773234875755"
         ]
       }
     },
@@ -445,19 +446,6 @@
     {
       "type": "Feature",
       "properties": {
-        "popupContent": "Noodles"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.3986412420388",
-          "37.790990760680316"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "popupContent": "Cold Truck: Pre-packaged sandwiches: snacks: fruit: various beverages"
       },
       "geometry": {
@@ -543,6 +531,19 @@
         "coordinates": [
           "-122.3882612881442",
           "37.773632119940828"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Noodles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.3986412420388",
+          "37.790990760680316"
         ]
       }
     },
@@ -705,19 +706,6 @@
     {
       "type": "Feature",
       "properties": {
-        "popupContent": "Tacos: burritos: quesadillas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.40238532279395",
-          "37.792846595133213"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "popupContent": "Cold Truck: Pre-packaged sandwiches: snacks: fruit: various beverages"
       },
       "geometry": {
@@ -816,6 +804,19 @@
         "coordinates": [
           "-122.39257951537353",
           "37.773632119940828"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Tacos: burritos: quesadillas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.40238532279395",
+          "37.792846595133213"
         ]
       }
     },
@@ -926,19 +927,6 @@
     {
       "type": "Feature",
       "properties": {
-        "popupContent": "Cold Truck: Pre-packaged sandwiches: snacks: fruit: various beverages"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.38822774090347",
-          "37.773632119940828"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "popupContent": "Latin Food: Tacos: Pupusas: Vegetables: Salad: Waters: Sodas"
       },
       "geometry": {
@@ -998,6 +986,19 @@
         "coordinates": [
           "-122.40135328093122",
           "37.793002875331801"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Cold Truck: Pre-packaged sandwiches: snacks: fruit: various beverages"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.38822774090347",
+          "37.773632119940828"
         ]
       }
     },
@@ -1404,6 +1405,5 @@
         ]
       }
     }
-  ],
-  "type": "FeatureCollection"
+  ]
 }
