@@ -3,6 +3,19 @@
   "features": [
     {
       "properties": {
+        "popupContent": "Tacos: burritos: soda & juice"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.4114199662057",
+          "37.775548024246895"
+        ]
+      }
+    },
+    {
+      "properties": {
         "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: sodea: coffee: espresso: cappucino: pastries: ice cream: Italian sausages: shish-ka-bob: churros: juice: water: various drinks."
       },
       "type": "Feature",
@@ -22,47 +35,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-122.4114199662057",
-          "37.775548024246895"
-        ]
-      }
-    },
-    {
-      "properties": {
-        "popupContent": "Tacos: burritos: soda & juice"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "-122.41400704302406",
           "37.775548024246895"
-        ]
-      }
-    },
-    {
-      "properties": {
-        "popupContent": "Noodles"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.4001004237385",
-          "37.790990760680316"
-        ]
-      }
-    },
-    {
-      "properties": {
-        "popupContent": "Noodles"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.4001004237385",
-          "37.788670817471122"
         ]
       }
     },
@@ -185,19 +159,6 @@
     },
     {
       "properties": {
-        "popupContent": "MOMO Spicy Noodle: POPO's Noodle: Spicy Chicken Noodle: Rice Noodles"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.39809861316652",
-          "37.793449871960071"
-        ]
-      }
-    },
-    {
-      "properties": {
         "popupContent": "Peruvian Food Served Hot"
       },
       "type": "Feature",
@@ -232,32 +193,6 @@
         "coordinates": [
           "-122.39924710472444",
           "37.730136110166313"
-        ]
-      }
-    },
-    {
-      "properties": {
-        "popupContent": "Noodles"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.3986412420388",
-          "37.790990760680316"
-        ]
-      }
-    },
-    {
-      "properties": {
-        "popupContent": "Noodles"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.3986412420388",
-          "37.788670817471122"
         ]
       }
     },
@@ -375,19 +310,6 @@
         "coordinates": [
           "-122.40689189299718",
           "37.786635282568959"
-        ]
-      }
-    },
-    {
-      "properties": {
-        "popupContent": "Tacos: burritos: quesadillas"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.40238532279395",
-          "37.792846595133213"
         ]
       }
     },
@@ -622,19 +544,6 @@
         "coordinates": [
           "-122.40320062649582",
           "37.748183192846653"
-        ]
-      }
-    },
-    {
-      "properties": {
-        "popupContent": "Noodles: Meat & Drinks"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.40103337534973",
-          "37.786731629993909"
         ]
       }
     },
