@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-122.40661576107294",
-          "37.785773234875755"
+          "-122.4114199662057",
+          "37.775548024246895"
         ]
       },
       "properties": {
-        "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: sodea: coffee: espresso: cappucino: pastries: ice cream: Italian sausages: shish-ka-bob: churros: juice: water: various drinks."
+        "popupContent": "Tacos: burritos: soda & juice"
       }
     },
     {
@@ -19,12 +19,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-122.4114199662057",
-          "37.775548024246895"
+          "-122.40661576107294",
+          "37.785773234875755"
         ]
       },
       "properties": {
-        "popupContent": "Tacos: burritos: soda & juice"
+        "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: sodea: coffee: espresso: cappucino: pastries: ice cream: Italian sausages: shish-ka-bob: churros: juice: water: various drinks."
       }
     },
     {
@@ -383,19 +383,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-122.40238532279395",
-          "37.792846595133213"
-        ]
-      },
-      "properties": {
-        "popupContent": "Tacos: burritos: quesadillas"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "-122.4583917498439",
           "37.748183192846653"
         ]
@@ -441,6 +428,19 @@
       },
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.40238532279395",
+          "37.792846595133213"
+        ]
+      },
+      "properties": {
+        "popupContent": "Tacos: burritos: quesadillas"
       }
     },
     {
