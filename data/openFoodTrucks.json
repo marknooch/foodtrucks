@@ -3,6 +3,19 @@
     {
       "type": "Feature",
       "properties": {
+        "popupContent": "Ice Cream: Waffle Cones"
+      },
+      "geometry": {
+        "coordinates": [
+          "-122.40135328093122",
+          "37.789121900046254"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
       },
       "geometry": {
@@ -22,6 +35,19 @@
         "coordinates": [
           "-122.45937730954839",
           "37.724270062085751"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Ice Cream: Waffle Cones"
+      },
+      "geometry": {
+        "coordinates": [
+          "-122.40241859729358",
+          "37.789121900046254"
         ],
         "type": "Point"
       }
@@ -61,19 +87,6 @@
         "coordinates": [
           "-122.47587232222202",
           "37.747706739155923"
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Ice Cream: Waffle Cones"
-      },
-      "geometry": {
-        "coordinates": [
-          "-122.40241859729358",
-          "37.789121900046254"
         ],
         "type": "Point"
       }
@@ -204,19 +217,6 @@
         "coordinates": [
           "-122.39956633142907",
           "37.785502222397305"
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Ice Cream: Waffle Cones"
-      },
-      "geometry": {
-        "coordinates": [
-          "-122.40135328093122",
-          "37.789121900046254"
         ],
         "type": "Point"
       }
