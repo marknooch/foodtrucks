@@ -1,6 +1,18 @@
 {
-  "type": "FeatureCollection",
   "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          "-122.40135328093122",
+          "37.789121900046254"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Ice Cream: Waffle Cones"
+      },
+      "type": "Feature"
+    },
     {
       "geometry": {
         "coordinates": [
@@ -30,6 +42,19 @@
     {
       "geometry": {
         "coordinates": [
+          "-122.40241859729358",
+          "37.789121900046254"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Ice Cream: Waffle Cones"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           "-122.4095912604668",
           "37.805128228384312"
         ],
@@ -50,19 +75,6 @@
       },
       "properties": {
         "popupContent": "Coffee: Vegan Pastries: Vegan Hot Dogs: Vegan Tamales: Te: Vegan Shakes"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.40241859729358",
-          "37.789121900046254"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Ice Cream: Waffle Cones"
       },
       "type": "Feature"
     },
@@ -180,19 +192,6 @@
       },
       "properties": {
         "popupContent": "Filipino fusion food: taco: burrito: nachos: rice plates"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.40135328093122",
-          "37.789121900046254"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Ice Cream: Waffle Cones"
       },
       "type": "Feature"
     },
@@ -365,5 +364,6 @@
       },
       "type": "Feature"
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
