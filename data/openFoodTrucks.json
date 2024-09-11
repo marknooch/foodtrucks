@@ -3,6 +3,19 @@
   "features": [
     {
       "properties": {
+        "popupContent": "Tacos: Burritos: Quesadillas: Tortas"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.39301498669842",
+          "37.745625113681612"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
         "popupContent": "Tacos: burritos: quesadillas"
       },
       "type": "Feature",
@@ -10,6 +23,19 @@
         "coordinates": [
           "-122.39723654373122",
           "37.787746304359324"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Peruvian Food Served Hot"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.39406659922962",
+          "37.783124660841082"
         ],
         "type": "Point"
       }
@@ -88,19 +114,6 @@
         "coordinates": [
           "-122.41610489253189",
           "37.768485244380287"
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "properties": {
-        "popupContent": "Peruvian Food Served Hot"
-      },
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39406659922962",
-          "37.783124660841082"
         ],
         "type": "Point"
       }
@@ -504,19 +517,6 @@
         "coordinates": [
           "-122.4552219061259",
           "37.739576790778216"
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Tortas"
-      },
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39301498669842",
-          "37.745625113681612"
         ],
         "type": "Point"
       }
