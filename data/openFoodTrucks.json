@@ -1,4 +1,5 @@
 {
+  "type": "FeatureCollection",
   "features": [
     {
       "geometry": {
@@ -16,19 +17,6 @@
     {
       "geometry": {
         "coordinates": [
-          "-122.39406659922962",
-          "37.783124660841082"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Peruvian Food Served Hot"
-      }
-    },
-    {
-      "geometry": {
-        "coordinates": [
           "-122.45937730954839",
           "37.739576790778216"
         ],
@@ -37,6 +25,19 @@
       "type": "Feature",
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-122.39406659922962",
+          "37.783124660841082"
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Peruvian Food Served Hot"
       }
     },
     {
@@ -195,6 +196,5 @@
         "popupContent": "Gyros: Kebabs: soft drinks: and water"
       }
     }
-  ],
-  "type": "FeatureCollection"
+  ]
 }
