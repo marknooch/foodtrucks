@@ -1,8 +1,9 @@
 {
-  "type": "FeatureCollection",
   "features": [
     {
-      "type": "Feature",
+      "properties": {
+        "popupContent": "Tacos: burritos: soda & juice"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -10,12 +11,12 @@
           "37.77181402235702"
         ]
       },
-      "properties": {
-        "popupContent": "Tacos: burritos: soda & juice"
-      }
+      "type": "Feature"
     },
     {
-      "type": "Feature",
+      "properties": {
+        "popupContent": "Tacos: burritos: soda & juice"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -23,12 +24,12 @@
           "37.77181402235702"
         ]
       },
-      "properties": {
-        "popupContent": "Tacos: burritos: soda & juice"
-      }
+      "type": "Feature"
     },
     {
-      "type": "Feature",
+      "properties": {
+        "popupContent": "Tacos: burritos: soda & juice"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -36,9 +37,8 @@
           "37.77181402235702"
         ]
       },
-      "properties": {
-        "popupContent": "Tacos: burritos: soda & juice"
-      }
+      "type": "Feature"
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
