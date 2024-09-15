@@ -82,6 +82,19 @@
     {
       "type": "Feature",
       "properties": {
+        "popupContent": "Tacos: Burritos: Quesadillas: Various Drinks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.42032247306807",
+          "37.766870819282303"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
       },
       "geometry": {
@@ -102,6 +115,19 @@
         "coordinates": [
           "-122.40135328093122",
           "37.805128228384312"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Tacos: Burritos: Quesadillas: Various Drinks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.42057533514163",
+          "37.766870819282303"
         ]
       }
     },
