@@ -1,12 +1,13 @@
 {
+  "type": "FeatureCollection",
   "features": [
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-122.39924710472444",
           "37.730136110166313"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature",
       "properties": {
@@ -15,11 +16,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-122.41880648110114",
           "37.760191420931278"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature",
       "properties": {
@@ -28,17 +29,16 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-122.39924710472444",
           "37.730136110166313"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature",
       "properties": {
         "popupContent": "Tacos: Tortas: Burritos"
       }
     }
-  ],
-  "type": "FeatureCollection"
+  ]
 }
