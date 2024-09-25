@@ -1059,6 +1059,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "-122.40209599456323",
+          "37.782542731255568"
+        ]
+      },
+      "properties": {
+        "popupContent": "everything except for hot dogs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "-122.39257951537353",
           "37.773632119940828"
         ]
@@ -1091,19 +1104,6 @@
       },
       "properties": {
         "popupContent": "Cold truck: sandwiches: salads: beverages: chips: candy: cookies: coffee: tea: drinks"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.40209599456323",
-          "37.782542731255568"
-        ]
-      },
-      "properties": {
-        "popupContent": "everything except for hot dogs"
       }
     },
     {
