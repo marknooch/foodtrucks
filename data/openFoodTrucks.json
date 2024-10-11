@@ -3,6 +3,19 @@
     {
       "geometry": {
         "coordinates": [
+          "-122.3813892094274",
+          "37.773632119940828"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Cold Truck: Pre-packaged sandwiches: snacks: fruit: various beverages"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           "-122.40375455824538",
           "37.792235955775467"
         ],
@@ -23,6 +36,71 @@
       },
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-122.4001004237385",
+          "37.790990760680316"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Rotisserie Chicken: Ribs: Kickass Salad: Potatos w/fat dripping: chicken wrap."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-122.40238532279395",
+          "37.792846595133213"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Peruvian Food Served Hot"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-122.40103337534973",
+          "37.786731629993909"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Noodles: Meat & Drinks"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-122.38700019629786",
+          "37.752836626915702"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Tacos: Burritos: Tortas: Quesadillas: Chips & Salsa & Various Beverages"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-122.40127961659626",
+          "37.79205145936664"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Ice cream & Waffle cones"
       },
       "type": "Feature"
     },
@@ -173,19 +251,6 @@
       "geometry": {
         "coordinates": [
           "-122.38822774090347",
-          "37.773632119940828"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Cold Truck: Pre-packaged sandwiches: snacks: fruit: various beverages"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.3813892094274",
           "37.773632119940828"
         ],
         "type": "Point"
@@ -777,71 +842,6 @@
       },
       "properties": {
         "popupContent": "Lobster rolls: crab rolls: lobster burritos: crab burritos: chicken burritos: fish burritos: chicken burritos: poke bowls: soups: chips & soda."
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.4001004237385",
-          "37.790990760680316"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Rotisserie Chicken: Ribs: Kickass Salad: Potatos w/fat dripping: chicken wrap."
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.40238532279395",
-          "37.792846595133213"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Peruvian Food Served Hot"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.40103337534973",
-          "37.786731629993909"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Noodles: Meat & Drinks"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.38700019629786",
-          "37.752836626915702"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Tacos: Burritos: Tortas: Quesadillas: Chips & Salsa & Various Beverages"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.40127961659626",
-          "37.79205145936664"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Ice cream & Waffle cones"
       },
       "type": "Feature"
     },
