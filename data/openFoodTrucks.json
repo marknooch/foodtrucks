@@ -1,5 +1,4 @@
 {
-  "type": "FeatureCollection",
   "features": [
     {
       "properties": {
@@ -11,19 +10,6 @@
         "coordinates": [
           "-122.4114199662057",
           "37.77181402235702"
-        ]
-      }
-    },
-    {
-      "properties": {
-        "popupContent": "Hot dogs and related toppings: non alcoholic beverages"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.41880648110114",
-          "37.760191420931278"
         ]
       }
     },
@@ -53,5 +39,6 @@
         ]
       }
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
