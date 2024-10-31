@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-122.40661576107294",
-          "37.785773234875755"
+          "-122.39961794865545",
+          "37.798811568758893"
         ]
       },
       "properties": {
-        "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: sodea: coffee: espresso: cappucino: pastries: ice cream: Italian sausages: shish-ka-bob: churros: juice: water: various drinks."
+        "popupContent": "Various menu items & drinks"
       }
     },
     {
@@ -110,19 +110,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-122.39961794865545",
-          "37.798811568758893"
-        ]
-      },
-      "properties": {
-        "popupContent": "Various menu items & drinks"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "-122.40742266827704",
           "37.784906148887941"
         ]
@@ -136,12 +123,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-122.4583917498439",
-          "37.76383946084772"
+          "-122.40673602990493",
+          "37.738830582567026"
         ]
       },
       "properties": {
-        "popupContent": "Cold truck: sandwiches: salads: beverages: chips: candy: cookies: coffee: tea: drinks"
+        "popupContent": "Tacos: burritos: quesadillas: tortas: nachos (refried beans: cheese sauce: salsa fresca): carnes (beef: chicken: marinated pork: fried pork): canned beans: rice: sodas: horchata drinks."
       }
     },
     {
@@ -149,12 +136,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-122.40673602990493",
-          "37.738830582567026"
+          "-122.4583917498439",
+          "37.76383946084772"
         ]
       },
       "properties": {
-        "popupContent": "Tacos: burritos: quesadillas: tortas: nachos (refried beans: cheese sauce: salsa fresca): carnes (beef: chicken: marinated pork: fried pork): canned beans: rice: sodas: horchata drinks."
+        "popupContent": "Cold truck: sandwiches: salads: beverages: chips: candy: cookies: coffee: tea: drinks"
       }
     },
     {
@@ -181,6 +168,19 @@
       },
       "properties": {
         "popupContent": "Ice Cream: Waffle Cones"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.40661576107294",
+          "37.785773234875755"
+        ]
+      },
+      "properties": {
+        "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: sodea: coffee: espresso: cappucino: pastries: ice cream: Italian sausages: shish-ka-bob: churros: juice: water: various drinks."
       }
     },
     {
