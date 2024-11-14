@@ -6,12 +6,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-122.39961794865545",
-          "37.798811568758893"
+          "-122.40661576107294",
+          "37.785773234875755"
         ]
       },
       "properties": {
-        "popupContent": "Various menu items & drinks"
+        "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: sodea: coffee: espresso: cappucino: pastries: ice cream: Italian sausages: shish-ka-bob: churros: juice: water: various drinks."
       }
     },
     {
@@ -110,6 +110,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "-122.39961794865545",
+          "37.798811568758893"
+        ]
+      },
+      "properties": {
+        "popupContent": "Various menu items & drinks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "-122.40742266827704",
           "37.784906148887941"
         ]
@@ -123,12 +136,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "0",
-          "37.792159914039125"
+          "-122.4583917498439",
+          "37.76383946084772"
         ]
       },
       "properties": {
-        "popupContent": "Filipino fusion food: tacos: burritos: nachos: rice plates. Various beverages."
+        "popupContent": "Cold truck: sandwiches: salads: beverages: chips: candy: cookies: coffee: tea: drinks"
       }
     },
     {
@@ -136,12 +149,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-122.4583917498439",
-          "37.76383946084772"
+          "0",
+          "37.792159914039125"
         ]
       },
       "properties": {
-        "popupContent": "Cold truck: sandwiches: salads: beverages: chips: candy: cookies: coffee: tea: drinks"
+        "popupContent": "Filipino fusion food: tacos: burritos: nachos: rice plates. Various beverages."
       }
     },
     {
@@ -168,19 +181,6 @@
       },
       "properties": {
         "popupContent": "Ice Cream: Waffle Cones"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.40661576107294",
-          "37.785773234875755"
-        ]
-      },
-      "properties": {
-        "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: sodea: coffee: espresso: cappucino: pastries: ice cream: Italian sausages: shish-ka-bob: churros: juice: water: various drinks."
       }
     },
     {
