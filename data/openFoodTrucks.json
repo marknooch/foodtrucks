@@ -3,6 +3,32 @@
     {
       "type": "Feature",
       "properties": {
+        "popupContent": "Cold Truck: Burrito: Corn Dog: Salads: Sandwiches: Quesadilla: Tacos: Fried Rice: Cow Mein: Chinese Rice: Noodle Plates: Soup: Bacon: Eggs: Ham: Avacado: Sausages: Beverages"
+      },
+      "geometry": {
+        "coordinates": [
+          "-122.49007120809986",
+          "37.747706739155923"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: sodea: coffee: espresso: cappucino: pastries: ice cream: Italian sausages: shish-ka-bob: churros: juice: water: various drinks."
+      },
+      "geometry": {
+        "coordinates": [
+          "-122.40661576107294",
+          "37.785773234875755"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
       },
       "geometry": {
@@ -126,32 +152,6 @@
         "coordinates": [
           "-122.40241859729358",
           "37.789121900046254"
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Cold Truck: Burrito: Corn Dog: Salads: Sandwiches: Quesadilla: Tacos: Fried Rice: Cow Mein: Chinese Rice: Noodle Plates: Soup: Bacon: Eggs: Ham: Avacado: Sausages: Beverages"
-      },
-      "geometry": {
-        "coordinates": [
-          "-122.49007120809986",
-          "37.747706739155923"
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: sodea: coffee: espresso: cappucino: pastries: ice cream: Italian sausages: shish-ka-bob: churros: juice: water: various drinks."
-      },
-      "geometry": {
-        "coordinates": [
-          "-122.40661576107294",
-          "37.785773234875755"
         ],
         "type": "Point"
       }
