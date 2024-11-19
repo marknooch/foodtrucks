@@ -3,19 +3,6 @@
   "features": [
     {
       "properties": {
-        "popupContent": "Mexican; Burritos: Burrito Bowls: Salads"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.39610066847152",
-          "37.792987967452049"
-        ]
-      },
-      "type": "Feature"
-    },
-    {
-      "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Various Drinks"
       },
       "geometry": {
@@ -647,6 +634,19 @@
         "coordinates": [
           "-122.39301498669842",
           "37.745625113681612"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "popupContent": "Mexican; Burritos: Burrito Bowls: Salads"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.39610066847152",
+          "37.792987967452049"
         ]
       },
       "type": "Feature"
