@@ -1,16 +1,16 @@
 {
+  "type": "FeatureCollection",
   "features": {
-    "geometry": {
-      "coordinates": [
-        "-122.40673602990493",
-        "37.738830582567026"
-      ],
-      "type": "Point"
-    },
     "properties": {
       "popupContent": "Tacos: burritos: quesadillas: tortas: nachos (refried beans: cheese sauce: salsa fresca): carnes (beef: chicken: marinated pork: fried pork): canned beans: rice: sodas: horchata drinks."
     },
-    "type": "Feature"
-  },
-  "type": "FeatureCollection"
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-122.40673602990493",
+        "37.738830582567026"
+      ]
+    }
+  }
 }
