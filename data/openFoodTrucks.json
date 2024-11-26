@@ -4,6 +4,19 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
+          "-122.45937730954839",
+          "37.739576790778216"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
           "-122.40689189299718",
           "37.786635282568959"
         ],
@@ -44,19 +57,6 @@
       "geometry": {
         "coordinates": [
           "-122.4552219061259",
-          "37.739576790778216"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.45937730954839",
           "37.739576790778216"
         ],
         "type": "Point"
