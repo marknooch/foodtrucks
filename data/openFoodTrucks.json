@@ -3,15 +3,15 @@
     {
       "geometry": {
         "coordinates": [
-          "-122.40673602990493",
-          "37.738830582567026"
+          "-122.45937730954839",
+          "37.739576790778216"
         ],
         "type": "Point"
       },
-      "type": "Feature",
       "properties": {
-        "popupContent": "Tacos: burritos: quesadillas: tortas: nachos (refried beans: cheese sauce: salsa fresca): carnes (beef: chicken: marinated pork: fried pork): canned beans: rice: sodas: horchata drinks."
-      }
+        "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
+      },
+      "type": "Feature"
     },
     {
       "geometry": {
@@ -21,10 +21,10 @@
         ],
         "type": "Point"
       },
-      "type": "Feature",
       "properties": {
         "popupContent": "Soft Pretzels: hot dogs: sausage: chips: popcorn: soda: espresso: cappucino: pastries: ice cream: italian sausages: shish-ka-bob: churros: juice: water: various drinks"
-      }
+      },
+      "type": "Feature"
     },
     {
       "geometry": {
@@ -34,10 +34,10 @@
         ],
         "type": "Point"
       },
-      "type": "Feature",
       "properties": {
         "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: soda: espresso: cappucino: pastry: ica cream: ices: italian sausage: shish-ka-bob: churros: juice: water: various drinks"
-      }
+      },
+      "type": "Feature"
     },
     {
       "geometry": {
@@ -47,10 +47,10 @@
         ],
         "type": "Point"
       },
-      "type": "Feature",
       "properties": {
         "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: sodea: coffee: espresso: cappucino: pastries: ice cream: Italian sausages: shish-ka-bob: churros: juice: water: various drinks."
-      }
+      },
+      "type": "Feature"
     },
     {
       "geometry": {
@@ -60,23 +60,10 @@
         ],
         "type": "Point"
       },
-      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
-      }
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.45937730954839",
-          "37.739576790778216"
-        ],
-        "type": "Point"
       },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
-      }
+      "type": "Feature"
     },
     {
       "geometry": {
@@ -86,10 +73,10 @@
         ],
         "type": "Point"
       },
-      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
-      }
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"
