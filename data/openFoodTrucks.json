@@ -1,6 +1,10 @@
 {
+  "type": "FeatureCollection",
   "features": [
     {
+      "properties": {
+        "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -8,12 +12,12 @@
           "37.739576790778216"
         ]
       },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
-      }
+      "type": "Feature"
     },
     {
+      "properties": {
+        "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -21,12 +25,12 @@
           "37.739576790778216"
         ]
       },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
-      }
+      "type": "Feature"
     },
     {
+      "properties": {
+        "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -34,12 +38,12 @@
           "37.739576790778216"
         ]
       },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
-      }
+      "type": "Feature"
     },
     {
+      "properties": {
+        "popupContent": "Ice Cream & Waffle Cones"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -47,11 +51,7 @@
           "37.787347325398393"
         ]
       },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Ice Cream & Waffle Cones"
-      }
+      "type": "Feature"
     }
-  ],
-  "type": "FeatureCollection"
+  ]
 }
