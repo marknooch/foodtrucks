@@ -1,18 +1,6 @@
 {
+  "type": "FeatureCollection",
   "features": [
-    {
-      "properties": {
-        "popupContent": "Tacos: burritos: quesadillas: tortas: nachos (refried beans: cheese sauce: salsa fresca): carnes (beef: chicken: marinated pork: fried pork): canned beans: rice: sodas: horchata drinks."
-      },
-      "geometry": {
-        "coordinates": [
-          "-122.40673602990493",
-          "37.738830582567026"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature"
-    },
     {
       "properties": {
         "popupContent": "Soft Pretzels: hot dogs: sausage: chips: popcorn: soda: espresso: cappucino: pastries: ice cream: italian sausages: shish-ka-bob: churros: juice: water: various drinks"
@@ -104,6 +92,5 @@
       },
       "type": "Feature"
     }
-  ],
-  "type": "FeatureCollection"
+  ]
 }
