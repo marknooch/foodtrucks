@@ -1,31 +1,6 @@
 {
+  "type": "FeatureCollection",
   "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.45937730954839",
-          "37.739576790778216"
-        ]
-      },
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.4925212449949",
-          "37.721889708708382"
-        ]
-      },
-      "properties": {
-        "popupContent": "Coffee: Vegan Pastries: Vegan Hot Dogs: Vegan Tamales: Te: Vegan Shakes"
-      }
-    },
     {
       "type": "Feature",
       "geometry": {
@@ -96,6 +71,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          "-122.45937730954839",
+          "37.739576790778216"
+        ]
+      },
+      "properties": {
+        "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           "0",
           "37.739576790778216"
         ]
@@ -143,6 +131,5 @@
         "popupContent": "Ice Cream & Waffle Cones"
       }
     }
-  ],
-  "type": "FeatureCollection"
+  ]
 }
