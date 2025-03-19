@@ -1,58 +1,5 @@
 {
-  "type": "FeatureCollection",
   "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Tacos: burritos: quesadillas"
-      },
-      "geometry": {
-        "coordinates": [
-          "-122.39723654373122",
-          "37.787746304359324"
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Tacos: burritos: quesadillas"
-      },
-      "geometry": {
-        "coordinates": [
-          "-122.40241859729358",
-          "37.787746304359324"
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Gyros: Kebabs: soft drinks: and water"
-      },
-      "geometry": {
-        "coordinates": [
-          "-122.39863358940373",
-          "37.791258708308668"
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
-      },
-      "geometry": {
-        "coordinates": [
-          "-122.45937730954839",
-          "37.739576790778216"
-        ],
-        "type": "Point"
-      }
-    },
     {
       "type": "Feature",
       "properties": {
@@ -125,6 +72,19 @@
       },
       "geometry": {
         "coordinates": [
+          "-122.45937730954839",
+          "37.739576790778216"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
+      },
+      "geometry": {
+        "coordinates": [
           "0",
           "37.739576790778216"
         ],
@@ -143,6 +103,46 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Tacos: burritos: quesadillas"
+      },
+      "geometry": {
+        "coordinates": [
+          "-122.39723654373122",
+          "37.787746304359324"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Tacos: burritos: quesadillas"
+      },
+      "geometry": {
+        "coordinates": [
+          "-122.40241859729358",
+          "37.787746304359324"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Gyros: Kebabs: soft drinks: and water"
+      },
+      "geometry": {
+        "coordinates": [
+          "-122.39863358940373",
+          "37.791258708308668"
+        ],
+        "type": "Point"
+      }
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
