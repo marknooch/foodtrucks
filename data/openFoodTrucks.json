@@ -1,58 +1,5 @@
 {
-  "type": "FeatureCollection",
   "features": [
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.39863358940373",
-          "37.791258708308668"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Gyros: Kebabs: soft drinks: and water"
-      }
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.4025671755779",
-          "37.792887895477385"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Halal Gyro over Rice: Halal Chicken over Rice: Halal Gyro: and Chicken Sandwich"
-      }
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.39486523862108",
-          "37.792887895477385"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Halal Gyro over Rice: Halal Chicken over Rice: Halal Gyro: and Chicken Sandwich"
-      }
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.45937730954839",
-          "37.739576790778216"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
-      }
-    },
     {
       "geometry": {
         "coordinates": [
@@ -199,19 +146,6 @@
     {
       "geometry": {
         "coordinates": [
-          "-122.40689189299718",
-          "37.786635282568959"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Soft Pretzels: hot dogs: sausage: chips: popcorn: soda: espresso: cappucino: pastries: ice cream: italian sausages: shish-ka-bob: churros: juice: water: various drinks"
-      }
-    },
-    {
-      "geometry": {
-        "coordinates": [
           "-122.4095912604668",
           "37.78916114986874"
         ],
@@ -220,19 +154,6 @@
       "type": "Feature",
       "properties": {
         "popupContent": "Hot coffee: iced coffee: hot chocolate: tea: pastries"
-      }
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          "-122.40742266827704",
-          "37.784906148887941"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: soda: espresso: cappucino: pastry: ica cream: ices: italian sausage: shish-ka-bob: churros: juice: water: various drinks"
       }
     },
     {
@@ -251,19 +172,6 @@
     {
       "geometry": {
         "coordinates": [
-          "-122.40661576107294",
-          "37.785773234875755"
-        ],
-        "type": "Point"
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: sodea: coffee: espresso: cappucino: pastries: ice cream: Italian sausages: shish-ka-bob: churros: juice: water: various drinks."
-      }
-    },
-    {
-      "geometry": {
-        "coordinates": [
           "-122.43301077434302",
           "37.78916114986874"
         ],
@@ -277,7 +185,7 @@
     {
       "geometry": {
         "coordinates": [
-          "-122.40375455824538",
+          "-122.40135328093122",
           "37.78916114986874"
         ],
         "type": "Point"
@@ -290,7 +198,46 @@
     {
       "geometry": {
         "coordinates": [
-          "-122.40135328093122",
+          "-122.40689189299718",
+          "37.786635282568959"
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Soft Pretzels: hot dogs: sausage: chips: popcorn: soda: espresso: cappucino: pastries: ice cream: italian sausages: shish-ka-bob: churros: juice: water: various drinks"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-122.40742266827704",
+          "37.784906148887941"
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: soda: espresso: cappucino: pastry: ica cream: ices: italian sausage: shish-ka-bob: churros: juice: water: various drinks"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-122.40661576107294",
+          "37.785773234875755"
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: sodea: coffee: espresso: cappucino: pastries: ice cream: Italian sausages: shish-ka-bob: churros: juice: water: various drinks."
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-122.40375455824538",
           "37.78916114986874"
         ],
         "type": "Point"
@@ -329,6 +276,19 @@
     {
       "geometry": {
         "coordinates": [
+          "-122.45937730954839",
+          "37.739576790778216"
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
           "0",
           "37.739576790778216"
         ],
@@ -338,6 +298,46 @@
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
       }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-122.39863358940373",
+          "37.791258708308668"
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Gyros: Kebabs: soft drinks: and water"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-122.4025671755779",
+          "37.792887895477385"
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Halal Gyro over Rice: Halal Chicken over Rice: Halal Gyro: and Chicken Sandwich"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-122.39486523862108",
+          "37.792887895477385"
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Halal Gyro over Rice: Halal Chicken over Rice: Halal Gyro: and Chicken Sandwich"
+      }
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
