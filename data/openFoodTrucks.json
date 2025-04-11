@@ -1,5 +1,45 @@
 {
+  "type": "FeatureCollection",
   "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.39863358940373",
+          "37.791258708308668"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Gyros: Kebabs: soft drinks: and water"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.45937730954839",
+          "37.739576790778216"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.4925212449949",
+          "37.721889708708382"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Coffee: Vegan Pastries: Vegan Hot Dogs: Vegan Tamales: Te: Vegan Shakes"
+      }
+    },
     {
       "geometry": {
         "type": "Point",
@@ -95,19 +135,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-122.4925212449949",
-          "37.721889708708382"
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Coffee: Vegan Pastries: Vegan Hot Dogs: Vegan Tamales: Te: Vegan Shakes"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "-122.40689189299718",
           "37.786635282568959"
         ]
@@ -173,19 +200,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-122.45937730954839",
-          "37.739576790778216"
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "0",
           "37.739576790778216"
         ]
@@ -220,20 +234,6 @@
       "properties": {
         "popupContent": "Ice Cream: Waffle Cones"
       }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.39863358940373",
-          "37.791258708308668"
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Gyros: Kebabs: soft drinks: and water"
-      }
     }
-  ],
-  "type": "FeatureCollection"
+  ]
 }
