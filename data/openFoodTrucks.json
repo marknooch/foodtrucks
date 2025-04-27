@@ -1,6 +1,8 @@
 {
+  "type": "FeatureCollection",
   "features": [
     {
+      "type": "Feature",
       "properties": {
         "popupContent": "Burritos: Tacos: Quesadillas: Tortas: Carne Asada Fries and various drinks"
       },
@@ -10,10 +12,10 @@
           "37.778813468229082"
         ],
         "type": "Point"
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "properties": {
         "popupContent": "Burritos: Tacos: Quesadillas: Tortas: Carne Asada Fries and various drinks"
       },
@@ -23,10 +25,10 @@
           "37.77869435998732"
         ],
         "type": "Point"
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "properties": {
         "popupContent": "Burritos: Tacos: Quesadillas: Tortas: Carne Asada Fries and various drinks"
       },
@@ -36,10 +38,10 @@
           "37.778813468229082"
         ],
         "type": "Point"
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "properties": {
         "popupContent": "Burritos: Tacos: Quesadillas: Tortas: Carne Asada Fries and various drinks"
       },
@@ -49,9 +51,7 @@
           "37.77869435998732"
         ],
         "type": "Point"
-      },
-      "type": "Feature"
+      }
     }
-  ],
-  "type": "FeatureCollection"
+  ]
 }
