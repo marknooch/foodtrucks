@@ -1,7 +1,5 @@
 {
-  "type": "FeatureCollection",
   "features": {
-    "type": "Feature",
     "geometry": {
       "coordinates": [
         "-122.4077185090006",
@@ -11,6 +9,8 @@
     },
     "properties": {
       "popupContent": "Ice Cream & Waffle Cones"
-    }
-  }
+    },
+    "type": "Feature"
+  },
+  "type": "FeatureCollection"
 }
