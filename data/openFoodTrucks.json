@@ -1,15 +1,15 @@
 {
   "features": {
     "type": "Feature",
+    "properties": {
+      "popupContent": "Tacos: Burritos: Tortas: Quesadillas: Chips & Salsa & Various Beverages"
+    },
     "geometry": {
       "coordinates": [
         "-122.38700019629786",
         "37.752836626915702"
       ],
       "type": "Point"
-    },
-    "properties": {
-      "popupContent": "Tacos: Burritos: Tortas: Quesadillas: Chips & Salsa & Various Beverages"
     }
   },
   "type": "FeatureCollection"
