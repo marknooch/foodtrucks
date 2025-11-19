@@ -1,5 +1,4 @@
 {
-  "type": "FeatureCollection",
   "features": {
     "properties": {
       "popupContent": "Tacos: Burritos: Tortas: Quesadillas: Chips & Salsa & Various Beverages"
@@ -12,5 +11,6 @@
       "type": "Point"
     },
     "type": "Feature"
-  }
+  },
+  "type": "FeatureCollection"
 }
