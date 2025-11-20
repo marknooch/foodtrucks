@@ -1,13 +1,12 @@
 {
-  "type": "FeatureCollection",
   "features": [
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-122.38700019629786",
           "37.752836626915702"
-        ],
-        "type": "Point"
+        ]
       },
       "properties": {
         "popupContent": "Tacos: Burritos: Tortas: Quesadillas: Chips & Salsa & Various Beverages"
@@ -16,11 +15,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-122.3970441344819",
           "37.781163614417096"
-        ],
-        "type": "Point"
+        ]
       },
       "properties": {
         "popupContent": "Everything"
@@ -29,11 +28,11 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-122.3932290415377",
           "37.781163614417096"
-        ],
-        "type": "Point"
+        ]
       },
       "properties": {
         "popupContent": "Everything"
@@ -42,16 +41,17 @@
     },
     {
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-122.40661921344578",
           "37.781434998453697"
-        ],
-        "type": "Point"
+        ]
       },
       "properties": {
         "popupContent": "Multiple Food Trucks & Food Types"
       },
       "type": "Feature"
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
