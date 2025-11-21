@@ -1,5 +1,4 @@
 {
-  "type": "FeatureCollection",
   "features": [
     {
       "geometry": {
@@ -9,10 +8,10 @@
           "37.798811568758893"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "everything except for hot dogs"
-      },
-      "type": "Feature"
+      }
     },
     {
       "geometry": {
@@ -22,10 +21,10 @@
           "37.752836626915702"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: Burritos: Tortas: Quesadillas: Chips & Salsa & Various Beverages"
-      },
-      "type": "Feature"
+      }
     },
     {
       "geometry": {
@@ -35,10 +34,10 @@
           "37.777830344816408"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Everything"
-      },
-      "type": "Feature"
+      }
     },
     {
       "geometry": {
@@ -48,10 +47,10 @@
           "37.798811568758893"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "everything except for hot dogs"
-      },
-      "type": "Feature"
+      }
     },
     {
       "geometry": {
@@ -61,10 +60,10 @@
           "37.777830344816408"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Everything"
-      },
-      "type": "Feature"
+      }
     },
     {
       "geometry": {
@@ -74,10 +73,10 @@
           "37.798811568758893"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "everything except for hot dogs"
-      },
-      "type": "Feature"
+      }
     },
     {
       "geometry": {
@@ -87,10 +86,11 @@
           "37.798811568758893"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "everything except for hot dogs"
-      },
-      "type": "Feature"
+      }
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
