@@ -1,5 +1,6 @@
 {
   "features": {
+    "type": "Feature",
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7,7 +8,6 @@
         "37.776038510576427"
       ]
     },
-    "type": "Feature",
     "properties": {
       "popupContent": "everything except for hot dogs"
     }
