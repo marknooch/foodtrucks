@@ -1,4 +1,5 @@
 {
+  "type": "FeatureCollection",
   "features": [
     {
       "geometry": {
@@ -8,10 +9,10 @@
         ],
         "type": "Point"
       },
-      "type": "Feature",
       "properties": {
         "popupContent": "everything except for hot dogs"
-      }
+      },
+      "type": "Feature"
     },
     {
       "geometry": {
@@ -21,10 +22,10 @@
         ],
         "type": "Point"
       },
-      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: Burritos: Tortas: Quesadillas: Chips & Salsa & Various Beverages"
-      }
+      },
+      "type": "Feature"
     },
     {
       "geometry": {
@@ -34,10 +35,10 @@
         ],
         "type": "Point"
       },
-      "type": "Feature",
       "properties": {
         "popupContent": "Everything"
-      }
+      },
+      "type": "Feature"
     },
     {
       "geometry": {
@@ -47,10 +48,10 @@
         ],
         "type": "Point"
       },
-      "type": "Feature",
       "properties": {
         "popupContent": "everything except for hot dogs"
-      }
+      },
+      "type": "Feature"
     },
     {
       "geometry": {
@@ -60,10 +61,10 @@
         ],
         "type": "Point"
       },
-      "type": "Feature",
       "properties": {
         "popupContent": "Everything"
-      }
+      },
+      "type": "Feature"
     },
     {
       "geometry": {
@@ -73,10 +74,10 @@
         ],
         "type": "Point"
       },
-      "type": "Feature",
       "properties": {
         "popupContent": "everything except for hot dogs"
-      }
+      },
+      "type": "Feature"
     },
     {
       "geometry": {
@@ -86,10 +87,10 @@
         ],
         "type": "Point"
       },
-      "type": "Feature",
       "properties": {
         "popupContent": "everything except for hot dogs"
-      }
+      },
+      "type": "Feature"
     },
     {
       "geometry": {
@@ -99,10 +100,10 @@
         ],
         "type": "Point"
       },
-      "type": "Feature",
       "properties": {
         "popupContent": "Latin Food: Tacos: Pupusas: Vegetables: Salad: Waters: Sodas"
-      }
+      },
+      "type": "Feature"
     },
     {
       "geometry": {
@@ -112,10 +113,10 @@
         ],
         "type": "Point"
       },
-      "type": "Feature",
       "properties": {
         "popupContent": "Latin Food: Tacos: Pupusas: Vegetables: Salad: Waters: Sodas"
-      }
+      },
+      "type": "Feature"
     },
     {
       "geometry": {
@@ -125,10 +126,10 @@
         ],
         "type": "Point"
       },
-      "type": "Feature",
       "properties": {
         "popupContent": "Latin Food: Tacos: Pupusas: Vegetables: Salad: Waters: Sodas"
-      }
+      },
+      "type": "Feature"
     },
     {
       "geometry": {
@@ -138,11 +139,10 @@
         ],
         "type": "Point"
       },
-      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: burritos: quesadillas: tortas: nachos (refried beans: cheese sauce: salsa fresca): carnes (beef: chicken: marinated pork: fried pork): canned beans: rice: sodas: horchata drinks."
-      }
+      },
+      "type": "Feature"
     }
-  ],
-  "type": "FeatureCollection"
+  ]
 }
