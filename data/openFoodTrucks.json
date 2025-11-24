@@ -1,70 +1,70 @@
 {
+  "type": "FeatureCollection",
   "features": [
     {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "everything except for hot dogs"
-      },
       "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.39179682107691",
-          "37.782542731255568"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Tacos: Burritos: Tortas: Quesadillas: Chips & Salsa & Various Beverages"
-      },
-      "geometry": {
-        "type": "Point",
         "coordinates": [
           "-122.38700019629786",
           "37.752836626915702"
-        ]
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Tacos: Burritos: Tortas: Quesadillas: Chips & Salsa & Various Beverages"
       }
     },
     {
+      "geometry": {
+        "coordinates": [
+          "-122.39179682107691",
+          "37.782542731255568"
+        ],
+        "type": "Point"
+      },
       "type": "Feature",
       "properties": {
         "popupContent": "everything except for hot dogs"
-      },
+      }
+    },
+    {
       "geometry": {
-        "type": "Point",
         "coordinates": [
           "-122.39961794865545",
           "37.782542731255568"
-        ]
-      }
-    },
-    {
+        ],
+        "type": "Point"
+      },
       "type": "Feature",
       "properties": {
         "popupContent": "everything except for hot dogs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.40209599456323",
-          "37.782542731255568"
-        ]
       }
     },
     {
+      "geometry": {
+        "coordinates": [
+          "-122.40209599456323",
+          "37.782542731255568"
+        ],
+        "type": "Point"
+      },
       "type": "Feature",
       "properties": {
-        "popupContent": "Tacos: burritos: quesadillas: tortas: nachos (refried beans: cheese sauce: salsa fresca): carnes (beef: chicken: marinated pork: fried pork): canned beans: rice: sodas: horchata drinks."
-      },
+        "popupContent": "everything except for hot dogs"
+      }
+    },
+    {
       "geometry": {
-        "type": "Point",
         "coordinates": [
           "-122.40673602990493",
           "37.738830582567026"
-        ]
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Tacos: burritos: quesadillas: tortas: nachos (refried beans: cheese sauce: salsa fresca): carnes (beef: chicken: marinated pork: fried pork): canned beans: rice: sodas: horchata drinks."
       }
     }
-  ],
-  "type": "FeatureCollection"
+  ]
 }
