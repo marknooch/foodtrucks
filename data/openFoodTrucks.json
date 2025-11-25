@@ -1,83 +1,174 @@
 {
-  "type": "FeatureCollection",
   "features": [
     {
-      "properties": {
-        "popupContent": "Tacos: Burritos: Tortas: Quesadillas: Chips & Salsa & Various Beverages"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           "-122.38700019629786",
           "37.752836626915702"
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Tacos: Burritos: Tortas: Quesadillas: Chips & Salsa & Various Beverages"
       }
     },
     {
-      "properties": {
-        "popupContent": "Everything"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           "-122.3970441344819",
           "37.781163614417096"
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Everything"
       }
     },
     {
-      "properties": {
-        "popupContent": "Everything"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           "-122.3932290415377",
           "37.781163614417096"
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Everything"
       }
     },
     {
-      "properties": {
-        "popupContent": "Tacos: burritos: quesadillas: tortas: nachos (refried beans: cheese sauce: salsa fresca): carnes (beef: chicken: marinated pork: fried pork): canned beans: rice: sodas: horchata drinks."
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.40661921344578",
+          "37.781434998453697"
+        ]
       },
       "type": "Feature",
+      "properties": {
+        "popupContent": "Multiple Food Trucks & Food Types"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.39610066847152",
+          "37.792274296118016"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Latin Food: Tacos: Pupusas: Vegetables: Salad: Waters: Sodas"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.39610066847152",
+          "37.788387888445406"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Latin Food: Tacos: Pupusas: Vegetables: Salad: Waters: Sodas"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.40126969523558",
+          "37.792274296118016"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Latin Food: Tacos: Pupusas: Vegetables: Salad: Waters: Sodas"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.40126969523558",
+          "37.788387888445406"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Latin Food: Tacos: Pupusas: Vegetables: Salad: Waters: Sodas"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.40018504988889",
+          "37.792274296118016"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Latin Food: Tacos: Pupusas: Vegetables: Salad: Waters: Sodas"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.40018504988889",
+          "37.788387888445406"
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Latin Food: Tacos: Pupusas: Vegetables: Salad: Waters: Sodas"
+      }
+    },
+    {
       "geometry": {
         "type": "Point",
         "coordinates": [
           "-122.40673602990493",
           "37.738830582567026"
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Tacos: burritos: quesadillas: tortas: nachos (refried beans: cheese sauce: salsa fresca): carnes (beef: chicken: marinated pork: fried pork): canned beans: rice: sodas: horchata drinks."
       }
     },
     {
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Various Drinks"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           "-122.42057533514163",
           "37.768221393081411"
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Tacos: Burritos: Quesadillas: Various Drinks"
       }
     },
     {
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Various Drinks"
-      },
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           "-122.42032247306807",
           "37.768221393081411"
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Tacos: Burritos: Quesadillas: Various Drinks"
       }
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
