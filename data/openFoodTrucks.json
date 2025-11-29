@@ -1,7 +1,7 @@
 {
-  "type": "FeatureCollection",
   "features": [
     {
+      "type": "Feature",
       "geometry": {
         "coordinates": [
           "-122.38700019629786",
@@ -11,10 +11,10 @@
       },
       "properties": {
         "popupContent": "Tacos: Burritos: Tortas: Quesadillas: Chips & Salsa & Various Beverages"
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "coordinates": [
           "-122.40673602990493",
@@ -24,8 +24,8 @@
       },
       "properties": {
         "popupContent": "Tacos: burritos: quesadillas: tortas: nachos (refried beans: cheese sauce: salsa fresca): carnes (beef: chicken: marinated pork: fried pork): canned beans: rice: sodas: horchata drinks."
-      },
-      "type": "Feature"
+      }
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
