@@ -9,23 +9,10 @@
           "37.787347325398393"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Ice Cream & Waffle Cones"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.38700019629786",
-          "37.752836626915702"
-        ]
-      },
-      "properties": {
-        "popupContent": "Tacos: Burritos: Tortas: Quesadillas: Chips & Salsa & Various Beverages"
-      },
-      "type": "Feature"
+      }
     },
     {
       "geometry": {
@@ -35,10 +22,23 @@
           "37.776038510576427"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "everything except for hot dogs"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.38700019629786",
+          "37.752836626915702"
+        ]
       },
-      "type": "Feature"
+      "type": "Feature",
+      "properties": {
+        "popupContent": "Tacos: Burritos: Tortas: Quesadillas: Chips & Salsa & Various Beverages"
+      }
     },
     {
       "geometry": {
@@ -48,10 +48,10 @@
           "37.776038510576427"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "everything except for hot dogs"
-      },
-      "type": "Feature"
+      }
     },
     {
       "geometry": {
@@ -61,10 +61,10 @@
           "37.776038510576427"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "everything except for hot dogs"
-      },
-      "type": "Feature"
+      }
     },
     {
       "geometry": {
@@ -74,10 +74,10 @@
           "37.738830582567026"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: burritos: quesadillas: tortas: nachos (refried beans: cheese sauce: salsa fresca): carnes (beef: chicken: marinated pork: fried pork): canned beans: rice: sodas: horchata drinks."
-      },
-      "type": "Feature"
+      }
     },
     {
       "geometry": {
@@ -87,10 +87,10 @@
           "37.766870819282303"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Various Drinks"
-      },
-      "type": "Feature"
+      }
     },
     {
       "geometry": {
@@ -100,10 +100,10 @@
           "37.766870819282303"
         ]
       },
+      "type": "Feature",
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Various Drinks"
-      },
-      "type": "Feature"
+      }
     }
   ]
 }
