@@ -1,44 +1,16 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Ice Cream & Waffle Cones"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.4077185090006",
-          "37.787347325398393"
-        ]
-      }
+  "features": {
+    "properties": {
+      "popupContent": "Ice Cream & Waffle Cones"
     },
-    {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Ice Cream: Waffle Cones"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.40135328093122",
-          "37.789121900046254"
-        ]
-      }
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-122.4077185090006",
+        "37.787347325398393"
+      ]
     },
-    {
-      "type": "Feature",
-      "properties": {
-        "popupContent": "Ice Cream: Waffle Cones"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.40241859729358",
-          "37.789121900046254"
-        ]
-      }
-    }
-  ]
+    "type": "Feature"
+  }
 }
