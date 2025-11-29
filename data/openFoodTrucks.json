@@ -1,9 +1,6 @@
 {
   "features": [
     {
-      "properties": {
-        "popupContent": "Ice Cream: Waffle Cones"
-      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -11,12 +8,12 @@
           "37.789121900046254"
         ],
         "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Ice Cream: Waffle Cones"
       }
     },
     {
-      "properties": {
-        "popupContent": "Ice Cream: Waffle Cones"
-      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -24,12 +21,12 @@
           "37.789121900046254"
         ],
         "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Ice Cream: Waffle Cones"
       }
     },
     {
-      "properties": {
-        "popupContent": "Tacos: Burritos: Tortas: Quesadillas: Chips & Salsa & Various Beverages"
-      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -37,12 +34,12 @@
           "37.752836626915702"
         ],
         "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Tacos: Burritos: Tortas: Quesadillas: Chips & Salsa & Various Beverages"
       }
     },
     {
-      "properties": {
-        "popupContent": "Tacos: burritos: quesadillas: tortas: nachos (refried beans: cheese sauce: salsa fresca): carnes (beef: chicken: marinated pork: fried pork): canned beans: rice: sodas: horchata drinks."
-      },
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -50,6 +47,9 @@
           "37.738830582567026"
         ],
         "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Tacos: burritos: quesadillas: tortas: nachos (refried beans: cheese sauce: salsa fresca): carnes (beef: chicken: marinated pork: fried pork): canned beans: rice: sodas: horchata drinks."
       }
     }
   ],
