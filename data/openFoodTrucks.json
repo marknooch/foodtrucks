@@ -41,26 +41,13 @@
     },
     {
       "properties": {
-        "popupContent": "Everything"
+        "popupContent": "Tacos: Burritos: Quesadillas: Nachos Alambres: Choice of Meat: Carne Asada: Carnitas: Pollo: Al Pastor Camarones"
       },
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          "-122.3970441344819",
-          "37.781163614417096"
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "properties": {
-        "popupContent": "Everything"
-      },
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.3932290415377",
-          "37.781163614417096"
+          "-122.42260358516438",
+          "37.784569434609786"
         ],
         "type": "Point"
       }
@@ -111,19 +98,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          "-122.42260358516438",
-          "37.784569434609786"
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Nachos Alambres: Choice of Meat: Carne Asada: Carnitas: Pollo: Al Pastor Camarones"
-      },
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           "-122.42256813313709",
           "37.784569434609786"
         ],
@@ -152,6 +126,32 @@
         "coordinates": [
           "-122.41610489253189",
           "37.768485244380287"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Everything"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.3970441344819",
+          "37.781163614417096"
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "popupContent": "Everything"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          "-122.3932290415377",
+          "37.781163614417096"
         ],
         "type": "Point"
       }
