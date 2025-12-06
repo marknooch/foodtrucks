@@ -1,14 +1,13 @@
 {
-  "type": "FeatureCollection",
   "features": [
     {
       "type": "Feature",
       "geometry": {
-        "type": "Point",
         "coordinates": [
           "-122.4077185090006",
           "37.787347325398393"
-        ]
+        ],
+        "type": "Point"
       },
       "properties": {
         "popupContent": "Ice Cream & Waffle Cones"
@@ -17,11 +16,11 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Point",
         "coordinates": [
           "-122.40135328093122",
           "37.789121900046254"
-        ]
+        ],
+        "type": "Point"
       },
       "properties": {
         "popupContent": "Ice Cream: Waffle Cones"
@@ -30,11 +29,11 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Point",
         "coordinates": [
           "-122.40241859729358",
           "37.789121900046254"
-        ]
+        ],
+        "type": "Point"
       },
       "properties": {
         "popupContent": "Ice Cream: Waffle Cones"
@@ -43,11 +42,11 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Point",
         "coordinates": [
           "-122.42248440416165",
           "37.768010986338524"
-        ]
+        ],
+        "type": "Point"
       },
       "properties": {
         "popupContent": "Burritos: Tacos: Tortas: Quesadillas & Various Drinks."
@@ -56,11 +55,11 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Point",
         "coordinates": [
           "-122.4158078824267",
           "37.77869435998732"
-        ]
+        ],
+        "type": "Point"
       },
       "properties": {
         "popupContent": "Burritos: Tacos: Quesadillas: Tortas: Carne Asada Fries and various drinks"
@@ -69,11 +68,11 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Point",
         "coordinates": [
           "-122.4158078824267",
           "37.778813468229082"
-        ]
+        ],
+        "type": "Point"
       },
       "properties": {
         "popupContent": "Burritos: Tacos: Quesadillas: Tortas: Carne Asada Fries and various drinks"
@@ -82,11 +81,11 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Point",
         "coordinates": [
           "-122.4158078824267",
           "37.77869435998732"
-        ]
+        ],
+        "type": "Point"
       },
       "properties": {
         "popupContent": "Burritos: Tacos: Quesadillas: Tortas: Carne Asada Fries and various drinks"
@@ -95,15 +94,16 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Point",
         "coordinates": [
           "-122.4158078824267",
           "37.778813468229082"
-        ]
+        ],
+        "type": "Point"
       },
       "properties": {
         "popupContent": "Burritos: Tacos: Quesadillas: Tortas: Carne Asada Fries and various drinks"
       }
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
