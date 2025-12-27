@@ -1,7 +1,6 @@
 {
   "features": [
     {
-      "type": "Feature",
       "geometry": {
         "coordinates": [
           "-122.38700019629786",
@@ -11,10 +10,10 @@
       },
       "properties": {
         "popupContent": "Tacos: Burritos: Tortas: Quesadillas: Chips & Salsa & Various Beverages"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
         "coordinates": [
           "-122.40673602990493",
@@ -24,10 +23,10 @@
       },
       "properties": {
         "popupContent": "Tacos: burritos: quesadillas: tortas: nachos (refried beans: cheese sauce: salsa fresca): carnes (beef: chicken: marinated pork: fried pork): canned beans: rice: sodas: horchata drinks."
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
         "coordinates": [
           "-122.40661576107294",
@@ -37,10 +36,10 @@
       },
       "properties": {
         "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: sodea: coffee: espresso: cappucino: pastries: ice cream: Italian sausages: shish-ka-bob: churros: juice: water: various drinks."
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
         "coordinates": [
           "-122.40742266827704",
@@ -50,10 +49,10 @@
       },
       "properties": {
         "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: soda: espresso: cappucino: pastry: ica cream: ices: italian sausage: shish-ka-bob: churros: juice: water: various drinks"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
         "coordinates": [
           "-122.40689189299718",
@@ -63,10 +62,10 @@
       },
       "properties": {
         "popupContent": "Soft Pretzels: hot dogs: sausage: chips: popcorn: soda: espresso: cappucino: pastries: ice cream: italian sausages: shish-ka-bob: churros: juice: water: various drinks"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
         "coordinates": [
           "-122.41746613186956",
@@ -76,10 +75,10 @@
       },
       "properties": {
         "popupContent": "Tacos: burritos: soda & juice"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
         "coordinates": [
           "-122.4114199662057",
@@ -89,10 +88,10 @@
       },
       "properties": {
         "popupContent": "Tacos: burritos: soda & juice"
-      }
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
         "coordinates": [
           "-122.41400704302406",
@@ -102,7 +101,8 @@
       },
       "properties": {
         "popupContent": "Tacos: burritos: soda & juice"
-      }
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"
