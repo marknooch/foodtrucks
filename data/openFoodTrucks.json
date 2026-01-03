@@ -1,13 +1,12 @@
 {
-  "type": "FeatureCollection",
   "features": [
     {
       "geometry": {
-        "type": "Point",
         "coordinates": [
           "-122.4077185090006",
           "37.787347325398393"
-        ]
+        ],
+        "type": "Point"
       },
       "properties": {
         "popupContent": "Ice Cream & Waffle Cones"
@@ -16,24 +15,11 @@
     },
     {
       "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.39179682107691",
-          "37.776038510576427"
-        ]
-      },
-      "properties": {
-        "popupContent": "everything except for hot dogs"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
         "coordinates": [
           "-122.38700019629786",
           "37.752836626915702"
-        ]
+        ],
+        "type": "Point"
       },
       "properties": {
         "popupContent": "Tacos: Burritos: Tortas: Quesadillas: Chips & Salsa & Various Beverages"
@@ -42,37 +28,24 @@
     },
     {
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          "-122.39961794865545",
-          "37.776038510576427"
-        ]
+          "-122.42260358516438",
+          "37.784569434609786"
+        ],
+        "type": "Point"
       },
       "properties": {
-        "popupContent": "everything except for hot dogs"
+        "popupContent": "Tacos: Burritos: Quesadillas: Nachos Alambres: Choice of Meat: Carne Asada: Carnitas: Pollo: Al Pastor Camarones"
       },
       "type": "Feature"
     },
     {
       "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.40209599456323",
-          "37.776038510576427"
-        ]
-      },
-      "properties": {
-        "popupContent": "everything except for hot dogs"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
         "coordinates": [
           "-122.42248440416165",
           "37.768010986338524"
-        ]
+        ],
+        "type": "Point"
       },
       "properties": {
         "popupContent": "Burritos: Tacos: Tortas: Quesadillas & Various Drinks."
@@ -81,11 +54,11 @@
     },
     {
       "geometry": {
-        "type": "Point",
         "coordinates": [
           "-122.41610489253189",
           "37.768485244380287"
-        ]
+        ],
+        "type": "Point"
       },
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas"
@@ -94,11 +67,11 @@
     },
     {
       "geometry": {
-        "type": "Point",
         "coordinates": [
           "-122.41610489253189",
           "37.768485244380287"
-        ]
+        ],
+        "type": "Point"
       },
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas"
@@ -107,24 +80,11 @@
     },
     {
       "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-122.42260358516438",
-          "37.784569434609786"
-        ]
-      },
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Nachos Alambres: Choice of Meat: Carne Asada: Carnitas: Pollo: Al Pastor Camarones"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "type": "Point",
         "coordinates": [
           "-122.42256813313709",
           "37.784569434609786"
-        ]
+        ],
+        "type": "Point"
       },
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Nachos Alambres: Choice of Meat: Carne Asada: Carnitas: Pollo: Al Pastor Camarones"
@@ -133,11 +93,11 @@
     },
     {
       "geometry": {
-        "type": "Point",
         "coordinates": [
           "-122.41610489253189",
           "37.768485244380287"
-        ]
+        ],
+        "type": "Point"
       },
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas"
@@ -146,11 +106,11 @@
     },
     {
       "geometry": {
-        "type": "Point",
         "coordinates": [
           "-122.41610489253189",
           "37.768485244380287"
-        ]
+        ],
+        "type": "Point"
       },
       "properties": {
         "popupContent": "Tacos: Burritos: Quesadillas: Tortas"
@@ -159,11 +119,11 @@
     },
     {
       "geometry": {
-        "type": "Point",
         "coordinates": [
           "-122.39863358940373",
           "37.791258708308668"
-        ]
+        ],
+        "type": "Point"
       },
       "properties": {
         "popupContent": "Gyros: Kebabs: soft drinks: and water"
@@ -172,50 +132,50 @@
     },
     {
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          "-122.40673602990493",
-          "37.738830582567026"
-        ]
+          "-122.39179682107691",
+          "37.776038510576427"
+        ],
+        "type": "Point"
       },
       "properties": {
-        "popupContent": "Tacos: burritos: quesadillas: tortas: nachos (refried beans: cheese sauce: salsa fresca): carnes (beef: chicken: marinated pork: fried pork): canned beans: rice: sodas: horchata drinks."
+        "popupContent": "everything except for hot dogs"
       },
       "type": "Feature"
     },
     {
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          "-122.42057533514163",
-          "37.766870819282303"
-        ]
+          "-122.39961794865545",
+          "37.776038510576427"
+        ],
+        "type": "Point"
       },
       "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Various Drinks"
+        "popupContent": "everything except for hot dogs"
       },
       "type": "Feature"
     },
     {
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          "-122.42032247306807",
-          "37.766870819282303"
-        ]
+          "-122.40209599456323",
+          "37.776038510576427"
+        ],
+        "type": "Point"
       },
       "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Various Drinks"
+        "popupContent": "everything except for hot dogs"
       },
       "type": "Feature"
     },
     {
       "geometry": {
-        "type": "Point",
         "coordinates": [
           "-122.40238532279395",
           "37.792846595133213"
-        ]
+        ],
+        "type": "Point"
       },
       "properties": {
         "popupContent": "Tacos: burritos: quesadillas"
@@ -224,11 +184,11 @@
     },
     {
       "geometry": {
-        "type": "Point",
         "coordinates": [
           "-122.40661576107294",
           "37.785773234875755"
-        ]
+        ],
+        "type": "Point"
       },
       "properties": {
         "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: sodea: coffee: espresso: cappucino: pastries: ice cream: Italian sausages: shish-ka-bob: churros: juice: water: various drinks."
@@ -237,11 +197,11 @@
     },
     {
       "geometry": {
-        "type": "Point",
         "coordinates": [
           "-122.40742266827704",
           "37.784906148887941"
-        ]
+        ],
+        "type": "Point"
       },
       "properties": {
         "popupContent": "Soft pretzels: hot dogs: sausages: chips: popcorn: soda: espresso: cappucino: pastry: ica cream: ices: italian sausage: shish-ka-bob: churros: juice: water: various drinks"
@@ -250,11 +210,11 @@
     },
     {
       "geometry": {
-        "type": "Point",
         "coordinates": [
           "-122.40689189299718",
           "37.786635282568959"
-        ]
+        ],
+        "type": "Point"
       },
       "properties": {
         "popupContent": "Soft Pretzels: hot dogs: sausage: chips: popcorn: soda: espresso: cappucino: pastries: ice cream: italian sausages: shish-ka-bob: churros: juice: water: various drinks"
@@ -263,11 +223,11 @@
     },
     {
       "geometry": {
-        "type": "Point",
         "coordinates": [
           "-122.41746613186956",
           "37.775548024246895"
-        ]
+        ],
+        "type": "Point"
       },
       "properties": {
         "popupContent": "Tacos: burritos: soda & juice"
@@ -276,11 +236,50 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "coordinates": [
+          "-122.40673602990493",
+          "37.738830582567026"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Tacos: burritos: quesadillas: tortas: nachos (refried beans: cheese sauce: salsa fresca): carnes (beef: chicken: marinated pork: fried pork): canned beans: rice: sodas: horchata drinks."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-122.42057533514163",
+          "37.766870819282303"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Tacos: Burritos: Quesadillas: Various Drinks"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "-122.42032247306807",
+          "37.766870819282303"
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "popupContent": "Tacos: Burritos: Quesadillas: Various Drinks"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
         "coordinates": [
           "-122.4114199662057",
           "37.775548024246895"
-        ]
+        ],
+        "type": "Point"
       },
       "properties": {
         "popupContent": "Tacos: burritos: soda & juice"
@@ -289,16 +288,17 @@
     },
     {
       "geometry": {
-        "type": "Point",
         "coordinates": [
           "-122.41400704302406",
           "37.775548024246895"
-        ]
+        ],
+        "type": "Point"
       },
       "properties": {
         "popupContent": "Tacos: burritos: soda & juice"
       },
       "type": "Feature"
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
