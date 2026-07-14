@@ -1,4 +1,5 @@
 {
+  "type": "FeatureCollection",
   "features": [
     {
       "type": "Feature",
@@ -69,32 +70,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          "-122.42260358516438",
-          "37.785385205930979"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Nachos Alambres: Choice of Meat: Carne Asada: Carnitas: Pollo: Al Pastor Camarones"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.42256813313709",
-          "37.785385205930979"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Tacos: Burritos: Quesadillas: Nachos Alambres: Choice of Meat: Carne Asada: Carnitas: Pollo: Al Pastor Camarones"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           "-122.39863358940373",
           "37.791258708308668"
         ],
@@ -102,32 +77,6 @@
       },
       "properties": {
         "popupContent": "Gyros: Kebabs: soft drinks: and water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.39486523862108",
-          "37.792887895477385"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Halal Gyro over Rice: Halal Chicken over Rice: Halal Gyro: and Chicken Sandwich"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          "-122.4025671755779",
-          "37.792887895477385"
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "popupContent": "Halal Gyro over Rice: Halal Chicken over Rice: Halal Gyro: and Chicken Sandwich"
       }
     },
     {
@@ -364,6 +313,5 @@
         "popupContent": "Tacos: burritos: soda & juice"
       }
     }
-  ],
-  "type": "FeatureCollection"
+  ]
 }
